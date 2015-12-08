@@ -252,46 +252,46 @@ QUEST_LV_0100_20150317_000251	$Mercenário Toby
 QUEST_LV_0100_20150317_000252	$Você quer fazer uma simples tarefa para mim?{nl}Sou um rosto conhecido, então será difícil fazê-la eu mesmo.
 QUEST_LV_0100_20150317_000253	$Se não quiser, então não precisa.{nl}Há pessoas de sobra por aí que podem fazer isso.
 QUEST_LV_0100_20150317_000254	$Você passou.{nl}A força que você possui é enorme.
-QUEST_LV_0100_20150317_000255	$Definitivamente vale a pena.{nl}Mesmo se o Rei gastou todos seus bens construindo o Mausoléu, seu tamanho é enorme.
+QUEST_LV_0100_20150317_000255	$Definitivamente vale a pena.{nl}Mesmo se o Rei gastou todos seus bens construindo o Mausoléu, é enorme.
 QUEST_LV_0100_20150317_000256	$Julgando a partir disso, esses equipamentos não são permitidos.{nl}Não os deixe espalhados.{nl}
-QUEST_LV_0100_20150317_000257	$Okay. Traga-me mais evidências de que aquelas pessoas estão fazendo falsificações.{nl}Faça o que for preciso.
+QUEST_LV_0100_20150317_000257	$Certo. Traga-me mais evidências de que aquelas pessoas fazem falsificações.{nl}Faça o que for preciso.
 QUEST_LV_0100_20150317_000258	$Estou procurando por evidências da falsificação de artefatos.{nl}Sua primeira tarefa será me trazer quaisquer ferramentas de escavação ilegais que encontrar.
-QUEST_LV_0100_20150317_000259	{memo X}$É claro que deve nos mostrar suas habilidades.{nl}Derrotar #pending Desert Chupacabras ou Zinutes serão suficientes para se demonstrar.
+QUEST_LV_0100_20150317_000259	{memo X}$É claro que deve mostrar suas habilidades.{nl}Derrotar #pending Desert Chupacabras ou Zinutes será suficiente.
 QUEST_LV_0100_20150317_000260	$#pending Supply Officer
 QUEST_LV_0100_20150317_000261	$Muito obrigado pela sua ajuda.{nl}Creio que isso será suficiente.{nl}
 QUEST_LV_0100_20150317_000262	{memo X}$)}{nl}Se tiver tempo, por favor diga a nossas tropas para se reunirem.{nl}Se escolher não fazê-lo, você pode apenas ir adiante para Klaipeda.
 QUEST_LV_0100_20150317_000263	$#pending Scout
 QUEST_LV_0100_20150317_000264	$Volte, é perigoso!{nl}Kepas logo marcharão.
-QUEST_LV_0100_20150317_000265	$Oh, você é um #pending Revelator. Deve ser o destino estarmos para lutar juntos. {nl}Deixe-me lhe dar informações privilegiadas.
-QUEST_LV_0100_20150317_000266	$Você mencionou que precisamos nos reunir, certo?{nl}Ajude-me a encontrar algumas bagagens faltantes e irei assim que puder.
+QUEST_LV_0100_20150317_000265	$Oh, você é um #pending Revelator. Deve ser o destino estarmos para lutar juntos. {nl}Deixe-me lhe informar a situação.
+QUEST_LV_0100_20150317_000266	$Você mencionou que precisamos nos reunir, certo?{nl}Ajude-me a encontrar algumas bagagens perdidas e irei assim que puder.
 QUEST_LV_0100_20150317_000267	$Já encontrou meus pertences? Não posso ir sem eles.
 QUEST_LV_0100_20150317_000268	$Muito obrigado. Você os encontrou mais cedo do que esperava.{nl}
 QUEST_LV_0100_20150317_000269	$Se seguir a estrada para o norte, encontrará o #pending Search Scout.{nl}Boa sorte.
 QUEST_LV_0100_20150317_000270	$Laimonas
-QUEST_LV_0100_20150317_000271	{memo X}$Já venerou a Estátua?{nl}Se não, eu realmente recomendaria.
+QUEST_LV_0100_20150317_000271	{memo X}$Já venerou a Estátua?{nl}Se não, eu realmente recomendo.
 QUEST_LV_0100_20150317_000272	$Isso depende de qual Deusa é.{nl}Se seguir a estrada para a direita encontrará a Estátua da Deusa Zemyna.
 QUEST_LV_0100_20150317_000273	{memo x}$Eu realmente me preocupo que os monstros possam danificar a Estátua da Deusa.
 QUEST_LV_0100_20150317_000274	$Estou feliz que a estátua está ilesa.{nl}Os monstros aqui sabem temer a Deusa.{nl}
 QUEST_LV_0100_20150317_000275	$Desça a #pending Shadow Forest Road e deve chegar à Klaipeda pouco depois.{nl}Bem então, que as bênçãos da Deusa estejam com você.
-QUEST_LV_0100_20150317_000276	{memo X}$Por favor, faça-me um favor se está se dirigindo à Klaipeda.{nl}Não é fácil ir de lá para cá de Klaipeda por causa dos #pending Infrorocktors hoje em dia.
+QUEST_LV_0100_20150317_000276	{memo X}$Por favor, faça-me um favor se está se dirigindo à Klaipeda.{nl}Não é fácil ir e vir de Klaipeda por causa dos #pending Infrorocktors hoje em dia.
 QUEST_LV_0100_20150317_000277	$Talvez cuidar das estátuas fará as Deusas retornarem mais cedo...
 QUEST_LV_0100_20150317_000278	{memo X}$Siga a estrada à esquerda do cruzamento do acampamento.{nl}{-scp SCR_DIALOG_NPC_ANIM(
 QUEST_LV_0100_20150317_000279	$)} Você conhecerá as tropas imediatamente.
 QUEST_LV_0100_20150317_000280	$)}Certo, bom trabalho.{nl}Você chegará em Klaipeda logo se seguir a #pending Shadow Forest Road.{nl}Não esqueça visitar Sir Uska.
 QUEST_LV_0100_20150317_000281	$#pending Battle Commander
-QUEST_LV_0100_20150317_000282	$Farei meus homens notificarem as tropas para se reunirem.{nl}Você deve retornar a Sir Titas para informá-lo.
+QUEST_LV_0100_20150317_000282	$Farei meus homens notificarem as tropas para se reunirem.{nl}Você deve informar Sir Titas.
 QUEST_LV_0100_20150317_000283	$A tarefa não deve ser nada muito difícil.{nl}Se não quer ajudar, lhe mandarei para Klaipeda imediatamente.
 QUEST_LV_0100_20150317_000284	$#pending Search Scout
 QUEST_LV_0100_20150317_000285	{memo X}$Certamente é um problema.{nl}Não sabia que Kepas podiam crescer tanto.
 QUEST_LV_0100_20150317_000286	$Um #pending Revelator não deveria estar se dirigindo à Klaipeda ao invés de ficar por aí?
-QUEST_LV_0100_20150317_000287	{memo X}$Me sinto tão aliviado de ser designado para #pending Western Woods.{nl}Há alguns lugares onde você preferiria morrer do que ser designado.
+QUEST_LV_0100_20150317_000287	{memo X}$Estou tão aliviado de ser designado para #pending Western Woods.{nl}Há lugares onde você preferiria morrer a ser designado.
 QUEST_LV_0100_20150317_000288	{memo X}$Quando ver uma Estátua de Deusa, experimente venerá-la.{nl}Certamente algo agradável acontecerá.
 QUEST_LV_0100_20150317_000289	$Esta é uma área perigosa. O que está fazendo aqui?
 QUEST_LV_0100_20150317_000290	$Muito obrigado.{nl}Devo reportar o #pending Large Kepa perambulante a Titas.
-QUEST_LV_0100_20150317_000291	{memo X}$Estranho... Esse não é o tipo de monstro que se enfrentaria em um lugar como esse.{nl}Deve ser difícil viajar.
+QUEST_LV_0100_20150317_000291	{memo X}$Estranho... Esse não é o tipo de monstro que se encontra em um lugar como esse.{nl}Deve ser difícil viajar.
 QUEST_LV_0100_20150317_000292	{memo X}$Se reunir já?{nl}Isso é duro. Ainda há um monte de missões.
 QUEST_LV_0100_20150317_000293	{memo X}$Primeiro, derrote os Hanamings ao redor daqui.{nl}Então, colete suas pétalas.
-QUEST_LV_0100_20150317_000294	$Ainda que isso não foi sobre os #pending Revelators, mas as Deusas retornando ao invés,{nl}eu não abandonaria minha missão antes que ela acabe.
+QUEST_LV_0100_20150317_000294	$Ainda que isso não foi sobre os #pending Revelators, é sim o retorno das Deusas,{nl}eu não abandonaria minha missão antes que ela acabe.
 QUEST_LV_0100_20150317_000295	{memo X}$Sim. Isso deve ser o suficiente.{nl}Aqui está uma pílula que recuperará sua #pending stamina instantaneamente. Tenho o bastante disso, então lhe darei isso como um presente.{nl}
 QUEST_LV_0100_20150317_000296	{memo X}$#pending Stamina é consumida quando você se movimenta.{nl}Você pode recuperar #pending stamina destruindo um #pending Tree Root Crystal ou descansando.{nl}Porém você pode não ter tempo para isso quando estiver sendo perseguido por monstros.{nl}É quando essa pílula é útil. 
 QUEST_LV_0100_20150317_000297	{memo X}$Ouvi notícias de meus homens e estava me preocupando.{nl}Tudo está bem se acaba bem.
