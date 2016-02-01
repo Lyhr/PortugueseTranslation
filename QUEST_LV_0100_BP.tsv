@@ -398,106 +398,106 @@ QUEST_LV_0100_20150317_000397	#pending Equipment Merchant
 QUEST_LV_0100_20150317_000398	Mesmo em tempos como esse, esforço-me para buscar os melhores itens que posso. Não se pode facilitar em termos de lidar com seus clientes.
 QUEST_LV_0100_20150317_000399	Monstros atacam e roubam de pessoas que compram itens de mim. Acredito que eles sabem que posso distinguir quais itens são bons.{nl}Sinto pena daqueles que foram atacados mas isso também prova que os itens valem a pena.
 QUEST_LV_0100_20150317_000400	$Os monstros nunca atacaram Klaipeda, mas com Sir Uska fora, é difícil ficar à vontade.{nl}Deve-se ter cuidado em tempos como esse.
-QUEST_LV_0100_20150317_000401
-QUEST_LV_0100_20150317_000402
-QUEST_LV_0100_20150317_000403
-QUEST_LV_0100_20150317_000404
-QUEST_LV_0100_20150317_000405
-QUEST_LV_0100_20150317_000406
-QUEST_LV_0100_20150317_000407
-QUEST_LV_0100_20150317_000408
-QUEST_LV_0100_20150317_000409
-QUEST_LV_0100_20150317_000410
-QUEST_LV_0100_20150317_000411
-QUEST_LV_0100_20150317_000412
-QUEST_LV_0100_20150317_000413
-QUEST_LV_0100_20150317_000414
-QUEST_LV_0100_20150317_000415
-QUEST_LV_0100_20150317_000416
-QUEST_LV_0100_20150317_000417
-QUEST_LV_0100_20150317_000418
-QUEST_LV_0100_20150317_000419
-QUEST_LV_0100_20150317_000420
-QUEST_LV_0100_20150317_000421
-QUEST_LV_0100_20150317_000422
-QUEST_LV_0100_20150317_000423
-QUEST_LV_0100_20150317_000424
-QUEST_LV_0100_20150317_000425
-QUEST_LV_0100_20150317_000426
-QUEST_LV_0100_20150317_000427
-QUEST_LV_0100_20150317_000428
-QUEST_LV_0100_20150317_000429
-QUEST_LV_0100_20150317_000430
-QUEST_LV_0100_20150317_000431
-QUEST_LV_0100_20150317_000432
-QUEST_LV_0100_20150317_000433
-QUEST_LV_0100_20150317_000434
-QUEST_LV_0100_20150317_000435
-QUEST_LV_0100_20150317_000436
-QUEST_LV_0100_20150317_000437
-QUEST_LV_0100_20150317_000438
-QUEST_LV_0100_20150317_000439
-QUEST_LV_0100_20150317_000440
-QUEST_LV_0100_20150317_000441
-QUEST_LV_0100_20150317_000442
-QUEST_LV_0100_20150317_000443
-QUEST_LV_0100_20150317_000444
-QUEST_LV_0100_20150317_000445
-QUEST_LV_0100_20150317_000446
-QUEST_LV_0100_20150317_000447
-QUEST_LV_0100_20150317_000448
-QUEST_LV_0100_20150317_000449
-QUEST_LV_0100_20150317_000450
-QUEST_LV_0100_20150317_000451
-QUEST_LV_0100_20150317_000452
-QUEST_LV_0100_20150317_000453
-QUEST_LV_0100_20150317_000454
-QUEST_LV_0100_20150317_000455
-QUEST_LV_0100_20150317_000456
-QUEST_LV_0100_20150317_000457
-QUEST_LV_0100_20150317_000458
-QUEST_LV_0100_20150317_000459
-QUEST_LV_0100_20150317_000460
-QUEST_LV_0100_20150317_000461
-QUEST_LV_0100_20150317_000462
-QUEST_LV_0100_20150317_000463
-QUEST_LV_0100_20150317_000464
-QUEST_LV_0100_20150317_000465
-QUEST_LV_0100_20150317_000466
-QUEST_LV_0100_20150317_000467
-QUEST_LV_0100_20150317_000468
-QUEST_LV_0100_20150317_000469
-QUEST_LV_0100_20150317_000470
-QUEST_LV_0100_20150317_000471
-QUEST_LV_0100_20150317_000472
-QUEST_LV_0100_20150317_000473
-QUEST_LV_0100_20150317_000474
-QUEST_LV_0100_20150317_000475
-QUEST_LV_0100_20150317_000476
-QUEST_LV_0100_20150317_000477
-QUEST_LV_0100_20150317_000478
-QUEST_LV_0100_20150317_000479
-QUEST_LV_0100_20150317_000480
-QUEST_LV_0100_20150317_000481
-QUEST_LV_0100_20150317_000482
-QUEST_LV_0100_20150317_000483
-QUEST_LV_0100_20150317_000484
-QUEST_LV_0100_20150317_000485
-QUEST_LV_0100_20150317_000486
-QUEST_LV_0100_20150317_000487
-QUEST_LV_0100_20150317_000488
-QUEST_LV_0100_20150317_000489
-QUEST_LV_0100_20150317_000490
-QUEST_LV_0100_20150317_000491
-QUEST_LV_0100_20150317_000492
-QUEST_LV_0100_20150317_000493
-QUEST_LV_0100_20150317_000494
-QUEST_LV_0100_20150317_000495
-QUEST_LV_0100_20150317_000496
-QUEST_LV_0100_20150317_000497
-QUEST_LV_0100_20150317_000498
-QUEST_LV_0100_20150317_000499
-QUEST_LV_0100_20150317_000500
+QUEST_LV_0100_20150317_000401	$Quero viajar com uma arma na mão como um aventurerio... É, não tem jeito de eu poder.
+QUEST_LV_0100_20150317_000402	$Se escutar os soldados, eles usarão termos que apenas eles entendem para fazera as coisas soarem complicadas.{nl}Mas quando pergunto a meu amigo soldado, ele diz que não é como se eles estivessem falando sobre algo importante.
+QUEST_LV_0100_20150317_000403	$Seja cuidadoso com pessoas que vendem armas de monstros sem autorização.{nl}Eles tentarão e o enganarão para que compre coisas inúteis ou lhe venderão coisas a preços ridiculamente altos.
+QUEST_LV_0100_20150317_000404	{memo X}#pending Item Merchant
+QUEST_LV_0100_20150317_000405	$São as pequenas coisas que você esquece de comprar que o fazem se arrepender quando viaja.{nl}Melhor comprar o suficiente delas quando puder.
+QUEST_LV_0100_20150317_000406	$Me sinto mal pelos feridos. Não podemos apenas conviver com os monstros?
+QUEST_LV_0100_20150317_000407	{memo X}Prefereria permanecer seguro e em paz com vendas mais baixas do que ter as vendas aumentadas por pessoas preocupadas com quando os monstros podem atacar.
+QUEST_LV_0100_20150317_000408	$Vendo coisas que as pessoas precisam, mas às vezes penso que teria sido melhor se eu fosse um curador,{nl}porque desse modo poderia estar mais próximo dos exploradores para ajudá-los.
+QUEST_LV_0100_20150317_000409	$Ouço estranhos uivos à distância. Poderia ser o som dos monstros?
+QUEST_LV_0100_20150317_000410	$As pessoas dizem que sou estranho e falo demais, mas não me importo. Mesmo que eu realmente seja estranho como dizem, não significa que os itens que vendo sejam estranhos.
+QUEST_LV_0100_20150317_000411	#pending Blacksmith
+QUEST_LV_0100_20150317_000412	{memo X}Olá.{nl}Posso ajudá-lo a reparar itens mas não posso fabricar novos porque não tenho materiais.{nl}Vá em frente e escolha do que estiver disponível.
+QUEST_LV_0100_20150317_000413	$#pending Klaipeda Resident
+QUEST_LV_0100_20150317_000414	$É verdade que estes são tempos difíceis, mas todos estão procurando pelos soldados.
+QUEST_LV_0100_20150317_000415	$À parte de tudo mais, quero comer até estar cheio.{nl}Você precisa comer para ter força.
+QUEST_LV_0100_20150317_000416	$Por que as Deusas desapareceram?{nl}Todos estão procurando por onde elas foram, mas ninguém está se perguntando por que elas desapareceram.
+QUEST_LV_0100_20150317_000417	$Não consigo comer, dormir ou me mover livremente por causa desses monstros.{nl}Nos velhos tempos, nós costumávamos colher ervas ou frutas em #pending Siauliai Woods.
+QUEST_LV_0100_20150317_000418	$Todos estão falando sobre guerra onde quer que se vá.{nl}Como quem e quantas pessoas estão feridas ou quem está designado a onde.
+QUEST_LV_0100_20150317_000419	$Ouvi que enviarão soldados que não estão sequer treinados para o ninho de monstros.{nl}Podem igualmente reunir os idosos e fazê-los soldados também.
+QUEST_LV_0100_20150317_000420	$Minha vida é apenas um ciclo de ansiedade e raiva.{nl}As Deusas devem retornar logo.
+QUEST_LV_0100_20150317_000421	$Repentinamente há muitas pessoas que tiveram uma #pending Revelation em seus sonhos.{nl}Poderia ser um sinal de que algo está para acontecer novamente?{nl}
+QUEST_LV_0100_20150317_000422	$O bispo de Klaipeda viu uma Deusa em seu sonho.{nl}Também teve um sonho assim, #pending Revelator?
+QUEST_LV_0100_20150317_000423	$Mãe de um Soldado
+QUEST_LV_0100_20150317_000424	{memo X}$)}Meu filho se alistou no Exército.{nl}Ele disse quem iria, se não ele, em tempos difíceis como esse.
+QUEST_LV_0100_20150317_000425	{memo X}$)}Monstros estão aumentando e a floresta é caótica demais para as pessoas viverem.{nl}Ao menos, Klaipeda é segura.
+QUEST_LV_0100_20150317_000426	$)}Mesmo que Klaipeda seja segura, as outras cidades não estão em caos?{nl}Pondo de lado a capital, Fedimian colapsou totalmente exceto por #pending Sacred Area.
+QUEST_LV_0100_20150317_000427	{memo X}$)}É bom que meu filho tenha realizado seu sonho de se tornar soldado...{nl}Mas os monstros estão aumentando e me preocupo que ele possa se ferir.
+QUEST_LV_0100_20150317_000428	$)}Talvez Klaipeda seja onde a Deusa concedeu suas bênçãos.{nl}Espero que as bênçãos também alcancem meu filho no exército.
+QUEST_LV_0100_20150317_000429	$)}Meu marido foi um mineiro. Estou aliviada que ele não seja mais.{nl}Seria perigoso demais se os monstros atacassem em tempos como esses, não seria?
+QUEST_LV_0100_20150317_000430	$)}Muitos refugiados vêm de cidades caídas.{nl}Nossos suprimentos de comida estão acabando, mas ainda temos que ajudar um ao outro.
+QUEST_LV_0100_20150317_000431	$Posso não trazer os itens da melhor qualidade, mas não é necessário ter uma habilidade própria para ter todos os itens?{nl}Preciso trabalhar duro para superar tempos difíceis.
+QUEST_LV_0100_20150317_000432	{memo X}$Acredito que as melhores armas e armaduras são as que você se acostuma por um longo período de tempo.{nl}Para fazer isso, você deve primeiro começar comprando itens bons.
+QUEST_LV_0100_20150317_000433	$Eu costumava arrumar minhas coisas e sair viajando mas suponho que isso seria difícil agora.
+QUEST_LV_0100_20150317_000434	$Tente usar uma variedade de armas. Eventualmente, encontrará uma que lhe sirva.
+QUEST_LV_0100_20150317_000435	$As armaduras que lhe servem garantem sua segurança.
+QUEST_LV_0100_20150317_000436	$Uma única peça de armadura pode significar a diferença entre a vida e a morte. Dê uma olhada e veja se tem tudo o que precisa.
+QUEST_LV_0100_20150317_000437	$Olhar é de graça.
+QUEST_LV_0100_20150317_000438	$Dê uma olhada e veja se precisa de algo.
+QUEST_LV_0100_20150317_000439	$Olhe atentamente. Você pode encontrar algo que pode lhe ajudar.
+QUEST_LV_0100_20150317_000440	$Ás vezes, coisas que você apenas olha sem pensar em nada podem na verdade lhe servir muito bem, então veja e pense sobre isso. 
+QUEST_LV_0100_20150317_000441	$Você pode apenas dar uma olhada. Me procure sempre que precisar de algo.
+QUEST_LV_0100_20150317_000442	$Temos itens o suficiente, então dê uma olhada.
+QUEST_LV_0100_20150317_000443	$Você precisa de boas armas e armaduras para se preparar para os monstros. É isso que estou vendendo.
+QUEST_LV_0100_20150317_000444	$Os itens que tenho à venda são impecáveis. Esses são todos novos.
+QUEST_LV_0100_20150317_000445	$Se não preparar seu equipamento agora, pode se arrepender depois, quando estiver cercado por monstros. Dê uma olhada quando puder.
+QUEST_LV_0100_20150317_000446	$Preparei os melhores itens que posso encontrar. Os preços também não são ruins, então dê uma olhada.
+QUEST_LV_0100_20150317_000447	{memo X}$As coisas que vendo são boas em preço e qualidade.
+QUEST_LV_0100_20150317_000448	$Se tiver tempo, dê uma olhada nos itens que tenho à venda.
+QUEST_LV_0100_20150317_000449	$Espero que bons itens encontrem bons donos.
+QUEST_LV_0100_20150317_000450	$Sim, essa era originalmente uma área de comprar movimentada. Contudo todos partiram quando se tornou difícil viver aqui... 
+QUEST_LV_0100_20150317_000451	$Eu estava ocupado demais para falar com as pessoas quando elas se reuniram.
+QUEST_LV_0100_20150317_000452	{memo X}$Muitas pessoas parecem vir agradecer à notificação de recrutamento de Uska. 
+QUEST_LV_0100_20150317_000453	$Há muita preparação para quando você vai batalhar com os monstros.
+QUEST_LV_0100_20150317_000454	$Os tempos são difíceis mas decidi não aumentar os preços. Dê uma olhada.
+QUEST_LV_0100_20150317_000455	$Os monstros confundem coisas com comida e apenas as engolem. Eles devem estar realmente famintos.
+QUEST_LV_0100_20150317_000456	$Uma vez encontrei um monstro em #pending Siauliai Woods. Apenas fiquei parado e o monstro foi embora...{nl}Suponho que existam monstros que não atacam primeiro as pessoas.
+QUEST_LV_0100_20150317_000457	$Tenho ouvido que algumas pessoas vendem coisas derrubas daqueles que estavam fugindo de monstros. Eu não vendo coisas como essas, então não se preocupe. 
+QUEST_LV_0100_20150317_000458	{memo X}Deixando de lado, não minto sobre meus itens serem baratos. As coisas que vendo têm um preço justo.
+QUEST_LV_0100_20150317_000459	$Fique à vontade para dar uma olhada a qualquer hora.
+QUEST_LV_0100_20150317_000460	$As coisas podem acabar mal se não preparar poções o suficiente.
+QUEST_LV_0100_20150317_000461	$Olhar as coisas que vendo é de graça.
+QUEST_LV_0100_20150317_000462	$Como você continua administrando um negócio se não obtém lucros?
+QUEST_LV_0100_20150317_000463	$Pensei sobre mudar meu negócio para outro lugar, mas tive que ficar pelas pessoas que vêm até mim.
+QUEST_LV_0100_20150317_000464	$Não penso em fazer muito dinheiro. Preciso apenas do necessário para viver.
+QUEST_LV_0100_20150317_000465	$Acho que devemos ajudar um ao outro em tempos difíceis como esses. Espero que possa ser de alguma ajuda.
+QUEST_LV_0100_20150317_000466	$Posso lhe ajudar? Lhe mostrarei o que temos preparado.
+QUEST_LV_0100_20150317_000467	$Por favor fique à vontade para voltar se precisar de algo.
+QUEST_LV_0100_20150317_000468	$Você não precisa necessariamente comprar algo, então fique à vontade para dar uma olhada.
+QUEST_LV_0100_20150317_000469	$Eu vendia itens mesmo antes de os monstros aparecerem.
+QUEST_LV_0100_20150317_000470	$Não se sente bem apenas olhando itens mesmo que não os compre?
+QUEST_LV_0100_20150317_000471	$Você pode me procurar sempre que quiser olhar mais de perto os itens que estou vendendo. 
+QUEST_LV_0100_20150317_000472	$Qual deve ser a sensação de ir em uma aventura lutando com monstros? Nasci e fui criado aqui, então às vezes me pergunto como seria em outras áreas.
+QUEST_LV_0100_20150317_000473	Ás vezes quando vejo os soldados que nos protegem dos monstros, quero lhes dar coisas grátis.{nl}Apesar de que realmente não é fácil para mim fazer isso...
+QUEST_LV_0100_20150317_000474	{memo X}$Melhores eram os dias em que o Comandante Uska cuidava de Klaipeda pessoalmente.
+QUEST_LV_0100_20150317_000475	$Não há um modo de derrotar todos os monstros vivendo livres em #pending Siauliai Woods?
+QUEST_LV_0100_20150317_000476	$Espero que alguma pessoa habilidosa possa expulsar todos os monstros.
+QUEST_LV_0100_20150317_000477	$Viver em um lugar onde monstros vivem livres no lado de fora está me enlouquecendo.{nl}E não consigo pensar em ir a qualquer outro lugar por causa dos monstros...
+QUEST_LV_0100_20150317_000478	$Eu varreria todos os monstros se tivesse as habilidades.{nl}Por que os soldados estão deixando os monstros em paz?
+QUEST_LV_0100_20150317_000479	$Estou cansado de viver uma vida de fuga dos monstros.
+QUEST_LV_0100_20150317_000480	$Pensar nos dias pacíficos do passado me faz sentir que estou sonhando.{nl}Estar acordado é como um pesadelo muito longo.
+QUEST_LV_0100_20150317_000481	$Quero fugir para outro lugar se puder.{nl}Há um futuro para o reino?
+QUEST_LV_0100_20150317_000482	$Não consigo dormir bem hoje em dia.{nl}É tudo por causa daqueles monstros.
+QUEST_LV_0100_20150317_000483	$Viver em paz em um mundo onde monstros vivem livres... Impossível.
+QUEST_LV_0100_20150317_000484	$A salvação sequer existe?{nl}Depender cada dia de esperanças do retorno das Deusas é realmente miserável.
+QUEST_LV_0100_20150317_000485	$Não podemos sair nem apenas ficar. Está realmente bem?{nl}Não consigo encontrar uma resposta não importa o quanto pense sobre isso.
+QUEST_LV_0100_20150317_000486	$Se acostumar com um mundo onde vivemos junto com monstros, o que poderia ser mais terrível e assustador?
+QUEST_LV_0100_20150317_000487	$Ouvi que há pessoas que estudam monstros.{nl}O que há de errado com elas?{nl}Aqueles monstros são criaturas ruins que podem nos atacar a qualquer momento.
+QUEST_LV_0100_20150317_000488	$Receio que Klaipeda possa se tornar como a capital.{nl}Já está sendo chamada de a cidade caída, não?
+QUEST_LV_0100_20150317_000489	$Muitas pessoas temem os Bokors por invocarem zumbis.{nl}Mas apenas amaldiçoamos os inimigos da Deusa.
+QUEST_LV_0100_20150317_000490	{memo X}$Inteligência, julgamento calmo e racionalidade fria.{nl}Essas são as qualidades requeridas para nossos #pending Cryomancers.
+QUEST_LV_0100_20150317_000491	{memo X}O fogo é a graça enviada para nós pela Deusa Gabija.{nl}Você não pode se tornar um grande #pending Pyromancer se negligenciar isso.
+QUEST_LV_0100_20150317_000492	{memo X}$É a morte em vão que espera no final que apenas procuram bravura.{nl}Se deseja alcançar a verdadeira justiça, erga o escudo de Peltasta.
+QUEST_LV_0100_20150317_000493	$Depois que as Deusas desapareceram, a capital foi destruída em Medzio Diena.{nl}Espero que mais pessoas se tornem Peltastas para proteger o mundo.
+QUEST_LV_0100_20150317_000494	$#pending Rodelero Master
+QUEST_LV_0100_20150317_000495	{memo X}
+QUEST_LV_0100_20150317_000496	$#pending Squire Master
+QUEST_LV_0100_20150317_000497	$Estamos em caos nos dias de hoje, mas costumávamos viver em honráveis tempos antes.{nl}Bem... está tudo no passado agora.
+QUEST_LV_0100_20150317_000498	$#pending Wizard Master
+QUEST_LV_0100_20150317_000499	$Não importa o quanto de talento mágico você tenha, tudo será desperdiçado a menos que o treine ativamente.
+QUEST_LV_0100_20150317_000500	$Você deve ser valente para proteger o reino.{nl}Mas para essa bravura ser distinguível de imprudência, suas habilidades precisam ser adequadas.
 QUEST_LV_0100_20150317_000501
 QUEST_LV_0100_20150317_000502
 QUEST_LV_0100_20150317_000503
