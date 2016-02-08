@@ -597,106 +597,106 @@ QUEST_LV_0100_20150317_000597	$#pending Guardian's Stone Statue
 QUEST_LV_0100_20150317_000598	$Os Guardiões estão corrompidos com energia maligna.{nl}Destrua os Guardiões corrompidos para impedí-la de se espalhar.
 QUEST_LV_0100_20150317_000599	$Os demônios estão tentando assumir o controle das fontes do #pending Royal Mausoleum.{nl}Se toda a magia controladora se corromper, não poderemos proteger o #pending Royal Mausoleum mais.
 QUEST_LV_0100_20150317_000600	$A corrupção dos Guardiões está se espalhando como uma praga.{nl}Temos que procurar por um modo especial de pará-la.
-QUEST_LV_0100_20150317_000601
-QUEST_LV_0100_20150317_000602
-QUEST_LV_0100_20150317_000603
-QUEST_LV_0100_20150317_000604
-QUEST_LV_0100_20150317_000605
-QUEST_LV_0100_20150317_000606
-QUEST_LV_0100_20150317_000607
-QUEST_LV_0100_20150317_000608
-QUEST_LV_0100_20150317_000609
-QUEST_LV_0100_20150317_000610
-QUEST_LV_0100_20150317_000611
-QUEST_LV_0100_20150317_000612
-QUEST_LV_0100_20150317_000613
-QUEST_LV_0100_20150317_000614
-QUEST_LV_0100_20150317_000615
-QUEST_LV_0100_20150317_000616
-QUEST_LV_0100_20150317_000617
-QUEST_LV_0100_20150317_000618
-QUEST_LV_0100_20150317_000619
-QUEST_LV_0100_20150317_000620
-QUEST_LV_0100_20150317_000621
-QUEST_LV_0100_20150317_000622
-QUEST_LV_0100_20150317_000623
-QUEST_LV_0100_20150317_000624
-QUEST_LV_0100_20150317_000625
-QUEST_LV_0100_20150317_000626
-QUEST_LV_0100_20150317_000627
-QUEST_LV_0100_20150317_000628
-QUEST_LV_0100_20150317_000629
-QUEST_LV_0100_20150317_000630
-QUEST_LV_0100_20150317_000631
-QUEST_LV_0100_20150317_000632
-QUEST_LV_0100_20150317_000633
-QUEST_LV_0100_20150317_000634
-QUEST_LV_0100_20150317_000635
-QUEST_LV_0100_20150317_000636
-QUEST_LV_0100_20150317_000637
-QUEST_LV_0100_20150317_000638
-QUEST_LV_0100_20150317_000639
-QUEST_LV_0100_20150317_000640
-QUEST_LV_0100_20150317_000641
-QUEST_LV_0100_20150317_000642
-QUEST_LV_0100_20150317_000643
-QUEST_LV_0100_20150317_000644
-QUEST_LV_0100_20150317_000645
-QUEST_LV_0100_20150317_000646
-QUEST_LV_0100_20150317_000647
-QUEST_LV_0100_20150317_000648
-QUEST_LV_0100_20150317_000649
-QUEST_LV_0100_20150317_000650
-QUEST_LV_0100_20150317_000651
-QUEST_LV_0100_20150317_000652
-QUEST_LV_0100_20150317_000653
-QUEST_LV_0100_20150317_000654
-QUEST_LV_0100_20150317_000655
-QUEST_LV_0100_20150317_000656
-QUEST_LV_0100_20150317_000657
-QUEST_LV_0100_20150317_000658
-QUEST_LV_0100_20150317_000659
-QUEST_LV_0100_20150317_000660
-QUEST_LV_0100_20150317_000661
-QUEST_LV_0100_20150317_000662
-QUEST_LV_0100_20150317_000663
-QUEST_LV_0100_20150317_000664
-QUEST_LV_0100_20150317_000665
-QUEST_LV_0100_20150317_000666
-QUEST_LV_0100_20150317_000667
-QUEST_LV_0100_20150317_000668
-QUEST_LV_0100_20150317_000669
-QUEST_LV_0100_20150317_000670
-QUEST_LV_0100_20150317_000671
-QUEST_LV_0100_20150317_000672
-QUEST_LV_0100_20150317_000673
-QUEST_LV_0100_20150317_000674
-QUEST_LV_0100_20150317_000675
-QUEST_LV_0100_20150317_000676
-QUEST_LV_0100_20150317_000677
-QUEST_LV_0100_20150317_000678
-QUEST_LV_0100_20150317_000679
-QUEST_LV_0100_20150317_000680
-QUEST_LV_0100_20150317_000681
-QUEST_LV_0100_20150317_000682
-QUEST_LV_0100_20150317_000683
-QUEST_LV_0100_20150317_000684
-QUEST_LV_0100_20150317_000685
-QUEST_LV_0100_20150317_000686
-QUEST_LV_0100_20150317_000687
-QUEST_LV_0100_20150317_000688
-QUEST_LV_0100_20150317_000689
-QUEST_LV_0100_20150317_000690
-QUEST_LV_0100_20150317_000691
-QUEST_LV_0100_20150317_000692
-QUEST_LV_0100_20150317_000693
-QUEST_LV_0100_20150317_000694
-QUEST_LV_0100_20150317_000695
-QUEST_LV_0100_20150317_000696
-QUEST_LV_0100_20150317_000697
-QUEST_LV_0100_20150317_000698
-QUEST_LV_0100_20150317_000699
-QUEST_LV_0100_20150317_000700
+QUEST_LV_0100_20150317_000601	$Precisamos destruir os Guardiões corrompidos que estão adormecidos.{nl}Primeiro, colete magia condensada dos jarros próximos.
+QUEST_LV_0100_20150317_000602	$Oro para a Deusa por aqueles Guardiões adormecidos.
+QUEST_LV_0100_20150317_000603	$Devemos destruir aqueles Guardiões antes que eles despertem aos comandos dos demônios.
+QUEST_LV_0100_20150317_000604	$Destrua os Guardiões usando a fonte de magia condensada.{nl}Se algo interferir, destrua também.
+QUEST_LV_0100_20150317_000605	Você deve destruí-los antes que despertem.
+QUEST_LV_0100_20150317_000606	$É muito triste escutar os comandos dos demônios como os Guardiões do túmulo. 
+QUEST_LV_0100_20150317_000607	$Esse mal é muito real.{nl}Ele possivelmente poderia alcançar as partes mais profundas do #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000608	#pending Royal Mausoleum Blueprint
+QUEST_LV_0100_20150317_000609	$Se a presença maligna se aproximar demais da #pending Goddess' Revelation, os Guardiões são programados para destruir o #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000610	$A presença maligna está se aproximando da #pending Goddess' Revelation.{nl}Mas ela nunca obterá a #pending Revelation.{nl}
+QUEST_LV_0100_20150317_000611	$#pending Revelator, vá e consiga a fonte de poder do #pending Royal Mausoleum dos Guardiões.
+QUEST_LV_0100_20150317_000612	Isso foi preparado para proteger contra seres que os humanos não poderiam enfrentar.
+QUEST_LV_0100_20150317_000613	$Coloque a fonte do poder do #pending Royal Mausoleum nos jarros.{nl}Ela criará uma falsa #pending Revelation como um chamariz.{nl}
+QUEST_LV_0100_20150317_000614	$A presença maligna nunca obterá a #pending Revelation.
+QUEST_LV_0100_20150317_000615	$A presença maligna obteve a falsa #pending Revelation.{nl}Que tolice dela.{nl}
+QUEST_LV_0100_20150317_000616	$Coloque a vontade do Guardião nesse jarro e vá para o último Guardião.{nl}Ela lhe dará o poder para destruir a presença maligna.
+QUEST_LV_0100_20150317_000617	$A presença maligna nunca conseguirá a #pending Goddess' Revelation.
+QUEST_LV_0100_20150317_000618	Para que os Guardiões realizem sua missão, você precisa corrigir o controle de magia distorcido.
+QUEST_LV_0100_20150317_000619	$Se a fonte de poder do #pending Royal Mausoleum for corrompida, os Guardiões perderão sua missão.{nl}Você pode purificar as origens do poder do #pending Royal Mausoleum ao ligar as lanternas de pedra com a pedra ardente que está dentro de um Guardião.
+QUEST_LV_0100_20150317_000620	#pending Royal Mausoleum Magic Suppressor Manual
+QUEST_LV_0100_20150317_000621	{memo X}
+QUEST_LV_0100_20150317_000622	$Os demônios interromperam a fonte de magia.{nl}Precisamos que você colete poder mágico dos Guardiões próximos.
+QUEST_LV_0100_20150317_000623	$Bom.{nl}Agora, sobre a falta de poder mágico.
+QUEST_LV_0100_20150317_000624	$Eu abrirei o caminho para o problema.{nl}Restaure nosso poder mágico reascendendo a lanterna de pedra do #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000625	$Quando o poder suprimido fluir novamente, os Guardiões reganharão sua razão.{nl}Mas isso levará um longo tempo.
+QUEST_LV_0100_20150317_000626	$Guardiões anormais estão atacando o recipiente mágico.{nl}Proteja o recipiente mágico até que o poder suprimido flua de novo.
+QUEST_LV_0100_20150317_000627	$O recipiente mágico é como o coração do #pending Royal Mausoleum.{nl}Nós nunca podemos deixá-lo ser destruído.
+QUEST_LV_0100_20150317_000628	$A ordem certamente retornará à esse lugar.{nl}Mas levará um longo tempo.
+QUEST_LV_0100_20150317_000629	$Uma energia maligna se condensou por toda parte no #pending Royal Mausoleum devido ao poder suprimido atual.{nl}Encontre e remova os núcleos corrompidos.
+QUEST_LV_0100_20150317_000630	$O #pending Royal Mausoleum foi projetado perfeitamente.{nl}Mas os planos dos demônios parecem além de perfeitos.
+QUEST_LV_0100_20150317_000631	$Nossos Guardiões estão sob o controle deles, e ainda realizam sua missão.{nl}Essa é nossa falha.
+QUEST_LV_0100_20150317_000632	$A energia maligna corrompeu até as lanternas de pedra que eram as origens do poder mágico.{nl}Destrua as lanternas de pedra corrompidas para parar o espalhamento da corrupção.
+QUEST_LV_0100_20150317_000633	$Uma energia maligna está impregnando o #pending Royal Mausoleum.{nl}Não podemos mais permanecer inativos.
+QUEST_LV_0100_20150317_000634	Não está mais corrompido.
+QUEST_LV_0100_20150317_000635	#pending Royal Mausoleum Archives
+QUEST_LV_0100_20150317_000636	A marca de Wheelen nos dá poder para lutar contra as forças do mal. 
+QUEST_LV_0100_20150317_000637	$Venucelos são muito valentes e leais.{nl}Mas se sua lealdade for para os inimigos, eles são inúteis.{nl}Os cães que não conseguem proteger o #pending Royal Mausoleum perderão a coleira com o nome do rei nela.
+QUEST_LV_0100_20150317_000638	$O Grande Rei Zachariel estava orgulhoso de criar Guardiões gigantes.{nl}Ele até colocou tesouros secretos dentro deles, para que somente aquele que destruir esses Guardiões pudessem obtê-los.
+QUEST_LV_0100_20150317_000639	$As forças do mal nunca alcançarão a #pending Goddess' Revelation.
+QUEST_LV_0100_20150317_000640	Coben
+QUEST_LV_0100_20150317_000641	$Estou procurando por meu irmão.{nl}Se puder me ajudar, poderei lhe dar uma recompensa.
+QUEST_LV_0100_20150317_000642	$Ele era uma pessoa realmente fantástica.{nl}Não consigo me imaginar sendo como ele.
+QUEST_LV_0100_20150317_000643	$Algo está entre as páginas desse diário.{nl}Um diagrama... e oh, meu irmão registrou algumas coisas aqui.
+QUEST_LV_0100_20150317_000644	$Eu vim aqui para procurar meu irmão, mas não sou valente como ele era.{nl}Quero que dê uma olhada nas escrituras de sua lápide em meu nome.
+QUEST_LV_0100_20150317_000645	$Sim. Meu irmão era um ladrão.{nl}Meu irmão costumava vir à nossa loja uma vez em alguns anos e nos contar histórias sobre suas aventuras.
+QUEST_LV_0100_20150317_000646	$Então ele desafiou a #pending Archmage Tower?{nl}Esse é meu irmão! Ele certamente poderia fazer isso.{nl}
+QUEST_LV_0100_20150317_000647	$A #pending Mage Tower era uma fortaleza que os demônios não podiam sequer tentar se aproximar.
+QUEST_LV_0100_20150317_000648	$Devemos procurar pela próxima lápide.{nl}Se a escritura não puder ser vista claramente, esfregue-a com Gordura de Cockatrice.
+QUEST_LV_0100_20150317_000649	$#pending Mage Tower... Há algo para roubar lá?
+QUEST_LV_0100_20150317_000650	$Sim! Ele não pararia ao roubar da #pending Mage Tower.{nl}Irei para o #pending Negyvas Field primeiro, então me siga!
+QUEST_LV_0100_20150317_000651	$Você veio. A próxima sepultura está na minha frente, mas sou apenas um bêbado covarde.{nl}Ficarei na estrada do lado esquerdo de #pending Negyvas Field, então você vai e a confere.
+QUEST_LV_0100_20150317_000652	{memo X}$É uma vergonha olhar para trás uma vez que um homem começa sua jornada.{nl}Meu irmão preferiria escolher morrer do que olhar para trás.
+QUEST_LV_0100_20150317_000653	$Como ele poderia mesmo pensar em usar magia contra o #pending Archmage?{nl}Esse é meu irmão.{nl}
+QUEST_LV_0100_20150317_000654	{memo X}Devemos checar friccionando #pending Hallowventer Charcoal.{nl}O próximo epitáfio está ao lado direito de #pending Negyvas Field.
+QUEST_LV_0100_20150317_000655	$Ele fará qualquer coisa que puser na cabeça.{nl}Como poderíamos imaginar que ele escalaria a #pending Mage Tower que até os demônios falharam em escalar?
+QUEST_LV_0100_20150317_000656	$Você precisa concentrar poder mágico?{nl}Ah! Meu irmão me deixou algo antes.{nl}Eu trouxe para devolver para ele, mas não sei se é certo...
+QUEST_LV_0100_20150317_000657	$Meu irmão me disse que é um dispositivo que carregará poder mágico quando instalado no lugar certo.{nl}Mas ele também me disse que poderia invocar um monstro forte, então ele falou para ser cuidadoso.
+QUEST_LV_0100_20150317_000658	A #pending Mage Tower deve nos deixar entrar sem queixas.{nl}Se eu puder encontrar meu irmão com isso... Seria tão bom.{nl}
+QUEST_LV_0100_20150317_000659	Sim. A sepultura, a sepultura...{nl}Há somente um local restante que não fui. Siga-me para #pending Karsta Hall Site.
+QUEST_LV_0100_20150317_000660	Estou para encontrar meu irmão.{nl}Por favor cheque a última sepultura.
+QUEST_LV_0100_20150317_000661	Sua mente deve ter sido como eu aqui.{nl}Um nome famoso pode ser um fardo às vezes.
+QUEST_LV_0100_20150317_000662	{memo X}Tenho certeza de que meu irmão ficou parado mesmo quando estava confrontando sua morte.{nl}Mas mesmo que estejamos na lama, viver é mais significante do que morrer.{nl}
+QUEST_LV_0100_20150317_000663	$Não preciso mais disso.{nl}Pegue. Por favor use isso para objetivos mais valiosos.
+QUEST_LV_0100_20150317_000664	$Então o que eu deveria fazer?{nl}
+QUEST_LV_0100_20150317_000665	$Combaterei fogo com fogo.{nl}Encontrarei a fraqueza da #pending magician usando magia e a humilharei em sua torre. Haha!
+QUEST_LV_0100_20150317_000666	Pedreiro Canolyn
+QUEST_LV_0100_20150317_000667	$Você está indo para Fedimian também?{nl}Somos pedreiros. Fomos chamados para reconstruir Fedimian e estávamos nos apressando mas...{nl}
+QUEST_LV_0100_20150317_000668	{memo X}
+QUEST_LV_0100_20150317_000669	Não há razão para aqueles monstros estarem andando por aí. {nl}Eles apenas estão lá.
+QUEST_LV_0100_20150317_000670	$Ei, por que demorou tanto?{nl}Enquanto estava fora, os monstros vieram e roubaram tudo de nós!
+QUEST_LV_0100_20150317_000671	{memo X}Podemos reembolsar as despesas dos outros, mas e a caixa de ferramentas? {nl}Perdemos o Espírito do Pedreiro para Moa...
+QUEST_LV_0100_20150317_000672	$Suponho que seja verdade, todas as coisas com asas gostam de coisas brilhantes.
+QUEST_LV_0100_20150317_000673	$A caixa de ferramentas não estava lá?{nl}Bem. Não podemos fazer nada sobre isso, então. Ao menos posso dizer que conseguimos nossa vingança.{nl}
+QUEST_LV_0100_20150317_000674	Tara Miles
+QUEST_LV_0100_20150317_000675	$Sou uma médica de Fedimian tentando ajudar pacientes.{nl}Tenho alguns problemas, pode me ajudar?
+QUEST_LV_0100_20150317_000676	$Há uma marca de praga na armadilha daqueles monstros.{nl}Felizmente, acho que não é tão sério.{nl}
+QUEST_LV_0100_20150317_000677	$Certo.{nl}Vamos conversar novamente em #pending Negyvas Field.
+QUEST_LV_0100_20150317_000678	$Você veio. Por favor obtenha algumas amostras de poeira dos Hallowventers.{nl}Há várias razões que uma praga poderia se espalhar.
+QUEST_LV_0100_20150317_000679	$É importante curar doenças, mas é mais importante prevení-las.{nl}Você lava suas mãos o tempo todo, certo?
+QUEST_LV_0100_20150317_000680	Obrigada.{nl}Precisamos de apenas mais uma amostra.
+QUEST_LV_0100_20150317_000681	Essa é uma oportunidade para nós. Os #pending Big Cockatrices estão sofrendo de uma doença.{nl}Por favor obtenha caudas o suficiente deles para nossa pesquisa.
+QUEST_LV_0100_20150317_000682	$Mesmo que falhemos em prevenir a doença, podemos ser capazes de fazer um medicamento rapidamente com os resultados de nossas pesquisas.
+QUEST_LV_0100_20150317_000683	$Você conseguiu. Muito obrigada.{nl}Você salvou muitas vidas em Fedimian.
+QUEST_LV_0100_20150317_000684	{memo X}Podemos suprimir a energia perversa se a magia do túmulo for liberta.{nl}Preciso da pedra ativadora que está localizada dentro dos Guardiões.
+QUEST_LV_0100_20150317_000685	#pending Secret Places Manual
+QUEST_LV_0100_20150317_000686	$Nós ocultamos tesouros secretos para o #pending Revelator que viria algum dia.{nl}Encontre e absorva a energia oculta dos Guardiões para abrir a porta secreta.
+QUEST_LV_0100_20150317_000687	$O esconderijo de meu irmão, a quem costumava servir, está localizado em #pending Abandoned Farm ao norte.{nl}Por favor pegue o diário de meu irmão lá.
+QUEST_LV_0100_20150317_000688	Grita
+QUEST_LV_0100_20150317_000689	{memo X}Parece que há mais monstros aqui agora comparado ao número que estava presente antes de perder minha conciência.{nl}Algo aconteceu a Gabija?
+QUEST_LV_0100_20150317_000690	{memo X}Pode ser melhor para Gabija que ela saiba que estamos aqui.{nl}Há um poste no qual podemos acender luz. Vamos.
+QUEST_LV_0100_20150317_000691	{memo X}Bom. Desde que ela saiba que viemos, recuperará sua saúde.{nl}Vamos subir para ver Gabija.{nl}{nl}
+QUEST_LV_0100_20150317_000692	$#pending Guardian of the Kingdom's Secret Treasures
+QUEST_LV_0100_20150317_000693	Você é qualificado para receber os tesouros secretos.
+QUEST_LV_0100_20150317_000694	{memo X}
+QUEST_LV_0100_20150317_000695	$O supressor mágico do túmulo pode ser destruído usando as pedras ativadoras encontradas dentro dos Guardiões.{nl}A mágica suprimida do túmulo se libertará e suprimirá a energia perversa.
+QUEST_LV_0100_20150317_000696	$Essa presença maligna deixou apenas nomes de demônios para os Guardiões.{nl}Os Guardiões destruirão o #pending Royal Mausoleum sem saber que o #pending Revelator está aqui.{nl}
+QUEST_LV_0100_20150317_000697	$Pare o Guardião final, Bearkaras, antes que ele destrua o #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000698	$Pare o Guardião final, Bearkaras, antes que ele destrua o #pending Royal Mausoleum.{nl}
+QUEST_LV_0100_20150317_000699	{memo X}
+QUEST_LV_0100_20150317_000700	$Esse monstro é chamado Moa. {nl}Ele fugiu para #pending Leipsna Chapel Site ao oeste.{nl}
 QUEST_LV_0100_20150317_000701
 QUEST_LV_0100_20150317_000702
 QUEST_LV_0100_20150317_000703
