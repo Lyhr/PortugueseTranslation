@@ -1,203 +1,203 @@
-﻿QUEST_LV_0100_20150317_000001	$Sentinela
-QUEST_LV_0100_20150317_000002	$Se escolher ir para Klaipeda, recomendo tomar a Shadow Forest Road.{nl}O bosque profundo é perigoso, então tente ficar longe de lá se puder.
-QUEST_LV_0100_20150317_000003	$Homem Escondido
-QUEST_LV_0100_20150317_000004	$Fi... Finalmente! A ajuda chegou?{nl}Huh?! É só uma criança? Ei... Ainda há Vubbes lá fora?
-QUEST_LV_0100_20150317_000005	$Ugh. Vá embora! Não fale comigo! Seremos pegos pelos Vubbes!{nl}Esse é meu lugar, então saia!
-QUEST_LV_0100_20150317_000006	$O que? Não minta para mim! Posso sentir o cheiro de Vubbes daqui.{nl}Você não pode enganar um adulto! Vá embora! Não venha perto desse barril!	$O que? Não minta para mim! Posso sentir o cheiro de Vubbes daqui.{nl}Você não pode enganar um adulto! Vá embora! Não venha perto desse barril!
-QUEST_LV_0100_20150317_000007	$Fi... Finalmente! A ajuda chegou?{nl}Huh?! É só uma criança? O que está olhando? Feche a tampa e se mova!{nl}
-QUEST_LV_0100_20150317_000008	$O que é esse papel que está segurando? Parece familiar...{nl}Deixe-me vê-lo! O que está fazendo? Ei, tem um adulto falando com você!
-QUEST_LV_0100_20150317_000009	$Esse papel é meu! Nunca vou entregá-lo novamente!!{nl}Não... não é algo que você precisa - Vou apenas rasgá-lo. Aí.
-QUEST_LV_0100_20150317_000010	$Sheesh, isso é chato...
-QUEST_LV_0100_20150317_000011	$Depois que todas as Deusas desapareceram, esses sonhos foram as primeiras coisas que surgiram.{nl}Talvez uma dessas pessoas seja aquela que trará as Deusas de volta.
-QUEST_LV_0100_20150317_000012	$Soldado Blak
-QUEST_LV_0100_20150317_000013	$Esteja avisado!{nl}Monstros estão atacando, então todos os civis devem evacuar!{nl}Porque esses civis estão na zona militar de qualquer forma?{nl}
-QUEST_LV_0100_20150317_000014	$Ah, então você é o Revelator! Me desculpe, não o reconheci.{nl}Monstros estão atacando a base de suprimentos no momento.{nl}Eu preciso pegar algumas provisões importantes da base. Por favor me ajude!  
-QUEST_LV_0100_20150317_000015	$Era pacífico há não muito tempo, mas agora eles estão vindo em grupos.{nl}O que está acontecendo exatamente?
-QUEST_LV_0100_20150317_000016	$Mesmo assim, me senti inquieto...{nl}Quem iria saber que eles atacariam de uma maneira tão absurda?
-QUEST_LV_0100_20150317_000017	$As rações estão no First Supply Warehouse, no qual você pode chegar usando a estrada no lado superior.{nl}Traga por mais que sejam sobras que encontrar...
-QUEST_LV_0100_20150317_000018	$Eu escrevi quem é Sparnas. Talvez seja útil no futuro.{nl}Ainda que possa não parecer agora, eu era um biólogo há quatro anos.
-QUEST_LV_0100_20150317_000019	$Por favor passe esse relatório para Luders.{nl}Ele provavelmente está no Center Supply Camp.
-QUEST_LV_0100_20150317_000020	$Oficial Luders
-QUEST_LV_0100_20150317_000021	$Ah, você deve ser o chamado #pending Revelator. Prazer em conhecê-lo.{nl}Esse é o relatório de Block?{nl}
-QUEST_LV_0100_20150317_000022	$Hum... É assim mesmo?{nl}Eles apenas destruíram os suprimentos e fugiram. Mesmo que os Chupacabras tenham asas, tenho certeza de que eles não podem fazer algo como aquilo.{nl}
-QUEST_LV_0100_20150317_000023	$Isso não é o suficiente.{nl}Me desculpe, mas por favor nos traga o relatório de Moody do #pending Amzina Curved Path.
-QUEST_LV_0100_20150317_000024	$Me sinto melhor já que Luders está aqui.
-QUEST_LV_0100_20150317_000025	$Soldado York
-QUEST_LV_0100_20150317_000026	$Shaulems estão cruzando a estrada.{nl}Eu mesmo estou em pânico e não sei o que fazer.{nl}Tenho certeza de que Luders não deixará isso acontecer... O que devemos fazer?
-QUEST_LV_0100_20150317_000027	$Você acha que o problema erá resolvido apenas derrotando Sparnas?
-QUEST_LV_0100_20150317_000028	$Obrigado pela sua ajuda, eu acho que posso me segurar.{nl}Mas... esse tipo de coisa não acontecerá de novo? O que eu deveria fazer então...?
-QUEST_LV_0100_20150317_000029	$Sparnas? Nós não temos uma resposta clara sobre isso.{nl}Apenas apareceu do céu sem qualquer sinal e destruiu todos os suprimentos que tínhamos. Então, desapareceu rapidamente.{nl}Nós temos dor de cabeça apenas ouvindo seu choro.
-QUEST_LV_0100_20150317_000030	$O lugar que eu recém falei sobre é o #pending Second Supply Warehouse.{nl}É deprimente pensar como esses tipos de coisas serão recorrentes no futuro.
-QUEST_LV_0100_20150317_000031	$Pegue. Eu fiz algumas iscas de grãos velhos nos suprimentos.{nl}Irei atraí-lo de lá, então você fica aqui.{nl}Sparanas definitivamente aparecerá em um desses dois locais. Não o deixe escapar. Destrua-o com certeza.{nl}
-QUEST_LV_0100_20150317_000032	$Nós podemos não obter uma segunda chance se não derrotá-lo dessa vez.{nl}Não parece que eles são idiotas.
-QUEST_LV_0100_20150317_000033	${memo X}Ouvi o som da luta, então vim depressa. Você o derrotou?{nl}Eu apenas avistei Shaulems do meu lugar.{nl}Obrigado. Você realizou um feito meritório.
-QUEST_LV_0100_20150317_000034	$#pending Adjutant General Paulina
-QUEST_LV_0100_20150317_000035	$Nós devemos recuperar os suprimentos roubados.{nl}Não podemos nos chamar de soldados do reino se não fizermos nada sobre isso.{nl}
-QUEST_LV_0100_20150317_000036	$Os suprimentos roubados foram levados pelos Shaulems em cada #pending Supply Warehouse, recupere os suprimentos e os traga à Volda.
-QUEST_LV_0100_20150317_000037	$Me sinto tão farto de ter que suportar isso o tempo todo.{nl}Reforços devem vir logo, mas o que podemos esperar de um reino tão incompetente?
-QUEST_LV_0100_20150317_000038	$#pending Adjutant General Volda
-QUEST_LV_0100_20150317_000039	$Muito obrigada, mas você estar atrasado para outras coisas.{nl}Além disso, não podemos só sentar aqui e esperar. Nós planejamos continuar atacando.
-QUEST_LV_0100_20150317_000040	$#pending Secret Guardian
-QUEST_LV_0100_20150317_000041	$A Deusa já previu isso.{nl}Nada pode escapar da visão dela.
-QUEST_LV_0100_20150317_000042	$#pending Liaison Officer Niels
-QUEST_LV_0100_20150317_000043	$Olá.{nl}Você viu um velho homem que se perdeu?{nl}Seu nome é Jonas.{nl}
-QUEST_LV_0100_20150317_000044	$Você não o viu?{nl}Agora, para qual direção aquele débil velho companheiro vagaria?
-QUEST_LV_0100_20150317_000045	$Jonas é descendente da família que tem protegido esse Mausoléu.{nl}Ele é uma pessoa muito importante para nossa equipe do laboratório, então por favor cuide bem dele.
-QUEST_LV_0100_20150317_000046	$Arquivista Jonas
-QUEST_LV_0100_20150317_000047	$Nossa família tem esperado por você por um longo tempo.{nl}É hora de lhe dar algo que temos protegido por muito tempo.
-QUEST_LV_0100_20150317_000048	$É bom ouvir que Jonas recuperou seus sentidos.{nl}Você é a pessoa que lançou o sinal luminoso, certo?{nl}
-QUEST_LV_0100_20150317_000049	$Ahylas veio para encontrar quem quer que tenha acendido o sinal.{nl}Encontre-o no andar de baixo.
-QUEST_LV_0100_20150317_000050	$Nós não ouvimos qualquer notícia de Kepeck por um longo tempo, não desde que o enviamos suprimentos.{nl}Nós não temos pessoas o suficiente para formar uma equipe de busca, então por favor nos ajude a encontrá-lo.
-QUEST_LV_0100_20150317_000051	$Historiador Viode
-QUEST_LV_0100_20150317_000052	$Sempre esteja preparado para ataques de monstros.{nl}Sobretudo em lugares como aqui.
-QUEST_LV_0100_20150317_000053	$Mercenário Mirta
-QUEST_LV_0100_20150317_000054	${memo X}Eu já não avisei você?{nl}Por favor tenha cuidado da próxima vez.
-QUEST_LV_0100_20150317_000055	$Historiador Kepeck
-QUEST_LV_0100_20150317_000056	$Niels deve ter enviado você.{nl}Bem,já que está com pressa, arquive-o você mesmo e leve de volta à Niels.
-QUEST_LV_0100_20150317_000057	$Se for reto, pegue a estrada à sua direita e atravesse a ponte, você verá os artefatos do #pending Great King Zachariel.{nl}Arquive-os e leve os arquivos de volta à Niels. Ele entenderá.
-QUEST_LV_0100_20150317_000058	$Então esse é o arquivo de Kepeck... Mercenário Mirta estava procurando por isso.{nl}Você ajudou a confirmar a segurança de dois indivíduos. Obrigado por seus esforços.
-QUEST_LV_0100_20150317_000059	$Ahylas Jonas
-QUEST_LV_0100_20150317_000060	${memo X}Agora leve a #pending unsealing stone e vá para #pending Broken Pillar Canyon. {nl}O Discípulo de Gustas ensinará você como liberar o selo lá.
-QUEST_LV_0100_20150317_000061	${memo X}Onde você não foi acompanhado ainda?{nl}Leve-o ao Discípulo de Gustas no #pending Broken Pillar Canyon.{nl}Ele é feito para deixar apenas o escolhido entrar.
-QUEST_LV_0100_20150317_000062	$Discípulo de Gustas
-QUEST_LV_0100_20150317_000063	$Você liberou o selo de #pending Pagasa Cliff?{nl}Começará agora.
-QUEST_LV_0100_20150317_000064	$Palavras gravadas em uma rocha
-QUEST_LV_0100_20150317_000065	$Não toque ou empurre a rocha.
-QUEST_LV_0100_20150317_000066	$Estava esperando por você.{nl}O próximo selo está localizado no caminho para o #pending Collapsed Sanctum.
-QUEST_LV_0100_20150317_000067	$Você não sabe o quão ansiosamente temos esperado por esse momento.{nl}Nós realmente queríamos lhe encontrar.
-QUEST_LV_0100_20150317_000068	$Gustas Jonas
-QUEST_LV_0100_20150317_000069	$É você.{nl}Você é muito mais valente do que havia imaginado.
-QUEST_LV_0100_20150317_000070	$Soldado Alan
-QUEST_LV_0100_20150317_000071	$Você é um novo recruta, certo?{nl}Recebi uma ordem de patrulha, mas imagino que você possa ir em meu nome.
-QUEST_LV_0100_20150317_000072	$Você é bom para um novato.{nl}Eu tenho uma lembrança de algo horrível acontecendo lá uma vez, então não quero ir.
-QUEST_LV_0100_20150317_000073	$Estou lembrando de algo...
-QUEST_LV_0100_20150317_000074	${memo X}Você sabe que nós somos enviados aqui para derrotar Gaigalas, certo?{nl}Novato. Você pode levar esse relatório para Comandante Wallis?
-QUEST_LV_0100_20150317_000075	$Comandante Wallis
-QUEST_LV_0100_20150317_000076	$Por que você trouxe esse relatório sem Alan vir?{nl}Você é um novo recruta?
-QUEST_LV_0100_20150317_000077	$Eu posso voltar para casa depois que derrotarmos Gaigalas.{nl}Bem, gostaria de ir para casa o quanto antes.
-QUEST_LV_0100_20150317_000078	$Comandante Wallace está em #pending Bird Footprint Junction.
-QUEST_LV_0100_20150317_000079	$Não me importa o quanto você é bom. Você é novo aqui.{nl}Isso é uma ordem. Traga um pouco de seiva dos #pending Keiva Raiders.
-QUEST_LV_0100_20150317_000080	$Soldados de hoje em dia, falta-lhes coragem.{nl}Espero que você seja uma boa influência para eles.
-QUEST_LV_0100_20150317_000081	$Está claro que iremos ganhar essa batalha.{nl}Por quê? Porque as Corujas estão ajudando.
-QUEST_LV_0100_20150317_000082	$Os #pendig Kepa Raiders estão perto da #pending Ianutis Waterfall.{nl}Para derrotar Gaigalas, nós certamente precisaremos deles.
-QUEST_LV_0100_20150317_000083	$Soldado Weiz
-QUEST_LV_0100_20150317_000084 $Ei, novato, você está tirando uma folga?{nl}Consiga um pouco de gordura dps #pending Duckys em #pending Lengvas Garden.
-QUEST_LV_0100_20150317_000085	$Atrairemos Gaigalas usando #pending Ducky Fat.{nl}Ei novato, não vadie.
-QUEST_LV_0100_20150317_000086	$Hoje será o último dia para Gaigalas.{nl}Você está pronto, novato?
-QUEST_LV_0100_20150317_000087	$Em seguida, arranjaremos couro dos #pending Cronewts em #pending Lengvas Garden.{nl}Depressa, soldado.
-QUEST_LV_0100_20150317_000088	$Venceremos com certeza dessa vez.{nl}As Deusas estão ao nosso lado.
-QUEST_LV_0100_20150317_000089	$Você é muito bom para um novato.{nl}Está desorganizado aqui no momento, então pode ficar com aqueles ingredientes por enquanto.{nl}
-QUEST_LV_0100_20150317_000090	$Conheça nossos soldados enquanto faço as preparações para a batalha.{nl}Chamarei você antes de confrontarmos Gaigalas.
-QUEST_LV_0100_20150317_000091	$Quando queimarmos a #pending Ducky Fat, Gaigalas aparecerá depois de sentir o odor.{nl}#pending Lengvas Garden será um bom lugar para queimá-la.
-QUEST_LV_0100_20150317_000092	$Meu coração está aos pulos.{nl}Sinto como se minha alma estivesse palpitando com ele.
-QUEST_LV_0100_20150317_000093	$#pending Old Owl Sculpture
-QUEST_LV_0100_20150317_000094	$Não há ninguém nessa floresta. Por que você está aqui?{nl}
-QUEST_LV_0100_20150317_000095	$Gaigalas?{nl}Derrotá-lo sem qualquer assistência será difícil.
-QUEST_LV_0100_20150317_000096	$Tenho visto muitas mortes aqui.{nl}Não quero ver mais sacrifícios.
-QUEST_LV_0100_20150317_000097	$Preciso de Seiva de #pending Kepa Raider e Couro de #pending Cronewt.
-QUEST_LV_0100_20150317_000098	$Por que você tem aquilo?{nl}Entregue-me e farei um #pending Memory Fragment.
-QUEST_LV_0100_20150317_000099	$Com este #pending Memory Fragment, reviverei as memórias de nossos camaradas adormecidos.
-QUEST_LV_0100_20150317_000100	$Será difícil de derrotá-lo sem um #pending Memory Fragment.{nl}Por favor me traga #pending Infro Holder Horns.
-QUEST_LV_0100_20150317_000101	$Como é que você têm todos estes ingredientes?
-QUEST_LV_0100_20150317_000102	${memo X}Aquelas são pessoas que já se foram desse mundo. {nl}Eles estão repetindo o que aconteceu naquela época por sua raiva por Gaigalas. 
-QUEST_LV_0100_20150317_000103	${memo X}Nós podemos acalmá-los se derrotarmos Gaigalas.{nl}Por favor, vá ver o #pending Worrying Owl.
-QUEST_LV_0100_20150317_000104	$#pending Worrying Owl Sculpture
-QUEST_LV_0100_20150317_000105	$Por favor me ajude a acordar meus camaradas adormecidos e completar a magia daquele dia.{nl}Com o #pending Memory Fragment.
-QUEST_LV_0100_20150317_000106	$Eles podem ficar saciados.{nl}Ficarei aqui enquanto lembro de meus camaradas.
-QUEST_LV_0100_20150317_000107	$Você encontrará Gaigalas quando ir à #pending Ishimtini Acess Way.{nl}Por favor, vingue os soldados caídos.
-QUEST_LV_0100_20150317_000108	$Eu estava em um local isolado, então não adormeci.{nl}Mas assistir à tudo foi doloroso para mim.
-QUEST_LV_0100_20150317_000109	$Meus camaradas foram atacados enquanto estavam tentando ajudar os soldados.
-QUEST_LV_0100_20150317_000110	$Alguns símbolos começaram a aparecer no corpo de Jonas depois que ele bebeu o remédio.
-QUEST_LV_0100_20150317_000111	$Arqueologista Dezic
-QUEST_LV_0100_20150317_000112	$Estou procurando por minha assistente chamada Airine.{nl}Você pode derrotar os monstros por perto para eu poder procurá-la?
-QUEST_LV_0100_20150317_000113	$Eu disse para ela não ficar animada mesmo se achar algo.{nl}E mesmo assim ela o fez de novo.
-QUEST_LV_0100_20150317_000114	$Obrigado.{nl}Vou procurar Airine.
-QUEST_LV_0100_20150317_000115	$Técnico Heinen
-QUEST_LV_0100_20150317_000116	${memo X}Esse bonde só pode ser utilizado por aqueles com autorização. Sinto ter que dizer para você voltar para #pending Vienesa Highlands.
-QUEST_LV_0100_20150317_000117	${memo X}Entretanto, se derrotar os monstros importunos ao redor dessa área, pensarei sobre isso.
-QUEST_LV_0100_20150317_000118	${memo X}Não é melhor usar o bonde do que se ferir passando pelos monstros? É claro, isso se você pode utilizar o bonde.
-QUEST_LV_0100_20150317_000119	${memo X}Muito melhor do que esperava.{nl}Eu quero propor um acordo para você.
-QUEST_LV_0100_20150317_000120	${memo X}	
-QUEST_LV_0100_20150317_000121	${memo X}
-QUEST_LV_0100_20150317_000122	$Aquela barreira... Hmm. Quando ela se formou?{nl}Ela tem estado lá por um bom tempo agora, mas não consigo lembrar exatamente há quanto.{nl}
-QUEST_LV_0100_20150317_000123	$Tenho certeza que aquela barreira foi responsável por aumentar o número de monstros ultimamente.{nl}
-QUEST_LV_0100_20150317_000124	$Nós não temos muitos soldados protegendo essa área.{nl}Quem em sã consciência viria aqui nesse dia e época?{nl}
-QUEST_LV_0100_20150317_000125	$Rolandas Jonas
-QUEST_LV_0100_20150317_000126	$Ninguém sabe o que o #pending Great King Zachariel tentou proteger.{nl}E tenho certeza que não somos os únicos que querem resolver aquele mistério.
-QUEST_LV_0100_20150317_000127	$Depressa, use a #pending Great King's Key para liberar os selos.{nl}Você deve saber o que fazer em seguida.
-QUEST_LV_0100_20150317_000128	$Encontrei Airine, mas não sei como resgatá-la.{nl}Ela está presa nas #pending Rodoma 2nd Ruins, mas eu não consigo resgatá-la...
-QUEST_LV_0100_20150317_000129	$Assistente Airine
-QUEST_LV_0100_20150317_000130	${memo X}Não posso me mover por causa da barreira.{nl}Por favor, quebre as três barreiras em #pending Rodoma Ruins.
-QUEST_LV_0100_20150317_000131	$Não terminou ainda? Ah, geez...
-QUEST_LV_0100_20150317_000132	$Não esperava ser levada para esse tipo de coisa.{nl}Oh, a bagunça que causei por perseguir aquele garoto.
-QUEST_LV_0100_20150317_000133	$Mercenário Glen
-QUEST_LV_0100_20150317_000134	$Tantos pesquisadores estão desaparecendo esses dias.{nl}Estou tentando achar pistas derrotando alguns Sauga. Pode nos ajudar?
-QUEST_LV_0100_20150317_000135	$Os Saugas dividem seu #pending loot justamente entre eles.{nl}Talvez consigamos encontrar algumas pistas deles.
-QUEST_LV_0100_20150317_000136	$Felizmente eles são muito velhos.{nl}Então isso significa que aqueles casos não são devido a monstros.
-QUEST_LV_0100_20150317_000137	$Esse é um lugar muito perigoso onde muitos desaparecem devido a monstros ou a um passo em falso.{nl}Contudo, o que é interessante não é isso.{nl}
-QUEST_LV_0100_20150317_000138	$Quando essas pessoas desaparecem, ninguém percebe.{nl}É como se memórias sobre aqueles que desapareceram fossem apagadas. Estranho, não é?{nl}
-QUEST_LV_0100_20150317_000139	${memo X}Por favor, derrote todos os monstros próximos para prevenir algo de acontecer.{nl}Haviam relatórios que monstros no #pending 1st Architects' Site ficaram violentos.
-QUEST_LV_0100_20150317_000140	$Esplêndido.{nl}Estaremos seguros por enquanto.
-QUEST_LV_0100_20150317_000141	${memo X}Monstros estão vindo!{nl}Eles provavelmente descobriram que eu fui libertada.
-QUEST_LV_0100_20150317_000142	$As Deusas lhe enviaram?{nl}Nunca pensei que você me protegeria.{nl}
-QUEST_LV_0100_20150317_000143	$Aonde aquele escorpião enorme foi?Isso é muito ruim!
-QUEST_LV_0100_20150317_000144	$Eu deveria ver Dezic.{nl}Espero vê-lo novamente no futuro.
-QUEST_LV_0100_20150317_000145	$Alguém deve ter feito algo estranho para os monstros protegendo o #pending Royal Mausoleum.{nl}O que eles estavam pensando?
-QUEST_LV_0100_20150317_000146	$Sir, segure-se. Sir!
-QUEST_LV_0100_20150317_000147	$Novo Pesquisador
-QUEST_LV_0100_20150317_000148	$Eu perdi meus importantes materiais de pesquisa no #pending Abandoned Old Workshop.{nl}Os monstros devem ter os levado... Eu deveria apenas desistir?
-QUEST_LV_0100_20150317_000149	$Estou tão contente de ver o #pending Royal Mausoleum pessoalmente, mas os monstros... Eles são assustadores.
-QUEST_LV_0100_20150317_000150	$Muito obrigado.{nl}Você deveria também checar o #pending Records Repository.
-QUEST_LV_0100_20150317_000151	$A entrada para o #pending Royal Mausoleum está escondida em algum lugar desse gigantesco desfiladeiro.{nl}O desfiladeiro começa aqui.
-QUEST_LV_0100_20150317_000152	$Muitos especialistas vieram aqui para conduzir pesquisa no #pending Royal Mausoleum.{nl}Talvez consigamos achar pistas sobre Medzio Diena aqui.
-QUEST_LV_0100_20150317_000153	$Por que há tantos monstros no desfiladeiro quando existem tão pouca vida vegetal ao redor?
-QUEST_LV_0100_20150317_000154	$O que aconteceu com meu pedido? Não está pronto ainda?
-QUEST_LV_0100_20150317_000155	$Olhe o solo de perto.{nl}Pode ter caído.
-QUEST_LV_0100_20150317_000156	$Hmm, só esses?{nl}Bem, muito obrigado por achar esse tanto ao menos.{nl}Posso apenas copiar os outros do começo novamente.
-QUEST_LV_0100_20150317_000157	$Niels enviou você também?{nl}Eu não vou.Tenho que pesquisar essas flores silvestres.{nl}
-QUEST_LV_0100_20150317_000158	$Creio que o que vi era uma ilusão.{nl}Devo recompensá-lo por proteger um mineralogista como eu.{nl}
-QUEST_LV_0100_20150317_000159	$Sim.{nl}Traga-me meus arquivos de Niels.
-QUEST_LV_0100_20150317_000160	$Jonas lhe disse para trazer seus arquivos?{nl}Okay.Em troca, por favor lhe traga um pouco de remédio.
-QUEST_LV_0100_20150317_000161	$O remédio ajudará a tranquilizá-lo.{nl}Davio no lado direito do #pending Research Camp tem o remédio.
-QUEST_LV_0100_20150317_000162	$Jonas é o líder da família que protege o #pending Royal Mausoleum do #pending Great King Zachariel.{nl}Ele já foi muito sadio, mas hoje em dia está velho e fraco.{nl}
-QUEST_LV_0100_20150317_000163	$Foi depois que Jonas saiu para uma visita com seu serviçal.{nl}Jonas foi encontrado com demência e o serviçal está desaparecido até hoje.
-QUEST_LV_0100_20150317_000164	$Por favor cuide bem de Jonas.{nl}Seria um grande problema se ele se machucasse.
-QUEST_LV_0100_20150317_000165	$Davio está no lado direito do acampamento.{nl}Espero que o remédio funcione bem.
-QUEST_LV_0100_20150317_000166	$Finalmente, me lembro de tudo.{nl}Sou o líder da família que protege o #pending Royal Mausoleum... Quem é você?{nl}
-QUEST_LV_0100_20150317_000167	$#pending Revelator. Se esse é o desejo da Deusa, então você deve ser qualificado.{nl}Você tem um trabalho a fazer, então me siga para #pending Beacon Hill Pass.
-QUEST_LV_0100_20150317_000168	$Fiz Niels e você se preocuparem...
-QUEST_LV_0100_20150317_000169	$Liderarei o caminho e você cuidará de qualquer monstro que encontrarmos.{nl}Estou contando com você.
-QUEST_LV_0100_20150317_000170	$A hora é agora. Por favor, vá adiante para o #pending Beacon Hill Pass.
-QUEST_LV_0100_20150317_000171	${memo X}Tenho certeza que você é qualificado para isso.{nl}Deusa Laima conduziu tudo isso.
-QUEST_LV_0100_20150317_000172	$Finalmente o tesouro oculto pode ser repassado para alguém.{nl}Me arrependo de não reconhcer você mais cedo devido à minha senilidade.
-QUEST_LV_0100_20150317_000173	$#pending Great King Zachariel nos disse para conceder seu tesouro oculto à uma pessoa qualificada.{nl}Você pode checar se é qualificado ou não com os #pending Eyes of the Great King.
-QUEST_LV_0100_20150317_000174	$Nós temos mais uma responsabilidade além de proteger o #pending Royal Mausoleum.{nl}E é proteger a herança até que uma pessoa qualificada venha.{nl}
-QUEST_LV_0100_20150317_000175	$Nós não temos ideia do que exatamente o tesouro oculto é.{nl}O rei apenas nos disse para protegê-lo,então estamos apenas seguindo sua ordem.
-QUEST_LV_0100_20150317_000176	$#pending Medicine Dealer
-QUEST_LV_0100_20150317_000177	$Hm... Bem, há uma erva que somente cresce ao redor de #pending Metos Field.{nl}Por favor me traga-a.
-QUEST_LV_0100_20150317_000178	$#pending Metos Field é o melhor lugar para despertar a percepção de alguém. Especialmente para um velho homem.
-QUEST_LV_0100_20150317_000179	$Bom trabalho. Você é bastante perspicaz, não é?{nl}
-QUEST_LV_0100_20150317_000180	$Certo, está pronto.{nl}Leve isso para Davio.
-QUEST_LV_0100_20150317_000181	$Mercador Davio
-QUEST_LV_0100_20150317_000182	$Eu trouxe o remédio daquele velho homem. {nl}Mas precisei de um grande esforço para obtê-lo. Eu devo confiar mais em você.{nl}
-QUEST_LV_0100_20150317_000183	${memo X}O ouro que os Lichenclops tem nessa cidade será suficiente.{nl}Traga aqueles para o #pending Medicine Dealer em Kapas Highway.
-QUEST_LV_0100_20150317_000184	$Isso será suficiente. Davio enviou você, certo?{nl} Eu ainda preciso de mais um ingrediente para fazer o remédio realmente efetivo.
-QUEST_LV_0100_20150317_000185	$Para fazer o remédio, eu precisava achar a causa dos sintomas de Jonas e isso me deixou louco.{nl}Por estranho que pareça, eram causados por um feitiço que foi usado há muito.{nl}
-QUEST_LV_0100_20150317_000186	$Ouvi um rumor que o #pending Great King Zachariel apagou as memórias de todos os trabalhadores depois da construção do #pending Royal Mausoleum.{nl}Aquele deve ser o feitiço lançado em Jonas, embora ele também seja um pouco senil.
-QUEST_LV_0100_20150317_000187	$Foi difícil conseguir o remédio daquele velho homem.{nl}Porém, há algo que eu não consigo obter.
-QUEST_LV_0100_20150317_000188	$Será completado assim que o dissolver no mel que você tem. Leve-o com você.
-QUEST_LV_0100_20150317_000189	$Aquele remédio funciona bem. Faça ele engolí-lo de alguma forma.
-QUEST_LV_0100_20150317_000190	$Você está atrasado.{nl}Trouxe meu arquivo?
-QUEST_LV_0100_20150317_000191	$Vá para o #pending Abandoned Old Workshop.{nl}Um velho homem está vagando por aí. Acho que é Jonas.
-QUEST_LV_0100_20150317_000192	$O que é isso? Tem cheiro de hidromel!
-QUEST_LV_0100_20150317_000193	${memo X}Me sinto tonto.{nl}O que estou fazendo aqui de qualquer forma?
-QUEST_LV_0100_20150317_000194	$Estou aliviado que você me achou.{nl}Quando os monstros estavam me perseguindo, perdi meus pertences e todos os materiais.{nl}No mínimo, pode achar os materiais espalhados?
-QUEST_LV_0100_20150317_000195	$Não tenho muito a dizer como um humilde mercenário.{nl}Embora eu estivesse bem mesmo em Medzio Diena, estou certo de que esse lugar é amaldiçoado.{nl}
-QUEST_LV_0100_20150317_000196	$Quanto tempo faz desde que vim aqui?{nl}Onde está Mirta e quem é você?
-QUEST_LV_0100_20150317_000197	$Estou tentando lembrar de algo, mas continua desvanecendo sempre que chego perto.
-QUEST_LV_0100_20150317_000198	$Vaidotas
-QUEST_LV_0100_20150317_000199	${memo X}Esse cheiro... Acho que o aparelho purificador na mina está quebrado.{nl}É melhor o repararmos rapidamente. Os habitantes raptados podem sufocar.
-QUEST_LV_0100_20150317_000200	$Você sabe sobre a lenda de Cunningham?{nl}A lenda diz que um grande demônio foi selado aqui na #pending Crystal Mine.{nl}Há um livro com mais detalhes sobre isso no #pending Mine Worker's Resting Place in Crystal Mine 2F.{nl}
+﻿QUEST_LV_0100_20150317_000001	Sentinela
+QUEST_LV_0100_20150317_000002	Se escolher ir para Klaipeda, recomendo tomar a Shadow Forest Road.{nl}O bosque profundo é perigoso, então tente ficar longe de lá se puder.
+QUEST_LV_0100_20150317_000003	Homem Escondido
+QUEST_LV_0100_20150317_000004	Fi... Finalmente! A ajuda chegou?{nl}Huh?! É só uma criança? Ei... Ainda há Vubbes lá fora?
+QUEST_LV_0100_20150317_000005	Ugh. Vá embora! Não fale comigo! Seremos pegos pelos Vubbes!{nl}Esse é meu lugar, então saia!
+QUEST_LV_0100_20150317_000006	O que? Não minta para mim! Posso sentir o cheiro de Vubbes daqui.{nl}Você não pode enganar um adulto! Vá embora! Não venha perto desse barril!	O que? Não minta para mim! Posso sentir o cheiro de Vubbes daqui.{nl}Você não pode enganar um adulto! Vá embora! Não venha perto desse barril!
+QUEST_LV_0100_20150317_000007	Fi... Finalmente! A ajuda chegou?{nl}Huh?! É só uma criança? O que está olhando? Feche a tampa e se mova!{nl}
+QUEST_LV_0100_20150317_000008	O que é esse papel que está segurando? Parece familiar...{nl}Deixe-me vê-lo! O que está fazendo? Ei, tem um adulto falando com você!
+QUEST_LV_0100_20150317_000009	Esse papel é meu! Nunca vou entregá-lo novamente!!{nl}Não... não é algo que você precisa - Vou apenas rasgá-lo. Aí.
+QUEST_LV_0100_20150317_000010	Sheesh, isso não é legal...
+QUEST_LV_0100_20150317_000011	Depois que todas as Deusas desapareceram, esses sonhos foram as primeiras coisas que surgiram.{nl}Talvez uma dessas pessoas seja aquela que trará as Deusas de volta.
+QUEST_LV_0100_20150317_000012	Soldado Blak
+QUEST_LV_0100_20150317_000013	Esteja avisado!{nl}Monstros estão atacando, então todos os civis devem evacuar!{nl}Porque esses civis estão na zona militar de qualquer forma?{nl}
+QUEST_LV_0100_20150317_000014	Ah, então você é o Revelator! Me desculpe, não o reconheci.{nl}Monstros estão atacando a base de suprimentos no momento.{nl}Eu preciso pegar algumas provisões importantes da base. Por favor me ajude!  
+QUEST_LV_0100_20150317_000015	Era pacífico há não muito tempo, mas agora eles estão vindo em grupos.{nl}O que está acontecendo exatamente?
+QUEST_LV_0100_20150317_000016	Mesmo assim, me senti inquieto...{nl}Quem iria saber que eles atacariam de uma maneira tão absurda?
+QUEST_LV_0100_20150317_000017	As rações estão no First Supply Warehouse, no qual você pode chegar usando a estrada no lado superior.{nl}Traga por mais que sejam sobras que encontrar...
+QUEST_LV_0100_20150317_000018	Eu escrevi quem é Sparnas. Talvez seja útil no futuro.{nl}Ainda que possa não parecer agora, eu era um biólogo há quatro anos.
+QUEST_LV_0100_20150317_000019	Por favor passe esse relatório para Luders.{nl}Ele provavelmente está no Center Supply Camp.
+QUEST_LV_0100_20150317_000020	Oficial Luders
+QUEST_LV_0100_20150317_000021	Ah, você deve ser o chamado #pending Revelator. Prazer em conhecê-lo.{nl}Esse é o relatório de Block?{nl}
+QUEST_LV_0100_20150317_000022	Hum... É assim mesmo?{nl}Eles apenas destruíram os suprimentos e fugiram. Mesmo que os Chupacabras tenham asas, tenho certeza de que eles não podem fazer algo como aquilo.{nl}
+QUEST_LV_0100_20150317_000023	Isso não é o suficiente.{nl}Me desculpe, mas por favor nos traga o relatório de Moody do #pending Amzina Curved Path.
+QUEST_LV_0100_20150317_000024 Me sinto melhor já que Luders está aqui.
+QUEST_LV_0100_20150317_000025	Soldado York
+QUEST_LV_0100_20150317_000026	Shaulems estão cruzando a estrada.{nl}Eu mesmo estou em pânico e não sei o que fazer.{nl}Tenho certeza de que Luders não deixará isso acontecer... O que devemos fazer?
+QUEST_LV_0100_20150317_000027	Você acha que o problema erá resolvido apenas derrotando Sparnas?
+QUEST_LV_0100_20150317_000028	Obrigado pela sua ajuda, eu acho que posso me segurar.{nl}Mas... esse tipo de coisa não acontecerá de novo? O que eu deveria fazer então...?
+QUEST_LV_0100_20150317_000029	Sparnas? Nós não temos uma resposta clara sobre isso.{nl}Apenas apareceu do céu sem qualquer sinal e destruiu todos os suprimentos que tínhamos. Então, desapareceu rapidamente.{nl}Nós temos dor de cabeça apenas ouvindo seu choro.
+QUEST_LV_0100_20150317_000030	O lugar que eu recém falei sobre é o #pending Second Supply Warehouse.{nl}É deprimente pensar como esses tipos de coisas serão recorrentes no futuro.
+QUEST_LV_0100_20150317_000031	Pegue. Eu fiz algumas iscas de grãos velhos nos suprimentos.{nl}Irei atraí-lo de lá, então você fica aqui.{nl}Sparanas definitivamente aparecerá em um desses dois locais. Não o deixe escapar. Destrua-o com certeza.{nl}
+QUEST_LV_0100_20150317_000032	Nós podemos não obter uma segunda chance se não derrotá-lo dessa vez.{nl}Não parece que eles são idiotas.
+QUEST_LV_0100_20150317_000033	Ouvi o som da luta, então vim depressa. Você o derrotou?{nl}Eu apenas avistei Shaulems do meu lugar.{nl}Obrigado. Você realizou um feito meritório.
+QUEST_LV_0100_20150317_000034	#pending Adjutant General Paulina
+QUEST_LV_0100_20150317_000035	Nós devemos recuperar os suprimentos roubados.{nl}Não podemos nos chamar de soldados do reino se não fizermos nada sobre isso.{nl}
+QUEST_LV_0100_20150317_000036	Os suprimentos roubados foram levados pelos Shaulems em cada #pending Supply Warehouse, recupere os suprimentos e os traga à Volda.
+QUEST_LV_0100_20150317_000037	Me sinto tão farto de ter que suportar isso o tempo todo.{nl}Reforços devem vir logo, mas o que podemos esperar de um reino tão incompetente?
+QUEST_LV_0100_20150317_000038	#pending Adjutant General Volda
+QUEST_LV_0100_20150317_000039	Muito obrigada, mas você estar atrasado para outras coisas.{nl}Além disso, não podemos só sentar aqui e esperar. Nós planejamos continuar atacando.
+QUEST_LV_0100_20150317_000040	#pending Secret Guardian
+QUEST_LV_0100_20150317_000041	A Deusa já previu isso.{nl}Nada pode escapar da visão dela.
+QUEST_LV_0100_20150317_000042	#pending Liaison Officer Niels
+QUEST_LV_0100_20150317_000043	Olá.{nl}Você viu um velho homem que se perdeu?{nl}Seu nome é Jonas.{nl}
+QUEST_LV_0100_20150317_000044	Você não o viu?{nl}Agora, para qual direção aquele débil velho companheiro vagaria?
+QUEST_LV_0100_20150317_000045	Jonas é descendente da família que tem protegido esse Mausoléu.{nl}Ele é uma pessoa muito importante para nossa equipe do laboratório, então por favor cuide bem dele.
+QUEST_LV_0100_20150317_000046	Arquivista Jonas
+QUEST_LV_0100_20150317_000047	Nossa família tem esperado por você por um longo tempo.{nl}É hora de lhe dar algo que temos protegido por muito tempo.
+QUEST_LV_0100_20150317_000048	É bom ouvir que Jonas recuperou seus sentidos.{nl}Você é a pessoa que lançou o sinal luminoso, certo?{nl}
+QUEST_LV_0100_20150317_000049	Ahylas veio para encontrar quem quer que tenha acendido o sinal.{nl}Encontre-o no andar de baixo.
+QUEST_LV_0100_20150317_000050	Nós não ouvimos qualquer notícia de Kepeck por um longo tempo, não desde que o enviamos suprimentos.{nl}Nós não temos pessoas o suficiente para formar uma equipe de busca, então por favor nos ajude a encontrá-lo.
+QUEST_LV_0100_20150317_000051	Historiador Viode
+QUEST_LV_0100_20150317_000052	Sempre esteja preparado para ataques de monstros.{nl}Sobretudo em lugares como aqui.
+QUEST_LV_0100_20150317_000053	Mercenário Mirta
+QUEST_LV_0100_20150317_000054	Eu já não avisei você?{nl}Por favor tenha cuidado da próxima vez.
+QUEST_LV_0100_20150317_000055	Historiador Kepeck
+QUEST_LV_0100_20150317_000056	Niels deve ter enviado você.{nl}Bem,já que está com pressa, arquive-o você mesmo e leve de volta à Niels.
+QUEST_LV_0100_20150317_000057	Se for reto, pegue a estrada à sua direita e atravesse a ponte, você verá os artefatos do #pending Great King Zachariel.{nl}Arquive-os e leve os arquivos de volta à Niels. Ele entenderá.
+QUEST_LV_0100_20150317_000058	Então esse é o arquivo de Kepeck... Mercenário Mirta estava procurando por isso.{nl}Você ajudou a confirmar a segurança de dois indivíduos. Obrigado por seus esforços.
+QUEST_LV_0100_20150317_000059	Ahylas Jonas
+QUEST_LV_0100_20150317_000060	Agora leve a #pending unsealing stone e vá para #pending Broken Pillar Canyon. {nl}O Discípulo de Gustas ensinará você como liberar o selo lá.
+QUEST_LV_0100_20150317_000061	Onde você não foi acompanhado ainda?{nl}Leve-o ao Discípulo de Gustas no #pending Broken Pillar Canyon.{nl}Ele é feito para deixar apenas o escolhido entrar.
+QUEST_LV_0100_20150317_000062	Discípulo de Gustas
+QUEST_LV_0100_20150317_000063	Você liberou o selo de #pending Pagasa Cliff?{nl}Começará agora.
+QUEST_LV_0100_20150317_000064	Palavras gravadas em uma rocha
+QUEST_LV_0100_20150317_000065	Não toque ou empurre a rocha.
+QUEST_LV_0100_20150317_000066	Estava esperando por você.{nl}O próximo selo está localizado no caminho para o #pending Collapsed Sanctum.
+QUEST_LV_0100_20150317_000067	Você não sabe o quão ansiosamente temos esperado por esse momento.{nl}Nós realmente queríamos lhe encontrar.
+QUEST_LV_0100_20150317_000068	Gustas Jonas
+QUEST_LV_0100_20150317_000069	É você.{nl}Você é muito mais valente do que havia imaginado.
+QUEST_LV_0100_20150317_000070	Soldado Alan
+QUEST_LV_0100_20150317_000071	Você é um novo recruta, certo?{nl}Recebi uma ordem de patrulha, mas imagino que você possa ir em meu nome.
+QUEST_LV_0100_20150317_000072	Você é bom para um novato.{nl}Eu tenho uma lembrança de algo horrível acontecendo lá uma vez, então não quero ir.
+QUEST_LV_0100_20150317_000073	Estou lembrando de algo...
+QUEST_LV_0100_20150317_000074	Você sabe que nós somos enviados aqui para derrotar Gaigalas, certo?{nl}Novato. Você pode levar esse relatório para Comandante Wallis?
+QUEST_LV_0100_20150317_000075	Comandante Wallis
+QUEST_LV_0100_20150317_000076	Por que você trouxe esse relatório sem Alan vir?{nl}Você é um novo recruta?
+QUEST_LV_0100_20150317_000077	Eu posso voltar para casa depois que derrotarmos Gaigalas.{nl}Bem, gostaria de ir para casa o quanto antes.
+QUEST_LV_0100_20150317_000078	Comandante Wallace está em #pending Bird Footprint Junction.
+QUEST_LV_0100_20150317_000079	Não me importa o quanto você é bom. Você é novo aqui.{nl}Isso é uma ordem. Traga um pouco de seiva dos #pending Keiva Raiders.
+QUEST_LV_0100_20150317_000080	Soldados de hoje em dia, falta-lhes coragem.{nl}Espero que você seja uma boa influência para eles.
+QUEST_LV_0100_20150317_000081	Está claro que iremos ganhar essa batalha.{nl}Por quê? Porque as Corujas estão ajudando.
+QUEST_LV_0100_20150317_000082	Os #pendig Kepa Raiders estão perto da #pending Ianutis Waterfall.{nl}Para derrotar Gaigalas, nós certamente precisaremos deles.
+QUEST_LV_0100_20150317_000083	Soldado Weiz
+QUEST_LV_0100_20150317_000084 Ei, novato, você está tirando uma folga?{nl}Consiga um pouco de gordura dps #pending Duckys em #pending Lengvas Garden.
+QUEST_LV_0100_20150317_000085	Atrairemos Gaigalas usando #pending Ducky Fat.{nl}Ei novato, não vadie.
+QUEST_LV_0100_20150317_000086	Hoje será o último dia para Gaigalas.{nl}Você está pronto, novato?
+QUEST_LV_0100_20150317_000087	Em seguida, arranjaremos couro dos #pending Cronewts em #pending Lengvas Garden.{nl}Depressa, soldado.
+QUEST_LV_0100_20150317_000088	Venceremos com certeza dessa vez.{nl}As Deusas estão ao nosso lado.
+QUEST_LV_0100_20150317_000089	Você é muito bom para um novato.{nl}Está desorganizado aqui no momento, então pode ficar com aqueles ingredientes por enquanto.{nl}
+QUEST_LV_0100_20150317_000090	Conheça nossos soldados enquanto faço as preparações para a batalha.{nl}Chamarei você antes de confrontarmos Gaigalas.
+QUEST_LV_0100_20150317_000091	Quando queimarmos a #pending Ducky Fat, Gaigalas aparecerá depois de sentir o odor.{nl}#pending Lengvas Garden será um bom lugar para queimá-la.
+QUEST_LV_0100_20150317_000092	Meu coração está aos pulos.{nl}Sinto como se minha alma estivesse palpitando com ele.
+QUEST_LV_0100_20150317_000093	#pending Old Owl Sculpture
+QUEST_LV_0100_20150317_000094	Não há ninguém nessa floresta. Por que você está aqui?{nl}
+QUEST_LV_0100_20150317_000095	Gaigalas?{nl}Derrotá-lo sem qualquer assistência será difícil.
+QUEST_LV_0100_20150317_000096	Tenho visto muitas mortes aqui.{nl}Não quero ver mais sacrifícios.
+QUEST_LV_0100_20150317_000097	Preciso de Seiva de #pending Kepa Raider e Couro de #pending Cronewt.
+QUEST_LV_0100_20150317_000098	Por que você tem aquilo?{nl}Entregue-me e farei um #pending Memory Fragment.
+QUEST_LV_0100_20150317_000099	Com este #pending Memory Fragment, reviverei as memórias de nossos camaradas adormecidos.
+QUEST_LV_0100_20150317_000100	Será difícil de derrotá-lo sem um #pending Memory Fragment.{nl}Por favor me traga #pending Infro Holder Horns.
+QUEST_LV_0100_20150317_000101	Como é que você têm todos estes ingredientes?
+QUEST_LV_0100_20150317_000102	Aquelas são pessoas que já se foram desse mundo. {nl}Eles estão repetindo o que aconteceu naquela época por sua raiva por Gaigalas. 
+QUEST_LV_0100_20150317_000103	Nós podemos acalmá-los se derrotarmos Gaigalas.{nl}Por favor, vá ver o #pending Worrying Owl.
+QUEST_LV_0100_20150317_000104	#pending Worrying Owl Sculpture
+QUEST_LV_0100_20150317_000105	Por favor me ajude a acordar meus camaradas adormecidos e completar a magia daquele dia.{nl}Com o #pending Memory Fragment.
+QUEST_LV_0100_20150317_000106	Eles podem ficar saciados.{nl}Ficarei aqui enquanto lembro de meus camaradas.
+QUEST_LV_0100_20150317_000107	Você encontrará Gaigalas quando ir à #pending Ishimtini Acess Way.{nl}Por favor, vingue os soldados caídos.
+QUEST_LV_0100_20150317_000108	Eu estava em um local isolado, então não adormeci.{nl}Mas assistir à tudo foi doloroso para mim.
+QUEST_LV_0100_20150317_000109	Meus camaradas foram atacados enquanto estavam tentando ajudar os soldados.
+QUEST_LV_0100_20150317_000110	Alguns símbolos começaram a aparecer no corpo de Jonas depois que ele bebeu o remédio.
+QUEST_LV_0100_20150317_000111	Arqueologista Dezic
+QUEST_LV_0100_20150317_000112	Estou procurando por minha assistente chamada Airine.{nl}Você pode derrotar os monstros por perto para eu poder procurá-la?
+QUEST_LV_0100_20150317_000113	Eu disse para ela não ficar animada mesmo se achar algo.{nl}E mesmo assim ela o fez de novo.
+QUEST_LV_0100_20150317_000114	Obrigado.{nl}Vou procurar Airine.
+QUEST_LV_0100_20150317_000115	Técnico Heinen
+QUEST_LV_0100_20150317_000116	Esse bonde só pode ser utilizado por aqueles com autorização. Sinto ter que dizer para você voltar para #pending Vienesa Highlands.
+QUEST_LV_0100_20150317_000117	Entretanto, se derrotar os monstros importunos ao redor dessa área, pensarei sobre isso.
+QUEST_LV_0100_20150317_000118	Não é melhor usar o bonde do que se ferir passando pelos monstros? É claro, isso se você pode utilizar o bonde.
+QUEST_LV_0100_20150317_000119	Muito melhor do que esperava.{nl}Eu quero propor um acordo para você.
+QUEST_LV_0100_20150317_000120		
+QUEST_LV_0100_20150317_000121	
+QUEST_LV_0100_20150317_000122	Aquela barreira... Hmm. Quando ela se formou?{nl}Ela tem estado lá por um bom tempo agora, mas não consigo lembrar exatamente há quanto.{nl}
+QUEST_LV_0100_20150317_000123	Tenho certeza que aquela barreira foi responsável por aumentar o número de monstros ultimamente.{nl}
+QUEST_LV_0100_20150317_000124	Nós não temos muitos soldados protegendo essa área.{nl}Quem em sã consciência viria aqui nesse dia e época?{nl}
+QUEST_LV_0100_20150317_000125	Rolandas Jonas
+QUEST_LV_0100_20150317_000126	Ninguém sabe o que o #pending Great King Zachariel tentou proteger.{nl}E tenho certeza que não somos os únicos que querem resolver aquele mistério.
+QUEST_LV_0100_20150317_000127	Depressa, use a #pending Great King's Key para liberar os selos.{nl}Você deve saber o que fazer em seguida.
+QUEST_LV_0100_20150317_000128	Encontrei Airine, mas não sei como resgatá-la.{nl}Ela está presa nas #pending Rodoma 2nd Ruins, mas eu não consigo resgatá-la...
+QUEST_LV_0100_20150317_000129	Assistente Airine
+QUEST_LV_0100_20150317_000130	Não posso me mover por causa da barreira.{nl}Por favor, quebre as três barreiras em #pending Rodoma Ruins.
+QUEST_LV_0100_20150317_000131	Não terminou ainda? Ah, geez...
+QUEST_LV_0100_20150317_000132	Não esperava ser levada para esse tipo de coisa.{nl}Oh, a bagunça que causei por perseguir aquele garoto.
+QUEST_LV_0100_20150317_000133	Mercenário Glen
+QUEST_LV_0100_20150317_000134	Tantos pesquisadores estão desaparecendo esses dias.{nl}Estou tentando achar pistas derrotando alguns Sauga. Pode nos ajudar?
+QUEST_LV_0100_20150317_000135	Os Saugas dividem seu #pending loot justamente entre eles.{nl}Talvez consigamos encontrar algumas pistas deles.
+QUEST_LV_0100_20150317_000136	Felizmente eles são muito velhos.{nl}Então isso significa que aqueles casos não são devido a monstros.
+QUEST_LV_0100_20150317_000137	Esse é um lugar muito perigoso onde muitos desaparecem devido a monstros ou a um passo em falso.{nl}Contudo, o que é interessante não é isso.{nl}
+QUEST_LV_0100_20150317_000138	Quando essas pessoas desaparecem, ninguém percebe.{nl}É como se memórias sobre aqueles que desapareceram fossem apagadas. Estranho, não é?{nl}
+QUEST_LV_0100_20150317_000139	Por favor, derrote todos os monstros próximos para prevenir algo de acontecer.{nl}Haviam relatórios que monstros no #pending 1st Architects' Site ficaram violentos.
+QUEST_LV_0100_20150317_000140	Esplêndido.{nl}Estaremos seguros por enquanto.
+QUEST_LV_0100_20150317_000141	Monstros estão vindo!{nl}Eles provavelmente descobriram que eu fui libertada.
+QUEST_LV_0100_20150317_000142	As Deusas lhe enviaram?{nl}Nunca pensei que você me protegeria.{nl}
+QUEST_LV_0100_20150317_000143	Aonde aquele escorpião enorme foi?Isso é muito ruim!
+QUEST_LV_0100_20150317_000144	Eu deveria ver Dezic.{nl}Espero vê-lo novamente no futuro.
+QUEST_LV_0100_20150317_000145	Alguém deve ter feito algo estranho para os monstros protegendo o #pending Royal Mausoleum.{nl}O que eles estavam pensando?
+QUEST_LV_0100_20150317_000146	Sir, segure-se. Sir!
+QUEST_LV_0100_20150317_000147	Novo Pesquisador
+QUEST_LV_0100_20150317_000148	Eu perdi meus importantes materiais de pesquisa no #pending Abandoned Old Workshop.{nl}Os monstros devem ter os levado... Eu deveria apenas desistir?
+QUEST_LV_0100_20150317_000149	Estou tão contente de ver o #pending Royal Mausoleum pessoalmente, mas os monstros... Eles são assustadores.
+QUEST_LV_0100_20150317_000150	Muito obrigado.{nl}Você deveria também checar o #pending Records Repository.
+QUEST_LV_0100_20150317_000151	A entrada para o #pending Royal Mausoleum está escondida em algum lugar desse gigantesco desfiladeiro.{nl}O desfiladeiro começa aqui.
+QUEST_LV_0100_20150317_000152	Muitos especialistas vieram aqui para conduzir pesquisa no #pending Royal Mausoleum.{nl}Talvez consigamos achar pistas sobre Medzio Diena aqui.
+QUEST_LV_0100_20150317_000153	Por que há tantos monstros no desfiladeiro quando existem tão pouca vida vegetal ao redor?
+QUEST_LV_0100_20150317_000154	O que aconteceu com meu pedido? Não está pronto ainda?
+QUEST_LV_0100_20150317_000155	Olhe o solo de perto.{nl}Pode ter caído.
+QUEST_LV_0100_20150317_000156	Hmm, só esses?{nl}Bem, muito obrigado por achar esse tanto ao menos.{nl}Posso apenas copiar os outros do começo novamente.
+QUEST_LV_0100_20150317_000157	Niels enviou você também?{nl}Eu não vou.Tenho que pesquisar essas flores silvestres.{nl}
+QUEST_LV_0100_20150317_000158	Creio que o que vi era uma ilusão.{nl}Devo recompensá-lo por proteger um mineralogista como eu.{nl}
+QUEST_LV_0100_20150317_000159	Sim.{nl}Traga-me meus arquivos de Niels.
+QUEST_LV_0100_20150317_000160	Jonas lhe disse para trazer seus arquivos?{nl}Okay.Em troca, por favor lhe traga um pouco de remédio.
+QUEST_LV_0100_20150317_000161	O remédio ajudará a tranquilizá-lo.{nl}Davio no lado direito do #pending Research Camp tem o remédio.
+QUEST_LV_0100_20150317_000162	Jonas é o líder da família que protege o #pending Royal Mausoleum do #pending Great King Zachariel.{nl}Ele já foi muito sadio, mas hoje em dia está velho e fraco.{nl}
+QUEST_LV_0100_20150317_000163	Foi depois que Jonas saiu para uma visita com seu serviçal.{nl}Jonas foi encontrado com demência e o serviçal está desaparecido até hoje.
+QUEST_LV_0100_20150317_000164	Por favor cuide bem de Jonas.{nl}Seria um grande problema se ele se machucasse.
+QUEST_LV_0100_20150317_000165	Davio está no lado direito do acampamento.{nl}Espero que o remédio funcione bem.
+QUEST_LV_0100_20150317_000166	Finalmente, me lembro de tudo.{nl}Sou o líder da família que protege o #pending Royal Mausoleum... Quem é você?{nl}
+QUEST_LV_0100_20150317_000167	#pending Revelator. Se esse é o desejo da Deusa, então você deve ser qualificado.{nl}Você tem um trabalho a fazer, então me siga para #pending Beacon Hill Pass.
+QUEST_LV_0100_20150317_000168	Fiz Niels e você se preocuparem...
+QUEST_LV_0100_20150317_000169	Liderarei o caminho e você cuidará de qualquer monstro que encontrarmos.{nl}Estou contando com você.
+QUEST_LV_0100_20150317_000170	A hora é agora. Por favor, vá adiante para o #pending Beacon Hill Pass.
+QUEST_LV_0100_20150317_000171	Tenho certeza que você é qualificado para isso.{nl}Deusa Laima conduziu tudo isso.
+QUEST_LV_0100_20150317_000172	Finalmente o tesouro oculto pode ser repassado para alguém.{nl}Me arrependo de não reconhcer você mais cedo devido à minha senilidade.
+QUEST_LV_0100_20150317_000173	#pending Great King Zachariel nos disse para conceder seu tesouro oculto à uma pessoa qualificada.{nl}Você pode checar se é qualificado ou não com os #pending Eyes of the Great King.
+QUEST_LV_0100_20150317_000174	Nós temos mais uma responsabilidade além de proteger o #pending Royal Mausoleum.{nl}E é proteger a herança até que uma pessoa qualificada venha.{nl}
+QUEST_LV_0100_20150317_000175	Nós não temos ideia do que exatamente o tesouro oculto é.{nl}O rei apenas nos disse para protegê-lo,então estamos apenas seguindo sua ordem.
+QUEST_LV_0100_20150317_000176	#pending Medicine Dealer
+QUEST_LV_0100_20150317_000177	Hm... Bem, há uma erva que somente cresce ao redor de #pending Metos Field.{nl}Por favor me traga-a.
+QUEST_LV_0100_20150317_000178	#pending Metos Field é o melhor lugar para despertar a percepção de alguém. Especialmente para um velho homem.
+QUEST_LV_0100_20150317_000179	Bom trabalho. Você é bastante perspicaz, não é?{nl}
+QUEST_LV_0100_20150317_000180	Certo, está pronto.{nl}Leve isso para Davio.
+QUEST_LV_0100_20150317_000181	Mercador Davio
+QUEST_LV_0100_20150317_000182	Eu trouxe o remédio daquele velho homem. {nl}Mas precisei de um grande esforço para obtê-lo. Eu devo confiar mais em você.{nl}
+QUEST_LV_0100_20150317_000183	O ouro que os Lichenclops tem nessa cidade será suficiente.{nl}Traga aqueles para o #pending Medicine Dealer em Kapas Highway.
+QUEST_LV_0100_20150317_000184	Isso será suficiente. Davio enviou você, certo?{nl} Eu ainda preciso de mais um ingrediente para fazer o remédio realmente efetivo.
+QUEST_LV_0100_20150317_000185	Para fazer o remédio, eu precisava achar a causa dos sintomas de Jonas e isso me deixou louco.{nl}Por estranho que pareça, eram causados por um feitiço que foi usado há muito.{nl}
+QUEST_LV_0100_20150317_000186	Ouvi um rumor que o #pending Great King Zachariel apagou as memórias de todos os trabalhadores depois da construção do #pending Royal Mausoleum.{nl}Aquele deve ser o feitiço lançado em Jonas, embora ele também seja um pouco senil.
+QUEST_LV_0100_20150317_000187	Foi difícil conseguir o remédio daquele velho homem.{nl}Porém, há algo que eu não consigo obter.
+QUEST_LV_0100_20150317_000188	Será completado assim que o dissolver no mel que você tem. Leve-o com você.
+QUEST_LV_0100_20150317_000189	Aquele remédio funciona bem. Faça ele engolí-lo de alguma forma.
+QUEST_LV_0100_20150317_000190	Você está atrasado.{nl}Trouxe meu arquivo?
+QUEST_LV_0100_20150317_000191	Vá para o #pending Abandoned Old Workshop.{nl}Um velho homem está vagando por aí. Acho que é Jonas.
+QUEST_LV_0100_20150317_000192	O que é isso? Tem cheiro de hidromel!
+QUEST_LV_0100_20150317_000193	Me sinto tonto.{nl}O que estou fazendo aqui de qualquer forma?
+QUEST_LV_0100_20150317_000194 Estou aliviado que você me achou.{nl}Quando os monstros estavam me perseguindo, perdi meus pertences e todos os materiais.{nl}No mínimo, pode achar os materiais espalhados?
+QUEST_LV_0100_20150317_000195	Não tenho muito a dizer como um humilde mercenário.{nl}Embora eu estivesse bem mesmo em Medzio Diena, estou certo de que esse lugar é amaldiçoado.{nl}
+QUEST_LV_0100_20150317_000196	Quanto tempo faz desde que vim aqui?{nl}Onde está Mirta e quem é você?
+QUEST_LV_0100_20150317_000197	Estou tentando lembrar de algo, mas continua desvanecendo sempre que chego perto.
+QUEST_LV_0100_20150317_000198	Vaidotas
+QUEST_LV_0100_20150317_000199	Esse cheiro... Acho que o aparelho purificador na mina está quebrado.{nl}É melhor o repararmos rapidamente. Os habitantes raptados podem sufocar.
+QUEST_LV_0100_20150317_000200	Você sabe sobre a lenda de Cunningham?{nl}A lenda diz que um grande demônio foi selado aqui na #pending Crystal Mine.{nl}Há um livro com mais detalhes sobre isso no #pending Mine Worker's Resting Place in Crystal Mine 2F.{nl}
 QUEST_LV_0100_20150317_000201
 QUEST_LV_0100_20150317_000202
 QUEST_LV_0100_20150317_000203
@@ -248,279 +248,279 @@ QUEST_LV_0100_20150317_000247
 QUEST_LV_0100_20150317_000248
 QUEST_LV_0100_20150317_000249
 QUEST_LV_0100_20150317_000250
-QUEST_LV_0100_20150317_000251	$Mercenário Toby
-QUEST_LV_0100_20150317_000252	$Você quer fazer uma simples tarefa para mim?{nl}Sou um rosto conhecido, então será difícil fazê-la eu mesmo.
-QUEST_LV_0100_20150317_000253	$Se não quiser, então não precisa.{nl}Há pessoas de sobra por aí que podem fazer isso.
-QUEST_LV_0100_20150317_000254	$Você passou.{nl}A força que você possui é enorme.
-QUEST_LV_0100_20150317_000255	$Definitivamente vale a pena.{nl}Mesmo se o Rei gastou todos seus bens construindo o Mausoléu, é enorme.
-QUEST_LV_0100_20150317_000256	$Julgando a partir disso, esses equipamentos não são permitidos.{nl}Não os deixe espalhados.{nl}
-QUEST_LV_0100_20150317_000257	$Certo. Traga-me mais evidências de que aquelas pessoas fazem falsificações.{nl}Faça o que for preciso.
-QUEST_LV_0100_20150317_000258	$Estou procurando por evidências da falsificação de artefatos.{nl}Sua primeira tarefa será me trazer quaisquer ferramentas de escavação ilegais que encontrar.
-QUEST_LV_0100_20150317_000259	{memo X}$É claro que deve mostrar suas habilidades.{nl}Derrotar #pending Desert Chupacabras ou Zinutes será suficiente.
-QUEST_LV_0100_20150317_000260	$#pending Supply Officer
-QUEST_LV_0100_20150317_000261	$Muito obrigado pela sua ajuda.{nl}Creio que isso será suficiente.{nl}
-QUEST_LV_0100_20150317_000262	{memo X}$)}{nl}Se tiver tempo, por favor diga a nossas tropas para se reunirem.{nl}Se escolher não fazê-lo, você pode apenas ir adiante para Klaipeda.
-QUEST_LV_0100_20150317_000263	$#pending Scout
-QUEST_LV_0100_20150317_000264	$Volte, é perigoso!{nl}Kepas logo marcharão.
-QUEST_LV_0100_20150317_000265	$Oh, você é um #pending Revelator. Deve ser o destino estarmos para lutar juntos. {nl}Deixe-me lhe informar a situação.
-QUEST_LV_0100_20150317_000266	$Você mencionou que precisamos nos reunir, certo?{nl}Ajude-me a encontrar algumas bagagens perdidas e irei assim que puder.
-QUEST_LV_0100_20150317_000267	$Já encontrou meus pertences? Não posso ir sem eles.
-QUEST_LV_0100_20150317_000268	$Muito obrigado. Você os encontrou mais cedo do que esperava.{nl}
-QUEST_LV_0100_20150317_000269	$Se seguir a estrada para o norte, encontrará o #pending Search Scout.{nl}Boa sorte.
-QUEST_LV_0100_20150317_000270	$Laimonas
-QUEST_LV_0100_20150317_000271	{memo X}$Já venerou a Estátua?{nl}Se não, eu realmente recomendo.
-QUEST_LV_0100_20150317_000272	$Isso depende de qual Deusa é.{nl}Se seguir a estrada para a direita encontrará a Estátua da Deusa Zemyna.
-QUEST_LV_0100_20150317_000273	{memo x}$Eu realmente me preocupo que os monstros possam danificar a Estátua da Deusa.
-QUEST_LV_0100_20150317_000274	$Estou feliz que a estátua está ilesa.{nl}Os monstros aqui sabem temer a Deusa.{nl}
-QUEST_LV_0100_20150317_000275	$Desça a #pending Shadow Forest Road e deve chegar à Klaipeda pouco depois.{nl}Bem então, que as bênçãos da Deusa estejam com você.
-QUEST_LV_0100_20150317_000276	{memo X}$Por favor, faça-me um favor se está se dirigindo à Klaipeda.{nl}Não é fácil ir e vir de Klaipeda por causa dos #pending Infrorocktors hoje em dia.
-QUEST_LV_0100_20150317_000277	$Talvez cuidar das estátuas fará as Deusas retornarem mais cedo...
-QUEST_LV_0100_20150317_000278	{memo X}$Siga a estrada à esquerda do cruzamento do acampamento.{nl}{-scp SCR_DIALOG_NPC_ANIM(
-QUEST_LV_0100_20150317_000279	$)} Você conhecerá as tropas imediatamente.
-QUEST_LV_0100_20150317_000280	$)}Certo, bom trabalho.{nl}Você chegará em Klaipeda logo se seguir a #pending Shadow Forest Road.{nl}Não esqueça visitar Sir Uska.
-QUEST_LV_0100_20150317_000281	$#pending Battle Commander
-QUEST_LV_0100_20150317_000282	$Farei meus homens notificarem as tropas para se reunirem.{nl}Você deve informar Sir Titas.
-QUEST_LV_0100_20150317_000283	$A tarefa não deve ser nada muito difícil.{nl}Se não quer ajudar, lhe mandarei para Klaipeda imediatamente.
-QUEST_LV_0100_20150317_000284	$#pending Search Scout
-QUEST_LV_0100_20150317_000285	{memo X}$Certamente é um problema.{nl}Não sabia que Kepas podiam crescer tanto.
-QUEST_LV_0100_20150317_000286	$Um #pending Revelator não deveria estar se dirigindo à Klaipeda ao invés de ficar por aí?
-QUEST_LV_0100_20150317_000287	{memo X}$Estou tão aliviado de ser designado para #pending Western Woods.{nl}Há lugares onde você preferiria morrer a ser designado.
-QUEST_LV_0100_20150317_000288	{memo X}$Quando ver uma Estátua de Deusa, experimente venerá-la.{nl}Certamente algo agradável acontecerá.
-QUEST_LV_0100_20150317_000289	$Esta é uma área perigosa. O que está fazendo aqui?
-QUEST_LV_0100_20150317_000290	$Muito obrigado.{nl}Devo reportar o #pending Large Kepa perambulante a Titas.
-QUEST_LV_0100_20150317_000291	{memo X}$Estranho... Esse não é o tipo de monstro que se encontra em um lugar como esse.{nl}Deve ser difícil viajar.
-QUEST_LV_0100_20150317_000292	{memo X}$Se reunir já?{nl}Isso é duro. Ainda há um monte de missões.
-QUEST_LV_0100_20150317_000293	{memo X}$Primeiro, derrote os Hanamings ao redor daqui.{nl}Então, colete suas pétalas.
-QUEST_LV_0100_20150317_000294	$Ainda que isso não foi sobre os #pending Revelators, é sim o retorno das Deusas,{nl}eu não abandonaria minha missão antes que ela acabe.
-QUEST_LV_0100_20150317_000295	{memo X}$Sim. Isso deve ser o suficiente.{nl}Aqui está uma pílula que recuperará sua #pending stamina instantaneamente. Tenho o bastante disso, então lhe darei isso como um presente.{nl}
-QUEST_LV_0100_20150317_000296	{memo X}$#pending Stamina é consumida quando você se movimenta.{nl}Você pode recuperar #pending stamina destruindo um #pending Tree Root Crystal ou descansando.{nl}Porém você pode não ter tempo para isso quando estiver sendo perseguido por monstros.{nl}É quando essa pílula é útil. 
-QUEST_LV_0100_20150317_000297	{memo X}$Ouvi notícias de meus homens e estava me preocupando.{nl}Tudo está bem se acaba bem.
-QUEST_LV_0100_20150317_000298	$#pending Klaipeda Resident
-QUEST_LV_0100_20150317_000299	$)} {nl}Quando acha que a Deusa voltará?{nl}Mesmo que pergunte aos #pending Revelators, tudo o que eles dizem é que precisam ir para Klaíeda...
-QUEST_LV_0100_20150317_000300	$Você é um #pending Revelator?{nl}A Deusa não apareceu em seu sonho?{nl}Ouvi isso dos soldados.
-QUEST_LV_0100_20150317_000301	$#pending Trooper
-QUEST_LV_0100_20150317_000302	$Me pergunto o que as Deusas estão fazendo...
-QUEST_LV_0100_20150317_000303	{memo X}$Muito obrigado por vir aqui.{nl}Sou Uska, o #pending Knight Commander encarregado de Siauliai e Klaipeda. 
-QUEST_LV_0100_20150317_000304	{memo X}$O bispo também sonhou uma #pending Revelation.{nl}Ele me disse para enviar os #pending Revelators para #pending Crystal Mine.{nl}
-QUEST_LV_0100_20150317_000305	$Me informe quando estiver pronto para ir para #pending Crystal Mine.{nl}Lhe falarei a localização e como chegar.
-QUEST_LV_0100_20150317_000306	$O bispo nos disse para enviar os #pending Revelators para #pending Crystal Mine.{nl}Ele falou que a Deusa o disse para fazer isso.{nl}
-QUEST_LV_0100_20150317_000307	{memo X}$Mas a #pending Miner's Viillage está em guerra com os Vubbes {nl}e sua entrada está limitada apenas para pessoas autorizadas. #pending Knight Aras é quem está administrando tropas em #pending East Siauliai Woods. {nl}Você deveria falar com ele.
-QUEST_LV_0100_20150317_000308	{memo X}$Monstros têm estado ao redor por um longo tempo, {nl}mas eles apenas começaram a se tornar violentos quatro anos atrás. {nl}Os mais afetados seriam os do tipo planta. Eles não existiam antes.{nl}	
-QUEST_LV_0100_20150317_000309	$É claro, feras não foram exceção.{nl}Quando monstros que pareciam ter se fundido com demônios apareceram, pensei que o fim estava próximo.
-QUEST_LV_0100_20150317_000310	$#pending Knight Aras
-QUEST_LV_0100_20150317_000311	{memo X}$Você não está ferido?{nl}Agradeço que você tenha se livrado do Poata, porque era realmente imprudente.
-QUEST_LV_0100_20150317_000312	{memo X}$Você quer entrar na #pending Crystal Mine?{nl}A #pending Miner's Village está atualmente em guerra com os Vubbes e é muito perigoso,{nl}assim não posso permitir isso.
-QUEST_LV_0100_20150317_000313	{memo X}$E nossas tropas não estão em condição de proteger você.{nl}Me desculpe mas você terá que voltar.
-QUEST_LV_0100_20150317_000314	$Se você não conseguir derrotar o Pokubus, terá que desistir de entrar na #pending Miner's Village.
-QUEST_LV_0100_20150317_000315	{memo X}$Muito obrigado.{nl}Não se preocupe, manterei minha promessa.
-QUEST_LV_0100_20150317_000316	$#pending Outpost Sentinel
-QUEST_LV_0100_20150317_000317	{memo X}$Embora esteja preocupado com a situação na #pending Miner's Village, não estou me acostumando com as constantes lutas e descanso. Quem dera se os Chupacabras pudessem ser lidados em algum grau, estaríamos muito melhores.
-QUEST_LV_0100_20150317_000318	$Outros monstros também estão chegando em grandes quantidades em áreas onde Chupacabras vivem.{nl}#pending Miner's Village é um problema por si mas há coisas demais para prestar atenção.
-QUEST_LV_0100_20150317_000319	$Muito obrigado.{nl}Sua assistência realmente ajuda a levantar nossos espíritos.
-QUEST_LV_0100_20150317_000320	$Com suas habilidades, tenho mais um favor a pedir.{nl}Você pode nos ajudar a expulsar os Chupacabras no campo de suprimentos também? 
-QUEST_LV_0100_20150317_000321	$#A Miners' Village é um problema mas a situação aqui não é tão boa também. {nl}Nós temos que preparar algumas medidas antes que o número de monstros aumente ainda mais??
-QUEST_LV_0100_20150317_000322	$Você já terminou?{nl}Nunca vi ninguém tão rápido quanto você antes.
-QUEST_LV_0100_20150317_000323	$Estou em uma missão para encontrar a causa do aumento repentino de monstros em #pending Eastern Woods.{nl}Também atuo como o intermediário nos suprimentos em #pending Miners' Village.
-QUEST_LV_0100_20150317_000324	$Há outros caveleiros fora em #pending Miners' Village. {nl}Francamente, a batalha aqui está demorando mais do que pensávamos, já que imaginamos que a batalha terminaria assim que Aras estivesse aqui.
-QUEST_LV_0100_20150317_000325	{memo X}$Já que irá ajudar, por favor derrote os #pending Giant Gray Chupacabras também.{nl}Eles são os culpados roubando nossos suprimentos.
-QUEST_LV_0100_20150317_000326	{memo X}$#pending Giant Gray Chupacabras devem aparecer agora que você derrotou os Chupacabras.{nl}Bem então, obrigado por auxiliar.
-QUEST_LV_0100_20150317_000327	$Muito obrigado.{nl}Agora posso finalmente trabalhar facilmente.
-QUEST_LV_0100_20150317_000328	{memo X}$Encontrar a causa dos monstros é importante,{nl}mas estou mais preocupado sobre os suprimentos não chegando em #pending Miners' Village.
-QUEST_LV_0100_20150317_000329	$O movimento de #pending Weavers nas áreas rebaixadas do córrego parece suspeito.{nl}Parece que eles estão tentando interferir com os suprimentos para a #pending Miners' Village.
-QUEST_LV_0100_20150317_000330	$Nós podemos ter que desistir de nossos suprimentos atuais e auxiliar nós mesmos até que o próximo lote de suprimentos chegue.
-QUEST_LV_0100_20150317_000331	$Muito obrigado.{nl}Com você nos ajudando dessa forma, não seremos derrotados.
-QUEST_LV_0100_20150317_000332	$Sua próxima missão é encontrar a causa do número de monstros aumentando.{nl}Popolions têm um grande apetite, então espero que possamos encontrar uma pista.
-QUEST_LV_0100_20150317_000333	$Embora a #pending Miners' Village esteja em apuros, dado que a situação alcançou #pending Eastern Woods,{nl}não podemos garantir a segurança de Klaipeda.{nl}Podemos apenas esperar que Klaipeda esteja indo bem.
-QUEST_LV_0100_20150317_000334	$#pending Operations Officer
-QUEST_LV_0100_20150317_000335	$Você foi enviado por Aras?{nl}Esse é um pedaço de roupa de Vubbe. Ah... entendo...
-QUEST_LV_0100_20150317_000336	$Creio que os Vubbes de #pending Miners' Village foram em direção ao bosque.{nl}Talvez essa seja a razão por trás do avanço anormal em monstros também.{nl}
-QUEST_LV_0100_20150317_000337	$É melhor eu pedir para Aras procurar Vubbes em outras regiões também.{nl}Enquanto isso, gostaria que você olhasse as áreas superiores.
-QUEST_LV_0100_20150317_000338	$Nós não revistamos as áreas superiores ainda.{nl}É claro que deveríamos estar enviando tropas, mas peço sua ajuda já que esse é um assunto urgente.
-QUEST_LV_0100_20150317_000339	$Você viu um #pending Vubbe Fighter mas o perdeu?{nl}Também recebemos um relatório de #pending Vubbe Fighter aparecendo na área Meridional.{nl}
-QUEST_LV_0100_20150317_000340	$Primeiramente, fale com o #pending Search Scout junto à ponte na área baixa da #pending Bulvjes Farm.{nl}Essa se tornará uma campanha tediosa, prolongada se deixarmos aquele #pending Vubbe Fighter correr solto.
-QUEST_LV_0100_20150317_000341	{memo X}$Então os #pending Vubbe Fighters são o motivo por trás do crescente número de monstros.{nl}Por favor descubra quantos #pending Vubbe Fighters há.{nl}
-QUEST_LV_0100_20150317_000342	$Sob as circunstâncias, faz sentido que os monstros sejam controlados pelos #pending Vubbe Fighters.{nl}Porém no fundo, você apenas não quer acreditar nisso.
-QUEST_LV_0100_20150317_000343	$Segundo seu relatório, não há mais #pending Vubbe Fighters nesses bosques.{nl}
-QUEST_LV_0100_20150317_000344	{memo X}$Parece que os #pending Vubbe Fighters foram derrotados. {nl}Eu alertei o #pending Search Scout na Nudegi Felled Area.
-QUEST_LV_0100_20150317_000345	$#pending Supply Soldier
-QUEST_LV_0100_20150317_000346	$Nós precisamos de #pending Weaver Claws como parte dos suprimentos a serem enviados para #pending Miners' Village, {nl}mas não temos tempo para procurar por eles.{nl}O que faremos?
-QUEST_LV_0100_20150317_000347	$Na verdade, não faz sentido para o #pending Supply Soldier reaver diretamente os suprimentos.{nl}Dever ter vindo direto de Klaipeda.
-QUEST_LV_0100_20150317_000348	$Muito obrigado.{nl}Ajuda inesperada é sempre boa.
-QUEST_LV_0100_20150317_000349	$De fato, tudo teria sido bom se os Pokubus não estivessem por perto.{nl}Os Pokubus estavam correndo à solta e é por isso que não fomos capazes de reaver todos os suprimentos.
-QUEST_LV_0100_20150317_000350	$Não sei por que eles repentinamente começaram a predar os suprimentos.{nl}Poderia algo estar os comandando?
-QUEST_LV_0100_20150317_000351	$Muito obrigado.{nl}Eu invejo sua habilidade.
-QUEST_LV_0100_20150317_000352	$#pending Eastern Woods Search Scout
-QUEST_LV_0100_20150317_000353	$Ah, é você.{nl}Ouvi do #pending Operations Officer.{nl}
-QUEST_LV_0100_20150317_000354	{memo X}$Um #pending Vubbe Fighter está se escondendo na #pending Nudegi Felled Area.{nl}Recebemos ordens para matá-lo, mas pode ser mais seguro esperar por tropas adicionais.
-QUEST_LV_0100_20150317_000355	$Sou apenas um #pending Search Scout, mas essa foi a primeira vez que vi um #pending Vubbe Fighter de perto.
-QUEST_LV_0100_20150317_000356	$Incrível, você se livrou dele sozinho?{nl}Reporte a Aras,ele ficará muito satisfeito em ouvir isso.
-QUEST_LV_0100_20150317_000357	$Você realmente derrotou o #pending Vubbe Fighter sozinho!{nl}Que alívio, agora o número de monstros irá parar de aumentar.
-QUEST_LV_0100_20150317_000358	$É claro. Como prometido, lhe garantirei acesso à #pending Miners' Village.{nl}Por favor aguarde.
-QUEST_LV_0100_20150317_000359	$Se encontrar quaisquer pistas, informe ao #pending Operations Officer na área norte.
-QUEST_LV_0100_20150317_000360	$A #pending Miners' Village está em uma situação terrível.{nl}É tarde demais para organizar as tropas, então por favor vá adiante e auxilie a #pending Miners' Village.
-QUEST_LV_0100_20150317_000361	$Eles têm pouca inteligêcia, mas esses monstros formam grupos e vivem como uma comunidade.{nl}Eles costumavam aparecer apenas ocasionalmente nas áreas mais profundas das minas...{nl}Poderiam eles estar expandindo suas forças?{nl}
-QUEST_LV_0100_20150317_000362	$Qualquer que seja a razão, os Vubbes expandindo seu território é um grande problema.{nl}Monstros que perdem seu território para os Vubbes serão forçados a vir em direção à nossa base.
-QUEST_LV_0100_20150317_000363	$É uma estrada única daqui, então você será capaz de encontrar as pessoas facilmente.{nl}
-QUEST_LV_0100_20150317_000364	{memo X}$Ah, deixe-me lhe fornecer algumas informações úteis em retorno por sua ajuda.{nl}A evidência da salvação que os #Revelators estão procurando pode ser encontrada na #pending Closed Area.
+QUEST_LV_0100_20150317_000251	Mercenário Toby
+QUEST_LV_0100_20150317_000252	Você quer fazer uma simples tarefa para mim?{nl}Sou um rosto conhecido, então será difícil fazê-la eu mesmo.
+QUEST_LV_0100_20150317_000253	Se não quiser, então não precisa.{nl}Há pessoas de sobra por aí que podem fazer isso.
+QUEST_LV_0100_20150317_000254	Você passou.{nl}A força que você possui é enorme.
+QUEST_LV_0100_20150317_000255	Definitivamente vale a pena.{nl}Mesmo se o Rei gastou todos seus bens construindo o Mausoléu, é enorme.
+QUEST_LV_0100_20150317_000256	Julgando a partir disso, esses equipamentos não são permitidos.{nl}Não os deixe espalhados.{nl}
+QUEST_LV_0100_20150317_000257	Certo. Traga-me mais evidências de que aquelas pessoas fazem falsificações.{nl}Faça o que for preciso.
+QUEST_LV_0100_20150317_000258	Estou procurando por evidências da falsificação de artefatos.{nl}Sua primeira tarefa será me trazer quaisquer ferramentas de escavação ilegais que encontrar.
+QUEST_LV_0100_20150317_000259	É claro que deve mostrar suas habilidades.{nl}Derrotar #pending Desert Chupacabras ou Zinutes será suficiente.
+QUEST_LV_0100_20150317_000260	#pending Supply Officer
+QUEST_LV_0100_20150317_000261	Muito obrigado pela sua ajuda.{nl}Creio que isso será suficiente.{nl}
+QUEST_LV_0100_20150317_000262	)}{nl}Se tiver tempo, por favor diga a nossas tropas para se reunirem.{nl}Se escolher não fazê-lo, você pode apenas ir adiante para Klaipeda.
+QUEST_LV_0100_20150317_000263	#pending Scout
+QUEST_LV_0100_20150317_000264	Volte, é perigoso!{nl}Kepas logo marcharão.
+QUEST_LV_0100_20150317_000265	Oh, você é um #pending Revelator. Deve ser o destino estarmos para lutar juntos. {nl}Deixe-me lhe informar a situação.
+QUEST_LV_0100_20150317_000266	Você mencionou que precisamos nos reunir, certo?{nl}Ajude-me a encontrar algumas bagagens perdidas e irei assim que puder.
+QUEST_LV_0100_20150317_000267	Já encontrou meus pertences? Não posso ir sem eles.
+QUEST_LV_0100_20150317_000268	Muito obrigado. Você os encontrou mais cedo do que esperava.{nl}
+QUEST_LV_0100_20150317_000269	Se seguir a estrada para o norte, encontrará o #pending Search Scout.{nl}Boa sorte.
+QUEST_LV_0100_20150317_000270	Laimonas
+QUEST_LV_0100_20150317_000271	Já venerou a Estátua?{nl}Se não, eu realmente recomendo.
+QUEST_LV_0100_20150317_000272	Isso depende de qual Deusa é.{nl}Se seguir a estrada para a direita encontrará a Estátua da Deusa Zemyna.
+QUEST_LV_0100_20150317_000273	Eu realmente me preocupo que os monstros possam danificar a Estátua da Deusa.
+QUEST_LV_0100_20150317_000274	Estou feliz que a estátua está ilesa.{nl}Os monstros aqui sabem temer a Deusa.{nl}
+QUEST_LV_0100_20150317_000275	Desça a #pending Shadow Forest Road e deve chegar à Klaipeda pouco depois.{nl}Bem então, que as bênçãos da Deusa estejam com você.
+QUEST_LV_0100_20150317_000276	Por favor, faça-me um favor se está se dirigindo à Klaipeda.{nl}Não é fácil ir e vir de Klaipeda por causa dos #pending Infrorocktors hoje em dia.
+QUEST_LV_0100_20150317_000277	Talvez cuidar das estátuas fará as Deusas retornarem mais cedo...
+QUEST_LV_0100_20150317_000278	Siga a estrada à esquerda do cruzamento do acampamento.{nl}{-scp SCR_DIALOG_NPC_ANIM(
+QUEST_LV_0100_20150317_000279	)} Você conhecerá as tropas imediatamente.
+QUEST_LV_0100_20150317_000280	)}Certo, bom trabalho.{nl}Você chegará em Klaipeda logo se seguir a #pending Shadow Forest Road.{nl}Não esqueça visitar Sir Uska.
+QUEST_LV_0100_20150317_000281	#pending Battle Commander
+QUEST_LV_0100_20150317_000282	Farei meus homens notificarem as tropas para se reunirem.{nl}Você deve informar Sir Titas.
+QUEST_LV_0100_20150317_000283	A tarefa não deve ser nada muito difícil.{nl}Se não quer ajudar, lhe mandarei para Klaipeda imediatamente.
+QUEST_LV_0100_20150317_000284	#pending Search Scout
+QUEST_LV_0100_20150317_000285	Certamente é um problema.{nl}Não sabia que Kepas podiam crescer tanto.
+QUEST_LV_0100_20150317_000286	Um #pending Revelator não deveria estar se dirigindo à Klaipeda ao invés de ficar por aí?
+QUEST_LV_0100_20150317_000287	Estou tão aliviado de ser designado para #pending Western Woods.{nl}Há lugares onde você preferiria morrer a ser designado.
+QUEST_LV_0100_20150317_000288	Quando ver uma Estátua de Deusa, experimente venerá-la.{nl}Certamente algo agradável acontecerá.
+QUEST_LV_0100_20150317_000289	Esta é uma área perigosa. O que está fazendo aqui?
+QUEST_LV_0100_20150317_000290	Muito obrigado.{nl}Devo reportar o #pending Large Kepa perambulante a Titas.
+QUEST_LV_0100_20150317_000291	Estranho... Esse não é o tipo de monstro que se encontra em um lugar como esse.{nl}Deve ser difícil viajar.
+QUEST_LV_0100_20150317_000292	Se reunir já?{nl}Isso é duro. Ainda há um monte de missões.
+QUEST_LV_0100_20150317_000293	Primeiro, derrote os Hanamings ao redor daqui.{nl}Então, colete suas pétalas.
+QUEST_LV_0100_20150317_000294	Ainda que isso não foi sobre os #pending Revelators, é sim o retorno das Deusas,{nl}eu não abandonaria minha missão antes que ela acabe.
+QUEST_LV_0100_20150317_000295	Sim. Isso deve ser o suficiente.{nl}Aqui está uma pílula que recuperará sua #pending stamina instantaneamente. Tenho o bastante disso, então lhe darei isso como um presente.{nl}
+QUEST_LV_0100_20150317_000296	#pending Stamina é consumida quando você se movimenta.{nl}Você pode recuperar #pending stamina destruindo um #pending Tree Root Crystal ou descansando.{nl}Porém você pode não ter tempo para isso quando estiver sendo perseguido por monstros.{nl}É quando essa pílula é útil. 
+QUEST_LV_0100_20150317_000297	Ouvi notícias de meus homens e estava me preocupando.{nl}Tudo está bem se acaba bem.
+QUEST_LV_0100_20150317_000298	#pending Klaipeda Resident
+QUEST_LV_0100_20150317_000299	)} {nl}Quando acha que a Deusa voltará?{nl}Mesmo que pergunte aos #pending Revelators, tudo o que eles dizem é que precisam ir para Klaíeda...
+QUEST_LV_0100_20150317_000300	Você é um #pending Revelator?{nl}A Deusa não apareceu em seu sonho?{nl}Ouvi isso dos soldados.
+QUEST_LV_0100_20150317_000301	#pending Trooper
+QUEST_LV_0100_20150317_000302	Me pergunto o que as Deusas estão fazendo...
+QUEST_LV_0100_20150317_000303	Muito obrigado por vir aqui.{nl}Sou Uska, o #pending Knight Commander encarregado de Siauliai e Klaipeda. 
+QUEST_LV_0100_20150317_000304	O bispo também sonhou uma #pending Revelation.{nl}Ele me disse para enviar os #pending Revelators para #pending Crystal Mine.{nl}
+QUEST_LV_0100_20150317_000305	Me informe quando estiver pronto para ir para #pending Crystal Mine.{nl}Lhe falarei a localização e como chegar.
+QUEST_LV_0100_20150317_000306	O bispo nos disse para enviar os #pending Revelators para #pending Crystal Mine.{nl}Ele falou que a Deusa o disse para fazer isso.{nl}
+QUEST_LV_0100_20150317_000307	Mas a #pending Miner's Viillage está em guerra com os Vubbes {nl}e sua entrada está limitada apenas para pessoas autorizadas. #pending Knight Aras é quem está administrando tropas em #pending East Siauliai Woods. {nl}Você deveria falar com ele.
+QUEST_LV_0100_20150317_000308	Monstros têm estado ao redor por um longo tempo, {nl}mas eles apenas começaram a se tornar violentos quatro anos atrás. {nl}Os mais afetados seriam os do tipo planta. Eles não existiam antes.{nl}	
+QUEST_LV_0100_20150317_000309	É claro, feras não foram exceção.{nl}Quando monstros que pareciam ter se fundido com demônios apareceram, pensei que o fim estava próximo.
+QUEST_LV_0100_20150317_000310	#pending Knight Aras
+QUEST_LV_0100_20150317_000311	Você não está ferido?{nl}Agradeço que você tenha se livrado do Poata, porque era realmente imprudente.
+QUEST_LV_0100_20150317_000312	Você quer entrar na #pending Crystal Mine?{nl}A #pending Miner's Village está atualmente em guerra com os Vubbes e é muito perigoso,{nl}assim não posso permitir isso.
+QUEST_LV_0100_20150317_000313	E nossas tropas não estão em condição de proteger você.{nl}Me desculpe mas você terá que voltar.
+QUEST_LV_0100_20150317_000314	Se você não conseguir derrotar o Pokubus, terá que desistir de entrar na #pending Miner's Village.
+QUEST_LV_0100_20150317_000315	Muito obrigado.{nl}Não se preocupe, manterei minha promessa.
+QUEST_LV_0100_20150317_000316 #pending Outpost Sentinel
+QUEST_LV_0100_20150317_000317	Embora esteja preocupado com a situação na #pending Miner's Village, não estou me acostumando com as constantes lutas e descanso. Quem dera se os Chupacabras pudessem ser lidados em algum grau, estaríamos muito melhores.
+QUEST_LV_0100_20150317_000318	Outros monstros também estão chegando em grandes quantidades em áreas onde Chupacabras vivem.{nl}#pending Miner's Village é um problema por si mas há coisas demais para prestar atenção.
+QUEST_LV_0100_20150317_000319	Muito obrigado.{nl}Sua assistência realmente ajuda a levantar nossos espíritos.
+QUEST_LV_0100_20150317_000320	Com suas habilidades, tenho mais um favor a pedir.{nl}Você pode nos ajudar a expulsar os Chupacabras no campo de suprimentos também? 
+QUEST_LV_0100_20150317_000321	#A Miners' Village é um problema mas a situação aqui não é tão boa também. {nl}Nós temos que preparar algumas medidas antes que o número de monstros aumente ainda mais??
+QUEST_LV_0100_20150317_000322	Você já terminou?{nl}Nunca vi ninguém tão rápido quanto você antes.
+QUEST_LV_0100_20150317_000323	Estou em uma missão para encontrar a causa do aumento repentino de monstros em #pending Eastern Woods.{nl}Também atuo como o intermediário nos suprimentos em #pending Miners' Village.
+QUEST_LV_0100_20150317_000324	Há outros caveleiros fora em #pending Miners' Village. {nl}Francamente, a batalha aqui está demorando mais do que pensávamos, já que imaginamos que a batalha terminaria assim que Aras estivesse aqui.
+QUEST_LV_0100_20150317_000325	Já que irá ajudar, por favor derrote os #pending Giant Gray Chupacabras também.{nl}Eles são os culpados roubando nossos suprimentos.
+QUEST_LV_0100_20150317_000326	#pending Giant Gray Chupacabras devem aparecer agora que você derrotou os Chupacabras.{nl}Bem então, obrigado por auxiliar.
+QUEST_LV_0100_20150317_000327	Muito obrigado.{nl}Agora posso finalmente trabalhar facilmente.
+QUEST_LV_0100_20150317_000328	Encontrar a causa dos monstros é importante,{nl}mas estou mais preocupado sobre os suprimentos não chegando em #pending Miners' Village.
+QUEST_LV_0100_20150317_000329	O movimento de #pending Weavers nas áreas rebaixadas do córrego parece suspeito.{nl}Parece que eles estão tentando interferir com os suprimentos para a #pending Miners' Village.
+QUEST_LV_0100_20150317_000330	Nós podemos ter que desistir de nossos suprimentos atuais e auxiliar nós mesmos até que o próximo lote de suprimentos chegue.
+QUEST_LV_0100_20150317_000331	Muito obrigado.{nl}Com você nos ajudando dessa forma, não seremos derrotados.
+QUEST_LV_0100_20150317_000332	Sua próxima missão é encontrar a causa do número de monstros aumentando.{nl}Popolions têm um grande apetite, então espero que possamos encontrar uma pista.
+QUEST_LV_0100_20150317_000333	Embora a #pending Miners' Village esteja em apuros, dado que a situação alcançou #pending Eastern Woods,{nl}não podemos garantir a segurança de Klaipeda.{nl}Podemos apenas esperar que Klaipeda esteja indo bem.
+QUEST_LV_0100_20150317_000334	#pending Operations Officer
+QUEST_LV_0100_20150317_000335	Você foi enviado por Aras?{nl}Esse é um pedaço de roupa de Vubbe. Ah... entendo...
+QUEST_LV_0100_20150317_000336	Creio que os Vubbes de #pending Miners' Village foram em direção ao bosque.{nl}Talvez essa seja a razão por trás do avanço anormal em monstros também.{nl}
+QUEST_LV_0100_20150317_000337	É melhor eu pedir para Aras procurar Vubbes em outras regiões também.{nl}Enquanto isso, gostaria que você olhasse as áreas superiores.
+QUEST_LV_0100_20150317_000338	Nós não revistamos as áreas superiores ainda.{nl}É claro que deveríamos estar enviando tropas, mas peço sua ajuda já que esse é um assunto urgente.
+QUEST_LV_0100_20150317_000339	Você viu um #pending Vubbe Fighter mas o perdeu?{nl}Também recebemos um relatório de #pending Vubbe Fighter aparecendo na área Meridional.{nl}
+QUEST_LV_0100_20150317_000340	Primeiramente, fale com o #pending Search Scout junto à ponte na área baixa da #pending Bulvjes Farm.{nl}Essa se tornará uma campanha tediosa, prolongada se deixarmos aquele #pending Vubbe Fighter correr solto.
+QUEST_LV_0100_20150317_000341	Então os #pending Vubbe Fighters são o motivo por trás do crescente número de monstros.{nl}Por favor descubra quantos #pending Vubbe Fighters há.{nl}
+QUEST_LV_0100_20150317_000342	Sob as circunstâncias, faz sentido que os monstros sejam controlados pelos #pending Vubbe Fighters.{nl}Porém no fundo, você apenas não quer acreditar nisso.
+QUEST_LV_0100_20150317_000343	Segundo seu relatório, não há mais #pending Vubbe Fighters nesses bosques.{nl}
+QUEST_LV_0100_20150317_000344	Parece que os #pending Vubbe Fighters foram derrotados. {nl}Eu alertei o #pending Search Scout na Nudegi Felled Area.
+QUEST_LV_0100_20150317_000345	#pending Supply Soldier
+QUEST_LV_0100_20150317_000346	Nós precisamos de #pending Weaver Claws como parte dos suprimentos a serem enviados para #pending Miners' Village, {nl}mas não temos tempo para procurar por eles.{nl}O que faremos?
+QUEST_LV_0100_20150317_000347	Na verdade, não faz sentido para o #pending Supply Soldier reaver diretamente os suprimentos.{nl}Dever ter vindo direto de Klaipeda.
+QUEST_LV_0100_20150317_000348	Muito obrigado.{nl}Ajuda inesperada é sempre boa.
+QUEST_LV_0100_20150317_000349	De fato, tudo teria sido bom se os Pokubus não estivessem por perto.{nl}Os Pokubus estavam correndo à solta e é por isso que não fomos capazes de reaver todos os suprimentos.
+QUEST_LV_0100_20150317_000350	Não sei por que eles repentinamente começaram a predar os suprimentos.{nl}Poderia algo estar os comandando?
+QUEST_LV_0100_20150317_000351	Muito obrigado.{nl}Eu invejo sua habilidade.
+QUEST_LV_0100_20150317_000352	#pending Eastern Woods Search Scout
+QUEST_LV_0100_20150317_000353	Ah, é você.{nl}Ouvi do #pending Operations Officer.{nl}
+QUEST_LV_0100_20150317_000354	Um #pending Vubbe Fighter está se escondendo na #pending Nudegi Felled Area.{nl}Recebemos ordens para matá-lo, mas pode ser mais seguro esperar por tropas adicionais.
+QUEST_LV_0100_20150317_000355	Sou apenas um #pending Search Scout, mas essa foi a primeira vez que vi um #pending Vubbe Fighter de perto.
+QUEST_LV_0100_20150317_000356	Incrível, você se livrou dele sozinho?{nl}Reporte a Aras,ele ficará muito satisfeito em ouvir isso.
+QUEST_LV_0100_20150317_000357	Você realmente derrotou o #pending Vubbe Fighter sozinho!{nl}Que alívio, agora o número de monstros irá parar de aumentar.
+QUEST_LV_0100_20150317_000358	É claro. Como prometido, lhe garantirei acesso à #pending Miners' Village.{nl}Por favor aguarde.
+QUEST_LV_0100_20150317_000359	Se encontrar quaisquer pistas, informe ao #pending Operations Officer na área norte.
+QUEST_LV_0100_20150317_000360	A #pending Miners' Village está em uma situação terrível.{nl}É tarde demais para organizar as tropas, então por favor vá adiante e auxilie a #pending Miners' Village.
+QUEST_LV_0100_20150317_000361	Eles têm pouca inteligêcia, mas esses monstros formam grupos e vivem como uma comunidade.{nl}Eles costumavam aparecer apenas ocasionalmente nas áreas mais profundas das minas...{nl}Poderiam eles estar expandindo suas forças?{nl}
+QUEST_LV_0100_20150317_000362	Qualquer que seja a razão, os Vubbes expandindo seu território é um grande problema.{nl}Monstros que perdem seu território para os Vubbes serão forçados a vir em direção à nossa base.
+QUEST_LV_0100_20150317_000363	É uma estrada única daqui, então você será capaz de encontrar as pessoas facilmente.{nl}
+QUEST_LV_0100_20150317_000364	Ah, deixe-me lhe fornecer algumas informações úteis em retorno por sua ajuda.{nl}A evidência da salvação que os #Revelators estão procurando pode ser encontrada na #pending Closed Area.
 QUEST_LV_0100_20150317_000365	Uma coisa, há algo que continua me preocupando.{nl}Uma vaga sensação de algo estranho.
-QUEST_LV_0100_20150317_000366	$Mineiro
-QUEST_LV_0100_20150317_000367	$Muito obrigado por nos salvar.{nl}É como um sonho ser salvo pelo #pending Revelator.{nl}
-QUEST_LV_0100_20150317_000368	$A #pending Closed Area?{nl}Se você realmente precisa entrar lá, colete as pedras misteriosas que os Vubbes carregam.{nl}O #pending Crystal Wall deve abrir quando você inserir pedras suficientes nele.
-QUEST_LV_0100_20150317_000369	$Eu estava colocando suprimentos para serem enviados para #pending Miners' Village, mas os monstros roubaram tudo.{nl}
+QUEST_LV_0100_20150317_000366	Mineiro
+QUEST_LV_0100_20150317_000367	Muito obrigado por nos salvar.{nl}É como um sonho ser salvo pelo #pending Revelator.{nl}
+QUEST_LV_0100_20150317_000368	A #pending Closed Area?{nl}Se você realmente precisa entrar lá, colete as pedras misteriosas que os Vubbes carregam.{nl}O #pending Crystal Wall deve abrir quando você inserir pedras suficientes nele.
+QUEST_LV_0100_20150317_000369	Eu estava colocando suprimentos para serem enviados para #pending Miners' Village, mas os monstros roubaram tudo.{nl}
 QUEST_LV_0100_20150317_000370	As caixas de suprimento contém explosivos perigosos e coletá-los não é uma tarefa fácil.
 QUEST_LV_0100_20150317_000371	Eles não podem ter ido longe.{nl}Teria sido melhor se apenas tivesse explodido no caminho.
-QUEST_LV_0100_20150317_000372	$Mercenário Lindt
+QUEST_LV_0100_20150317_000372	Mercenário Lindt
 QUEST_LV_0100_20150317_000373	Muito obrigado novamente.{nl}Devo retornar ao meu comandante logo. Creio que posso regressar depois de descansar um pouco.
 QUEST_LV_0100_20150317_000374	Sabia que você iria.{nl}Mais uma coisa, o solo perto da #pending Closed Area é frágil, então a entrada foi bloqueada por um longo tempo.{nl} 
 QUEST_LV_0100_20150317_000375	As pessoas sequestradas são mineiros veteranos, assim eles podem saber como entrar.{nl}Bem então, que as bênçãos da Deusa estejam com você.
 QUEST_LV_0100_20150317_000376	Não foi há muito tempo.{nl}Senti um estranho poder enquanto realizava experimentos na #pending Closed Area.{nl}Era diferente da #pending mana que conhecemos mas era muito quente.{nl}
-QUEST_LV_0100_20150317_000377	{memo X}Mas alguma força não permitiu me aproximar, como se já tivesse um possuidor.{nl}Poucos dias após o incidente, o bispo sonhou sobre a evidência da salvação.{nl}
-QUEST_LV_0100_20150317_000378	{memo X}Talvez a evidência de salvação é a força que senti...{nl}É o que eu acho.
-QUEST_LV_0100_20150317_000379	$Tudo o que vejo são monstros e estamos sem suprimentos.{nl}Também estou curioso sobre como está a situação da batalha em #pending Miners' Village.
-QUEST_LV_0100_20150317_000380	$Até que me seja designada uma nova tarefa, estou pensando em voltar aos meus deveres como #pending search scout.{nl}Sabe, observar os monstros.
-QUEST_LV_0100_20150317_000381	{memo X}$A #pending Miners' Village está sob cerco e a entrada é proibida para civis.{nl}Lembre-se que não podemos garantir sua segurança se não obter minha permissão.
-QUEST_LV_0100_20150317_000382	{memo X}$Você precisa se animar.{nl} Até Aras está aguentando.
-QUEST_LV_0100_20150317_000383	$Deusa Zemyna zela pela Terra.{nl}Há rumores de que as Deusas nos abandonaram, mas é tolice.{nl}As estátuas ainda brilham belamente quando rezamos para elas.
-QUEST_LV_0100_20150317_000384	$Vubbes repentinamente jorraram para #pending Siauliai Woods das Crystal Mines.{nl}Assim, a #pending Miners' Village situada entre as Minas e os Bosques se transformou num campo de batalha.{nl}
-QUEST_LV_0100_20150317_000385	$Por motivos de segurança, não posso permitir entrada na #pending Miners' Village. {nl}É claro que seria uma história diferente se suas habilidades são boas o suficiente para assegurar sua segurança {nl}sem a proteção dos guardas.
-QUEST_LV_0100_20150317_000386	$Céus, aquilo poderia ter sido realmente perigoso.{nl}Aquela coisa enorme estava se escondendo tão bem.
-QUEST_LV_0100_20150317_000387	$É muito importante estudar os monstros em tempos como esse.{nl}É como previsões do tempo em que você tenta encontrar a causa e ver o que aconteceria.
-QUEST_LV_0100_20150317_000388	$Estou serto de que os #pending Leaf Bugs na fazenda Uoros os roubaram.{nl}Eles roubaram de nós antes.
+QUEST_LV_0100_20150317_000377	Mas alguma força não permitiu me aproximar, como se já tivesse um possuidor.{nl}Poucos dias após o incidente, o bispo sonhou sobre a evidência da salvação.{nl}
+QUEST_LV_0100_20150317_000378	Talvez a evidência de salvação é a força que senti...{nl}É o que eu acho.
+QUEST_LV_0100_20150317_000379	Tudo o que vejo são monstros e estamos sem suprimentos.{nl}Também estou curioso sobre como está a situação da batalha em #pending Miners' Village.
+QUEST_LV_0100_20150317_000380	Até que me seja designada uma nova tarefa, estou pensando em voltar aos meus deveres como #pending search scout.{nl}Sabe, observar os monstros.
+QUEST_LV_0100_20150317_000381	A #pending Miners' Village está sob cerco e a entrada é proibida para civis.{nl}Lembre-se que não podemos garantir sua segurança se não obter minha permissão.
+QUEST_LV_0100_20150317_000382	Você precisa se animar.{nl} Até Aras está aguentando.
+QUEST_LV_0100_20150317_000383	Deusa Zemyna zela pela Terra.{nl}Há rumores de que as Deusas nos abandonaram, mas é tolice.{nl}As estátuas ainda brilham belamente quando rezamos para elas.
+QUEST_LV_0100_20150317_000384	Vubbes repentinamente jorraram para #pending Siau das Crystal Mines.{nl}Assim, a #pending Miners' Village situada entre as Minas e os Bosques se transformou num campo de batalha.{nl}
+QUEST_LV_0100_20150317_000385	Por motivos de segurança, não posso permitir entrada na #pending Miners' Village. {nl}É claro que seria uma história diferente se suas habilidades são boas o suficiente para assegurar sua segurança {nl}sem a proteção dos guardas.
+QUEST_LV_0100_20150317_000386	Céus, aquilo poderia ter sido realmente perigoso.{nl}Aquela coisa enorme estava se escondendo tão bem.
+QUEST_LV_0100_20150317_000387	É muito importante estudar os monstros em tempos como esse.{nl}É como previsões do tempo em que você tenta encontrar a causa e ver o que aconteceria.
+QUEST_LV_0100_20150317_000388	Estou serto de que os #pending Leaf Bugs na fazenda Uoros os roubaram.{nl}Eles roubaram de nós antes.
 QUEST_LV_0100_20150317_000389	Envie meus cumprimentos para o #pending Guard Captain quando o encontrar.
-QUEST_LV_0100_20150317_000390	{memo X}$Para avaliar se suas habilidades são suficientemente boas para entrar em #pending Miners' Village,{nl}preciso que nos ajude a solucionar um problema.{nl} 
+QUEST_LV_0100_20150317_000390	Para avaliar se suas habilidades são suficientemente boas para entrar em #pending Miners' Village,{nl}preciso que nos ajude a solucionar um problema.{nl} 
 QUEST_LV_0100_20150317_000391	Primeiro, retome a fazenda dos Pokubus.{nl}Isso deve ser uma tarefa um tanto fácil.
 QUEST_LV_0100_20150317_000392	Parece haver espaço na rocha onde você pode inserir algo.
 QUEST_LV_0100_20150317_000393	Vamos revistar Fazenda Bulvjes primeiro.{nl}Mas não os persiga ou algo assim pois pode ser perigoso.
-QUEST_LV_0100_20150317_000394	$Você está me fazendo ponderar se é um enviado da Deusa.{nl}De qualquer forma, o campo de suprimentos está localizado mais abaixo da fazenda.
-QUEST_LV_0100_20150317_000395	{memo X}
+QUEST_LV_0100_20150317_000394	Você está me fazendo ponderar se é um enviado da Deusa.{nl}De qualquer forma, o campo de suprimentos está localizado mais abaixo da fazenda.
+QUEST_LV_0100_20150317_000395	
 QUEST_LV_0100_20150317_000396	A #pending Crystal Mine ficou infestada de Vubbes, então se certifiquem de ficarem juntos em grupos de cinco. 
 QUEST_LV_0100_20150317_000397	#pending Equipment Merchant
 QUEST_LV_0100_20150317_000398	Mesmo em tempos como esse, esforço-me para buscar os melhores itens que posso. Não se pode facilitar em termos de lidar com seus clientes.
 QUEST_LV_0100_20150317_000399	Monstros atacam e roubam de pessoas que compram itens de mim. Acredito que eles sabem que posso distinguir quais itens são bons.{nl}Sinto pena daqueles que foram atacados mas isso também prova que os itens valem a pena.
-QUEST_LV_0100_20150317_000400	$Os monstros nunca atacaram Klaipeda, mas com Sir Uska fora, é difícil ficar à vontade.{nl}Deve-se ter cuidado em tempos como esse.
-QUEST_LV_0100_20150317_000401	$Quero viajar com uma arma na mão como um aventurerio... É, não tem jeito de eu poder.
-QUEST_LV_0100_20150317_000402	$Se escutar os soldados, eles usarão termos que apenas eles entendem para fazera as coisas soarem complicadas.{nl}Mas quando pergunto a meu amigo soldado, ele diz que não é como se eles estivessem falando sobre algo importante.
-QUEST_LV_0100_20150317_000403	$Seja cuidadoso com pessoas que vendem armas de monstros sem autorização.{nl}Eles tentarão e o enganarão para que compre coisas inúteis ou lhe venderão coisas a preços ridiculamente altos.
-QUEST_LV_0100_20150317_000404	{memo X}#pending Item Merchant
-QUEST_LV_0100_20150317_000405	$São as pequenas coisas que você esquece de comprar que o fazem se arrepender quando viaja.{nl}Melhor comprar o suficiente delas quando puder.
-QUEST_LV_0100_20150317_000406	$Me sinto mal pelos feridos. Não podemos apenas conviver com os monstros?
-QUEST_LV_0100_20150317_000407	{memo X}Prefereria permanecer seguro e em paz com vendas mais baixas do que ter as vendas aumentadas por pessoas preocupadas com quando os monstros podem atacar.
-QUEST_LV_0100_20150317_000408	$Vendo coisas que as pessoas precisam, mas às vezes penso que teria sido melhor se eu fosse um curador,{nl}porque desse modo poderia estar mais próximo dos exploradores para ajudá-los.
-QUEST_LV_0100_20150317_000409	$Ouço estranhos uivos à distância. Poderia ser o som dos monstros?
-QUEST_LV_0100_20150317_000410	$As pessoas dizem que sou estranho e falo demais, mas não me importo. Mesmo que eu realmente seja estranho como dizem, não significa que os itens que vendo sejam estranhos.
-QUEST_LV_0100_20150317_000411	#pending Blacksmith
-QUEST_LV_0100_20150317_000412	{memo X}Olá.{nl}Posso ajudá-lo a reparar itens mas não posso fabricar novos porque não tenho materiais.{nl}Vá em frente e escolha do que estiver disponível.
-QUEST_LV_0100_20150317_000413	$#pending Klaipeda Resident
-QUEST_LV_0100_20150317_000414	$É verdade que estes são tempos difíceis, mas todos estão procurando pelos soldados.
-QUEST_LV_0100_20150317_000415	$À parte de tudo mais, quero comer até estar cheio.{nl}Você precisa comer para ter força.
-QUEST_LV_0100_20150317_000416	$Por que as Deusas desapareceram?{nl}Todos estão procurando por onde elas foram, mas ninguém está se perguntando por que elas desapareceram.
-QUEST_LV_0100_20150317_000417	$Não consigo comer, dormir ou me mover livremente por causa desses monstros.{nl}Nos velhos tempos, nós costumávamos colher ervas ou frutas em #pending Siauliai Woods.
-QUEST_LV_0100_20150317_000418	$Todos estão falando sobre guerra onde quer que se vá.{nl}Como quem e quantas pessoas estão feridas ou quem está designado a onde.
-QUEST_LV_0100_20150317_000419	$Ouvi que enviarão soldados que não estão sequer treinados para o ninho de monstros.{nl}Podem igualmente reunir os idosos e fazê-los soldados também.
-QUEST_LV_0100_20150317_000420	$Minha vida é apenas um ciclo de ansiedade e raiva.{nl}As Deusas devem retornar logo.
-QUEST_LV_0100_20150317_000421	$Repentinamente há muitas pessoas que tiveram uma #pending Revelation em seus sonhos.{nl}Poderia ser um sinal de que algo está para acontecer novamente?{nl}
-QUEST_LV_0100_20150317_000422	$O bispo de Klaipeda viu uma Deusa em seu sonho.{nl}Também teve um sonho assim, #pending Revelator?
-QUEST_LV_0100_20150317_000423	$Mãe de um Soldado
-QUEST_LV_0100_20150317_000424	{memo X}$)}Meu filho se alistou no Exército.{nl}Ele disse quem iria, se não ele, em tempos difíceis como esse.
-QUEST_LV_0100_20150317_000425	{memo X}$)}Monstros estão aumentando e a floresta é caótica demais para as pessoas viverem.{nl}Ao menos, Klaipeda é segura.
-QUEST_LV_0100_20150317_000426	$)}Mesmo que Klaipeda seja segura, as outras cidades não estão em caos?{nl}Pondo de lado a capital, Fedimian colapsou totalmente exceto por #pending Sacred Area.
-QUEST_LV_0100_20150317_000427	{memo X}$)}É bom que meu filho tenha realizado seu sonho de se tornar soldado...{nl}Mas os monstros estão aumentando e me preocupo que ele possa se ferir.
-QUEST_LV_0100_20150317_000428	$)}Talvez Klaipeda seja onde a Deusa concedeu suas bênçãos.{nl}Espero que as bênçãos também alcancem meu filho no exército.
-QUEST_LV_0100_20150317_000429	$)}Meu marido foi um mineiro. Estou aliviada que ele não seja mais.{nl}Seria perigoso demais se os monstros atacassem em tempos como esses, não seria?
-QUEST_LV_0100_20150317_000430	$)}Muitos refugiados vêm de cidades caídas.{nl}Nossos suprimentos de comida estão acabando, mas ainda temos que ajudar um ao outro.
-QUEST_LV_0100_20150317_000431	$Posso não trazer os itens da melhor qualidade, mas não é necessário ter uma habilidade própria para ter todos os itens?{nl}Preciso trabalhar duro para superar tempos difíceis.
-QUEST_LV_0100_20150317_000432	{memo X}$Acredito que as melhores armas e armaduras são as que você se acostuma por um longo período de tempo.{nl}Para fazer isso, você deve primeiro começar comprando itens bons.
-QUEST_LV_0100_20150317_000433	$Eu costumava arrumar minhas coisas e sair viajando mas suponho que isso seria difícil agora.
-QUEST_LV_0100_20150317_000434	$Tente usar uma variedade de armas. Eventualmente, encontrará uma que lhe sirva.
-QUEST_LV_0100_20150317_000435	$As armaduras que lhe servem garantem sua segurança.
-QUEST_LV_0100_20150317_000436	$Uma única peça de armadura pode significar a diferença entre a vida e a morte. Dê uma olhada e veja se tem tudo o que precisa.
-QUEST_LV_0100_20150317_000437	$Olhar é de graça.
-QUEST_LV_0100_20150317_000438	$Dê uma olhada e veja se precisa de algo.
-QUEST_LV_0100_20150317_000439	$Olhe atentamente. Você pode encontrar algo que pode lhe ajudar.
-QUEST_LV_0100_20150317_000440	$Ás vezes, coisas que você apenas olha sem pensar em nada podem na verdade lhe servir muito bem, então veja e pense sobre isso. 
-QUEST_LV_0100_20150317_000441	$Você pode apenas dar uma olhada. Me procure sempre que precisar de algo.
-QUEST_LV_0100_20150317_000442	$Temos itens o suficiente, então dê uma olhada.
-QUEST_LV_0100_20150317_000443	$Você precisa de boas armas e armaduras para se preparar para os monstros. É isso que estou vendendo.
-QUEST_LV_0100_20150317_000444	$Os itens que tenho à venda são impecáveis. Esses são todos novos.
-QUEST_LV_0100_20150317_000445	$Se não preparar seu equipamento agora, pode se arrepender depois, quando estiver cercado por monstros. Dê uma olhada quando puder.
-QUEST_LV_0100_20150317_000446	$Preparei os melhores itens que posso encontrar. Os preços também não são ruins, então dê uma olhada.
-QUEST_LV_0100_20150317_000447	{memo X}$As coisas que vendo são boas em preço e qualidade.
-QUEST_LV_0100_20150317_000448	$Se tiver tempo, dê uma olhada nos itens que tenho à venda.
-QUEST_LV_0100_20150317_000449	$Espero que bons itens encontrem bons donos.
-QUEST_LV_0100_20150317_000450	$Sim, essa era originalmente uma área de comprar movimentada. Contudo todos partiram quando se tornou difícil viver aqui... 
-QUEST_LV_0100_20150317_000451	$Eu estava ocupado demais para falar com as pessoas quando elas se reuniram.
-QUEST_LV_0100_20150317_000452	{memo X}$Muitas pessoas parecem vir agradecer à notificação de recrutamento de Uska. 
-QUEST_LV_0100_20150317_000453	$Há muita preparação para quando você vai batalhar com os monstros.
-QUEST_LV_0100_20150317_000454	$Os tempos são difíceis mas decidi não aumentar os preços. Dê uma olhada.
-QUEST_LV_0100_20150317_000455	$Os monstros confundem coisas com comida e apenas as engolem. Eles devem estar realmente famintos.
-QUEST_LV_0100_20150317_000456	$Uma vez encontrei um monstro em #pending Siauliai Woods. Apenas fiquei parado e o monstro foi embora...{nl}Suponho que existam monstros que não atacam primeiro as pessoas.
-QUEST_LV_0100_20150317_000457	$Tenho ouvido que algumas pessoas vendem coisas derrubas daqueles que estavam fugindo de monstros. Eu não vendo coisas como essas, então não se preocupe. 
-QUEST_LV_0100_20150317_000458	{memo X}Deixando de lado, não minto sobre meus itens serem baratos. As coisas que vendo têm um preço justo.
-QUEST_LV_0100_20150317_000459	$Fique à vontade para dar uma olhada a qualquer hora.
-QUEST_LV_0100_20150317_000460	$As coisas podem acabar mal se não preparar poções o suficiente.
-QUEST_LV_0100_20150317_000461	$Olhar as coisas que vendo é de graça.
-QUEST_LV_0100_20150317_000462	$Como você continua administrando um negócio se não obtém lucros?
-QUEST_LV_0100_20150317_000463	$Pensei sobre mudar meu negócio para outro lugar, mas tive que ficar pelas pessoas que vêm até mim.
-QUEST_LV_0100_20150317_000464	$Não penso em fazer muito dinheiro. Preciso apenas do necessário para viver.
-QUEST_LV_0100_20150317_000465	$Acho que devemos ajudar um ao outro em tempos difíceis como esses. Espero que possa ser de alguma ajuda.
-QUEST_LV_0100_20150317_000466	$Posso lhe ajudar? Lhe mostrarei o que temos preparado.
-QUEST_LV_0100_20150317_000467	$Por favor fique à vontade para voltar se precisar de algo.
-QUEST_LV_0100_20150317_000468	$Você não precisa necessariamente comprar algo, então fique à vontade para dar uma olhada.
-QUEST_LV_0100_20150317_000469	$Eu vendia itens mesmo antes de os monstros aparecerem.
-QUEST_LV_0100_20150317_000470	$Não se sente bem apenas olhando itens mesmo que não os compre?
-QUEST_LV_0100_20150317_000471	$Você pode me procurar sempre que quiser olhar mais de perto os itens que estou vendendo. 
-QUEST_LV_0100_20150317_000472	$Qual deve ser a sensação de ir em uma aventura lutando com monstros? Nasci e fui criado aqui, então às vezes me pergunto como seria em outras áreas.
+QUEST_LV_0100_20150317_000400	Os monstros nunca atacaram Klaipeda, mas com Sir Uska fora, é difícil ficar à vontade.{nl}Deve-se ter cuidado em tempos como esse.
+QUEST_LV_0100_20150317_000401	Quero viajar com uma arma na mão como um aventureiro... É, não tem jeito de eu poder.
+QUEST_LV_0100_20150317_000402	Se escutar os soldados, eles usarão termos que apenas eles entendem para fazer as coisas soarem complicadas.{nl}Mas quando perguntei a meu amigo soldado, ele disse que não é como se eles estivessem falando sobre algo importante.
+QUEST_LV_0100_20150317_000403	Seja cuidadoso com pessoas que vendem armas de monstros sem autorização.{nl}Eles tentarão lhe enganar para que compre coisas inúteis ou lhe venderão coisas a preços ridiculamente altos.
+QUEST_LV_0100_20150317_000404	Comerciante de itens
+QUEST_LV_0100_20150317_000405	São as pequenas coisas que você esquece de comprar que o fazem se arrepender quando viaja.{nl}Melhor comprar o suficiente delas quando puder.
+QUEST_LV_0100_20150317_000406	Me sinto mal pelos feridos. Não podemos apenas conviver em paz com os monstros?
+QUEST_LV_0100_20150317_000407	Preferiria permanecer seguro e em paz com vendas mais baixas do que ter as vendas aumentadas por pessoas preocupadas com quando os monstros podem atacar.
+QUEST_LV_0100_20150317_000408	Eu vendo coisas que as pessoas precisam, mas às vezes penso que seria melhor se eu pudesse curar os aventureiros,{nl}porque desse modo poderia estar mais próximo deles para ajudá-los.
+QUEST_LV_0100_20150317_000409	Ouço estranhos uivos à distância. Poderia ser o som dos monstros?
+QUEST_LV_0100_20150317_000410	As pessoas dizem que sou estranho e falo demais, mas não me importo. Mesmo que eu realmente seja estranho como dizem, não significa que os itens que vendo sejam estranhos.
+QUEST_LV_0100_20150317_000411	Ferreiro
+QUEST_LV_0100_20150317_000412	Olá.{nl}Posso ajudá-lo a reparar itens mas não posso fabricar itens novos porque não tenho materiais.{nl}Vá em frente e escolha dentre o que estiver disponível.
+QUEST_LV_0100_20150317_000413	Morador de Klaipeda
+QUEST_LV_0100_20150317_000414	É verdade que estes são tempos difíceis, mas todos estão procurando pelos soldados.
+QUEST_LV_0100_20150317_000415	Deixando o resto de lado, quero comer até estar cheio.{nl}Você precisa comer para ter força.
+QUEST_LV_0100_20150317_000416	Por que as Deusas desapareceram?{nl}Todos estão procurando por onde elas foram, mas ninguém está se perguntando por que elas desapareceram.
+QUEST_LV_0100_20150317_000417	Não consigo comer, dormir ou me deslocar livremente por causa desses monstros.{nl}Nos velhos tempos, nós costumávamos colher ervas ou frutas nos Bosques Siauliai.
+QUEST_LV_0100_20150317_000418	Todos estão falando sobre guerra onde quer que se vá.{nl}Como quem e quantas pessoas estão feridas ou quem está designado para qual lugar.
+QUEST_LV_0100_20150317_000419	Ouvi que enviarão soldados que não estão sequer treinados para o ninho de monstros.{nl}Poderiam muito bem reunir os idosos e fazê-los soldados também.
+QUEST_LV_0100_20150317_000420	Minha vida é apenas um ciclo de ansiedade e raiva.{nl}As Deusas deveriam retornar logo.
+QUEST_LV_0100_20150317_000421	Repentinamente há muitas pessoas que tiveram uma #pending Revelation em seus sonhos.{nl}Poderia ser um sinal de que algo está para acontecer novamente?{nl}
+QUEST_LV_0100_20150317_000422	O bispo de Klaipeda viu uma Deusa em seu sonho.{nl}Você também teve um sonho assim, #pending Revelator?
+QUEST_LV_0100_20150317_000423	Mãe de um Soldado
+QUEST_LV_0100_20150317_000424	)}Meu filho se alistou no Exército.{nl}Ele disse quem iria, se não ele, em tempos difíceis como esses.
+QUEST_LV_0100_20150317_000425	)}Monstros estão aumentando e a floresta é caótica demais para as pessoas viverem.{nl}Ao menos, Klaipeda é segura.
+QUEST_LV_0100_20150317_000426	)}Mesmo que Klaipeda seja segura, as outras cidades não estão em caos?{nl}Pondo de lado a capital, Fedimian sucumbiu totalmente exceto por #pending Sacred Area.
+QUEST_LV_0100_20150317_000427	)}É bom que meu filho tenha realizado seu sonho de se tornar soldado...{nl}Mas os monstros estão aumentando e me preocupo que ele possa se ferir.
+QUEST_LV_0100_20150317_000428	)}Talvez Klaipeda seja onde a Deusa concedeu suas bênçãos.{nl}Espero que as bênçãos também alcancem meu filho no exército.
+QUEST_LV_0100_20150317_000429	)}Meu marido foi um mineiro. Estou aliviada que ele não seja mais.{nl}Seria perigoso demais se os monstros atacassem em tempos como esses, não seria?
+QUEST_LV_0100_20150317_000430	)}Muitos refugiados vêm de cidades caídas.{nl}Nossos suprimentos de comida estão acabando, mas ainda temos que ajudar uns aos outros.
+QUEST_LV_0100_20150317_000431	Posso não trazer os itens da melhor qualidade, mas ter todos os itens necessários não é uma habilidade por si só?{nl}Preciso trabalhar duro para superar tempos difíceis.
+QUEST_LV_0100_20150317_000432	Acredito que as melhores armas e armaduras são as que você se acostuma por um longo período de tempo.{nl}Para fazer isso, você deve primeiro começar comprando itens bons.
+QUEST_LV_0100_20150317_000433	Eu costumava arrumar minhas coisas e sair viajando antigamente mas suponho que isso seria difícil agora.
+QUEST_LV_0100_20150317_000434	Tente usar uma variedade de armas. Eventualmente, encontrará uma que lhe sirva.
+QUEST_LV_0100_20150317_000435	As armaduras que lhe servem garantem sua segurança.
+QUEST_LV_0100_20150317_000436	Uma única peça de armadura pode significar a diferença entre a vida e a morte. Dê uma olhada e veja se tem tudo o que precisa.
+QUEST_LV_0100_20150317_000437	Olhar é de graça.
+QUEST_LV_0100_20150317_000438	Dê uma olhada e veja se precisa de algo.
+QUEST_LV_0100_20150317_000439	Olhe atentamente. Você pode encontrar algo que pode lhe ajudar.
+QUEST_LV_0100_20150317_000440	Às vezes, coisas que você apenas olha sem pensar em nada podem na verdade lhe servir muito bem, então dê uma olhada e pense sobre isso. 
+QUEST_LV_0100_20150317_000441	Você pode apenas dar uma olhada. Procure por mim sempre que precisar de algo.
+QUEST_LV_0100_20150317_000442	Temos itens o suficiente, então dê uma olhada.
+QUEST_LV_0100_20150317_000443	Você precisa de boas armas e armaduras para se preparar para os monstros. É isso que estou vendendo.
+QUEST_LV_0100_20150317_000444	Os itens que tenho à venda são impecáveis. Estes são todos novos.
+QUEST_LV_0100_20150317_000445	Se não preparar seu equipamento agora, pode se arrepender depois, quando estiver cercado por monstros. Dê uma olhada quando puder.
+QUEST_LV_0100_20150317_000446	Preparei os melhores itens que posso encontrar. Os preços também não são ruins, então dê uma olhada.
+QUEST_LV_0100_20150317_000447	As coisas que vendo são boas em preço e qualidade.
+QUEST_LV_0100_20150317_000448	Se tiver tempo, dê uma olhada nos itens que tenho à venda.
+QUEST_LV_0100_20150317_000449	Espero que bons itens encontrem bons donos.
+QUEST_LV_0100_20150317_000450	Sim, essa era originalmente uma área de compras bem movimentada. Contudo todos partiram quando se tornou difícil viver aqui... 
+QUEST_LV_0100_20150317_000451	Eu estava ocupado demais para falar com as pessoas quando elas se reuniram.
+QUEST_LV_0100_20150317_000452	Muitas pessoas parecem  estar vindo graças ao aviso de recrutamento de Uska. 
+QUEST_LV_0100_20150317_000453	Há muita preparação para quando você vai batalhar com os monstros.
+QUEST_LV_0100_20150317_000454	Os tempos são difíceis mas decidi não aumentar os preços. Dê uma olhada.
+QUEST_LV_0100_20150317_000455	Os monstros confundem coisas com comida e apenas as engolem. Eles devem estar realmente famintos.
+QUEST_LV_0100_20150317_000456	Uma vez encontrei um monstro nos Bosques Siauliai. Apenas fiquei parado e o monstro foi embora...{nl}Suponho que existam monstros que não atacam primeiro as pessoas.
+QUEST_LV_0100_20150317_000457	Tenho ouvido que algumas pessoas vendem coisas derrubadas por aqueles que estavam fugindo de monstros. Eu não vendo coisas como essas, então não se preocupe. 
+QUEST_LV_0100_20150317_000458	Deixando de lado, não minto sobre meus itens serem baratos. As coisas que vendo têm um preço justo.
+QUEST_LV_0100_20150317_000459	Fique à vontade para dar uma olhada a qualquer hora.
+QUEST_LV_0100_20150317_000460	As coisas podem acabar mal se não preparar poções suficientes.
+QUEST_LV_0100_20150317_000461	Olhar as coisas que vendo é de graça.
+QUEST_LV_0100_20150317_000462	Como você continua administrando um negócio se não obtém lucros?
+QUEST_LV_0100_20150317_000463	Pensei sobre mudar meu negócio para outro lugar, mas tive que ficar pelas pessoas que vêm até mim.
+QUEST_LV_0100_20150317_000464	Não penso em fazer muito dinheiro. Preciso apenas do necessário para viver.
+QUEST_LV_0100_20150317_000465	Acho que devemos ajudar um ao outro em tempos difíceis como esses. Espero que possa ser de alguma ajuda.
+QUEST_LV_0100_20150317_000466	Posso lhe ajudar? Lhe mostrarei o que temos preparado.
+QUEST_LV_0100_20150317_000467	Por favor fique à vontade para voltar se precisar de algo.
+QUEST_LV_0100_20150317_000468	Você não precisa necessariamente comprar algo, então fique à vontade para dar uma olhada.
+QUEST_LV_0100_20150317_000469	Eu vendia itens mesmo antes de os monstros aparecerem.
+QUEST_LV_0100_20150317_000470	Não se sente bem apenas olhando itens mesmo que não os compre?
+QUEST_LV_0100_20150317_000471	Você pode me procurar sempre que quiser olhar mais de perto os itens que estou vendendo. 
+QUEST_LV_0100_20150317_000472	Qual deve ser a sensação de ir em uma aventura lutando com monstros? Nasci e fui criado aqui, então às vezes me pergunto como seria em outras áreas.
 QUEST_LV_0100_20150317_000473	Ás vezes quando vejo os soldados que nos protegem dos monstros, quero lhes dar coisas grátis.{nl}Apesar de que realmente não é fácil para mim fazer isso...
-QUEST_LV_0100_20150317_000474	{memo X}$Melhores eram os dias em que o Comandante Uska cuidava de Klaipeda pessoalmente.
-QUEST_LV_0100_20150317_000475	$Não há um modo de derrotar todos os monstros vivendo livres em #pending Siauliai Woods?
-QUEST_LV_0100_20150317_000476	$Espero que alguma pessoa habilidosa possa expulsar todos os monstros.
-QUEST_LV_0100_20150317_000477	$Viver em um lugar onde monstros vivem livres no lado de fora está me enlouquecendo.{nl}E não consigo pensar em ir a qualquer outro lugar por causa dos monstros...
-QUEST_LV_0100_20150317_000478	$Eu varreria todos os monstros se tivesse as habilidades.{nl}Por que os soldados estão deixando os monstros em paz?
-QUEST_LV_0100_20150317_000479	$Estou cansado de viver uma vida de fuga dos monstros.
-QUEST_LV_0100_20150317_000480	$Pensar nos dias pacíficos do passado me faz sentir que estou sonhando.{nl}Estar acordado é como um pesadelo muito longo.
-QUEST_LV_0100_20150317_000481	$Quero fugir para outro lugar se puder.{nl}Há um futuro para o reino?
-QUEST_LV_0100_20150317_000482	$Não consigo dormir bem hoje em dia.{nl}É tudo por causa daqueles monstros.
-QUEST_LV_0100_20150317_000483	$Viver em paz em um mundo onde monstros vivem livres... Impossível.
-QUEST_LV_0100_20150317_000484	$A salvação sequer existe?{nl}Depender cada dia de esperanças do retorno das Deusas é realmente miserável.
-QUEST_LV_0100_20150317_000485	$Não podemos sair nem apenas ficar. Está realmente bem?{nl}Não consigo encontrar uma resposta não importa o quanto pense sobre isso.
-QUEST_LV_0100_20150317_000486	$Se acostumar com um mundo onde vivemos junto com monstros, o que poderia ser mais terrível e assustador?
-QUEST_LV_0100_20150317_000487	$Ouvi que há pessoas que estudam monstros.{nl}O que há de errado com elas?{nl}Aqueles monstros são criaturas ruins que podem nos atacar a qualquer momento.
-QUEST_LV_0100_20150317_000488	$Receio que Klaipeda possa se tornar como a capital.{nl}Já está sendo chamada de a cidade caída, não?
-QUEST_LV_0100_20150317_000489	$Muitas pessoas temem os Bokors por invocarem zumbis.{nl}Mas apenas amaldiçoamos os inimigos da Deusa.
-QUEST_LV_0100_20150317_000490	{memo X}$Inteligência, julgamento calmo e racionalidade fria.{nl}Essas são as qualidades requeridas para nossos #pending Cryomancers.
-QUEST_LV_0100_20150317_000491	{memo X}O fogo é a graça enviada para nós pela Deusa Gabija.{nl}Você não pode se tornar um grande #pending Pyromancer se negligenciar isso.
-QUEST_LV_0100_20150317_000492	{memo X}$É a morte em vão que espera no final que apenas procuram bravura.{nl}Se deseja alcançar a verdadeira justiça, erga o escudo de Peltasta.
-QUEST_LV_0100_20150317_000493	$Depois que as Deusas desapareceram, a capital foi destruída em Medzio Diena.{nl}Espero que mais pessoas se tornem Peltastas para proteger o mundo.
-QUEST_LV_0100_20150317_000494	$#pending Rodelero Master
-QUEST_LV_0100_20150317_000495	{memo X}
-QUEST_LV_0100_20150317_000496	$#pending Squire Master
-QUEST_LV_0100_20150317_000497	$Estamos em caos nos dias de hoje, mas costumávamos viver em honráveis tempos antes.{nl}Bem... está tudo no passado agora.
-QUEST_LV_0100_20150317_000498	$#pending Wizard Master
-QUEST_LV_0100_20150317_000499	$Não importa o quanto de talento mágico você tenha, tudo será desperdiçado a menos que o treine ativamente.
-QUEST_LV_0100_20150317_000500	$Você deve ser valente para proteger o reino.{nl}Mas para essa bravura ser distinguível de imprudência, suas habilidades precisam ser adequadas.
-QUEST_LV_0100_20150317_000501	{memo X}As Deusas podem ter desaparecido, mas meus poderes continuam se saindo bem, certo?{nl}Tenho certeza de que deve ser prova de que a Deusa Gabija está ao menos segura em algum lugar.
-QUEST_LV_0100_20150317_000502	{memo X}
-QUEST_LV_0100_20150317_000503	{memo X}
+QUEST_LV_0100_20150317_000474	Melhores eram os dias em que o Comandante Uska cuidava de Klaipeda pessoalmente.
+QUEST_LV_0100_20150317_000475	Não há um modo de derrotar todos os monstros à solta nos Bosques Siauliai?
+QUEST_LV_0100_20150317_000476	Espero que alguma pessoa habilidosa possa expulsar todos os monstros.
+QUEST_LV_0100_20150317_000477	Viver em um lugar onde monstros correm soltos no lado de fora está me enlouquecendo.{nl}E não consigo pensar em ir a qualquer outro lugar por causa dos monstros...
+QUEST_LV_0100_20150317_000478	Eu varreria todos os monstros se tivesse as habilidades.{nl}Por que os soldados estão deixando os monstros em paz?
+QUEST_LV_0100_20150317_000479	Estou cansado de viver uma vida fugindo dos monstros.
+QUEST_LV_0100_20150317_000480	Pensar nos dias pacíficos do passado me faz sentir que estou sonhando.{nl}Estar acordado é como um pesadelo muito longo.
+QUEST_LV_0100_20150317_000481	Quero fugir para outro lugar se puder.{nl}Há um futuro para o reino?
+QUEST_LV_0100_20150317_000482	Não consigo dormir bem hoje em dia.{nl}É tudo por causa daqueles monstros.
+QUEST_LV_0100_20150317_000483	Viver em paz em um mundo onde monstros estão à solta... Impossível.
+QUEST_LV_0100_20150317_000484	A salvação sequer existe?{nl}Depender cada dia de esperanças do retorno das Deusas é realmente horrível.
+QUEST_LV_0100_20150317_000485	Não podemos sair nem podemos simplesmente ficar. Será que isso é realmente certo?{nl}Não consigo encontrar uma resposta não importa o quanto pense sobre isso.
+QUEST_LV_0100_20150317_000486	Acostumar-se com um mundo onde vivemos junto com monstros, o que poderia ser mais terrível e assustador?
+QUEST_LV_0100_20150317_000487	Ouvi que há pessoas que estudam monstros.{nl}O que há de errado com elas?{nl}Aqueles monstros são criaturas ruins que podem nos atacar a qualquer momento.
+QUEST_LV_0100_20150317_000488	Receio que Klaipeda possa se tornar como a capital.{nl}Ela já está sendo chamada de a cidade caída, não?
+QUEST_LV_0100_20150317_000489	Muitas pessoas temem os Bokors por invocarem zumbis.{nl}Mas apenas amaldiçoamos os inimigos da Deusa.
+QUEST_LV_0100_20150317_000490	Inteligência, julgamento calmo e racionalidade fria.{nl}Essas são as qualidades requeridas para nossos Criomantes.
+QUEST_LV_0100_20150317_000491	O fogo é a graça enviada para nós pela Deusa Gabija.{nl}Você não pode se tornar um grande Piromante se negligenciar isso.
+QUEST_LV_0100_20150317_000492	É a morte em vão que aguarda no final para os que apenas buscam bravura.{nl}Se deseja alcançar a verdadeira justiça, erga o escudo de Peltasta.
+QUEST_LV_0100_20150317_000493	Depois que as Deusas desapareceram, a capital foi destruída em Medzio Diena.{nl}Espero que mais pessoas se tornem Peltastas para proteger o mundo.
+QUEST_LV_0100_20150317_000494	Mestre Rodelero
+QUEST_LV_0100_20150317_000495	
+QUEST_LV_0100_20150317_000496	#pending Squire Master
+QUEST_LV_0100_20150317_000497	Estamos em caos nos dias de hoje, mas costumávamos viver em tempos honrosos antes.{nl}Bem... está tudo no passado agora.
+QUEST_LV_0100_20150317_000498	#pending Wizard Master
+QUEST_LV_0100_20150317_000499	Não importa o quanto de talento mágico você tenha, tudo será desperdiçado a menos que o treine ativamente.
+QUEST_LV_0100_20150317_000500	Você deve ser valente para proteger o reino.{nl}Mas para essa bravura ser distinguível de imprudência, suas habilidades precisam ser adequadas.
+QUEST_LV_0100_20150317_000501	As Deusas podem ter desaparecido, mas meus poderes continuam se saindo bem, certo?{nl}Tenho certeza de que deve ser prova de que a Deusa Gabija está ao menos segura em algum lugar.
+QUEST_LV_0100_20150317_000502	
+QUEST_LV_0100_20150317_000503	
 QUEST_LV_0100_20150317_000504	#pending Quarrel Shooter Master
 QUEST_LV_0100_20150317_000505	É doloroso ver pessoas virem para Klaipeda procurando refúgio dos monstros.{nl}Se eles fossem #pending Quarrel Shooters não teriam que fazer isso.
 QUEST_LV_0100_20150317_000506	#pending Ranger Master
-QUEST_LV_0100_20150317_000507	{memo X}Ouvi monstros se moverem em bando fora de Klaipeda.{nl}Se pudesse aprimorar minhas habilidades ao invés de atacá-los um por um...
+QUEST_LV_0100_20150317_000507	Ouvi monstros se moverem em bando fora de Klaipeda.{nl}Se pudesse aprimorar minhas habilidades ao invés de atacá-los um por um...
 QUEST_LV_0100_20150317_000508	#pending Sapper Master
 QUEST_LV_0100_20150317_000509	As pessoas não deviam fazer coisas que se arrependerão.{nl}Quatro anos atrás, em Medzio Diena, eu perdi mesmo aqueles que queria pedir por perdão.{nl}
 QUEST_LV_0100_20150317_000510	#pending Archer Master
-QUEST_LV_0100_20150317_000511	{memo X}Derrotar inimigos um por um à distância é a beleza do arco e flecha.{nl}Não importa quantos tiros tenha que disparar, os tiros que efetivamente acertam são os que contam, certo?
+QUEST_LV_0100_20150317_000511	Derrotar inimigos um por um à distância é a beleza do arco e flecha.{nl}Não importa quantos tiros tenha que disparar, os tiros que efetivamente acertam são os que contam, certo?
 QUEST_LV_0100_20150317_000512	#pending Priest Master
 QUEST_LV_0100_20150317_000513	Para suspeitar que a Deusa não faz bem algum a um #pending Priest, enquanto apenas a fé pode sustentá-lo.
 QUEST_LV_0100_20150317_000514	#pending Sadhu Master
-QUEST_LV_0100_20150317_000515	$Entidades verdadeiras e divinas são inerentes em todas as coisas.
+QUEST_LV_0100_20150317_000515	Entidades verdadeiras e divinas são inerentes em todas as coisas.
 QUEST_LV_0100_20150317_000516	#pending Rexipher	
-QUEST_LV_0100_20150317_000517	{memo X}Você está atrasado. {nl}Então, quer salvar a mulher?
+QUEST_LV_0100_20150317_000517	Você está atrasado. {nl}Então, quer salvar a mulher?
 QUEST_LV_0100_20150317_000518	Técnico Orion
-QUEST_LV_0100_20150317_000519	$Geltonas da enorme boca cuja garganta está no subterrâneo.{nl}Sacudindo como trovão. Boca enorme que poderia arrancar a cabeça de alguém.{nl}
-QUEST_LV_0100_20150317_000520	{memo X}Acho que essa frase indica monstros muito perigosos.{nl}Creio que deveríamos ter apenas rasgado a anotação para começar.
+QUEST_LV_0100_20150317_000519	Geltonas da enorme boca cuja garganta está no subterrâneo.{nl}Sacudindo como trovão. Boca enorme que poderia arrancar a cabeça de alguém.{nl}
+QUEST_LV_0100_20150317_000520	Acho que essa frase indica monstros muito perigosos.{nl}Creio que deveríamos ter apenas rasgado a anotação para começar.
 QUEST_LV_0100_20150317_000521	Por favor utilize essa isca no caminho para #pending Geltonas Highland.{nl}Se você se esconder nas árvores não deve demorar até que um monstro apareça.
 QUEST_LV_0100_20150317_000522	Bom trabalho.{nl}Vamos começar antes que quaisquer monstros mais fortes nos encontrem. 
-QUEST_LV_0100_20150317_000523	{memo X}Se essa anotação é verdadeira, nós podemos morrer a qualquer hora.{nl}A propósito, o que aconteceu com a pessoa que a escreveu?
+QUEST_LV_0100_20150317_000523	Se essa anotação é verdadeira, nós podemos morrer a qualquer hora.{nl}A propósito, o que aconteceu com a pessoa que a escreveu?
 QUEST_LV_0100_20150317_000524	Há algo chamado de #pending Dumble Ball.{nl}De acordo com alguns soldados, os Siaulambs mudaram drasticamente após comer uma #pending Dumble Ball.{nl}Foi como se eles tivessem perdido todo o medo... Os soldados disseram não ter visto nada como aquilo.{nl}
 QUEST_LV_0100_20150317_000525	Felizmente, soldados em patrulha encontraram onde as #pending Dumble Balls estão.{nl}Se pudermos encontrar o local e queimá-lo, teremos uma chance.{nl}Por favor examine a velha caixa de madeira no #pending 4th supply warehouse.
 QUEST_LV_0100_20150317_000526	Por favor nem pense em comer isso.{nl}Não sei quais são os ingredientes, mas você terá uma diarréia terrível.
@@ -530,13 +530,13 @@ QUEST_LV_0100_20150317_000529	Soldados estão reportanto que outros monstros est
 QUEST_LV_0100_20150317_000530	Aquelas coisas tolas continuam vindo até nós.{nl}Agora pode ser a única chance que temos para ir e capturar Sparnas.{nl}Me diga quando estiver pronto.
 QUEST_LV_0100_20150317_000531	Eles estão apenas criando vários problemas.{nl}Eles até botaram as mãos em nossos suprimentos. Não ficarei satisfeito mesmo que o acerte com um bastão no meio do mercado.
 QUEST_LV_0100_20150317_000532	O quê? Tutu?{nl}Não tenho tempo para pensar sobre esses bichos insignificantes.
-QUEST_LV_0100_20150317_000533	$Quando você sobe de nível, pode aumentar um status de sua escolha e se tornar mais forte. {nl}Quer tentar fazer isso agora?
+QUEST_LV_0100_20150317_000533	Quando você sobe de nível, pode aumentar um status de sua escolha e se tornar mais forte. {nl}Quer tentar fazer isso agora?
 QUEST_LV_0100_20150317_000534	É importante ter em mente o que quer se tornar. {nl} Isso nunca é uma coisa fácil.
-QUEST_LV_0100_20150317_000535	{memo X}Sim. É como se faz isso. {nl} Bem simples, huh?
-QUEST_LV_0100_20150317_000536	$Aras está na área central do bosque. {nl}Mas houve um tremendo aumento nos monstros por aqui, então sugiro que não entre.  
+QUEST_LV_0100_20150317_000535	Sim. É como se faz isso. {nl} Bem simples, huh?
+QUEST_LV_0100_20150317_000536	Aras está na área central do bosque. {nl}Mas houve um tremendo aumento nos monstros por aqui, então sugiro que não entre.  
 QUEST_LV_0100_20150317_000537	De algum modo Klaipeda conseguiu reter os monstros por enquanto,{nl}mas precisamos encontrar e remover a causa ou não seguraremos por muito tempo.{nl} 
-QUEST_LV_0100_20150317_000538	$Continua me ocorrendo que aquele estranho sentimento que tive em #pending Crystal Mine 3F{nl}possa estar relacionado à garota que os citadinos continuam falando sobre.{nl} 
-QUEST_LV_0100_20150317_000539	$Apenas me sinto mal por não ter conseguido encontrá-la cara-a-cara.
+QUEST_LV_0100_20150317_000538	Continua me ocorrendo que aquele estranho sentimento que tive em #pending Crystal Mine 3F{nl}possa estar relacionado à garota que os citadinos continuam falando sobre.{nl} 
+QUEST_LV_0100_20150317_000539	Apenas me sinto mal por não ter conseguido encontrá-la cara-a-cara.
 QUEST_LV_0100_20150317_000540	Obrigado por salvar os aldeões,{nl}mas você não está indo para a #pending Closed Area, está?
 QUEST_LV_0100_20150317_000541	Vamos remover o último selo do lado esquerdo daqui.{nl}O odor no ar está mudando. Tenho certeza de que é um demônio.
 QUEST_LV_0100_20150317_000542	Demônios se aproximam. Não é bom.{nl}Isso está selado fortemente, mas não me sinto seguro.
@@ -545,15 +545,15 @@ QUEST_LV_0100_20150317_000544	Tudo certo. A porta oculta para o santuário está
 QUEST_LV_0100_20150317_000545	Agora, nós temos que apenas ver o sono eterno do Grande Rei Zachariel.{nl}Foi uma verdadeira honra lhe encontrar.
 QUEST_LV_0100_20150317_000546	Bem feito.{nl}Morkus está esperando por você em #pending Overlong Bridge Valley. Você deve se apressar. 
 QUEST_LV_0100_20150317_000547	Há pessoas que estão atrás da herança do Grande Rei.{nl}Se ela não estivesse selada, aquelas pessoas teriam já a teriam tomado.
-QUEST_LV_0100_20150317_000548	{memo X}Por causa daquilo, alguns discípulos morreram.{nl}Mas é estranho. Parece que nunca aconteceu.
-QUEST_LV_0100_20150317_000549	$Há Gustas e então há meu sênior.{nl}Isso significa que sou o mais novo? Não...
-QUEST_LV_0100_20150317_000550	$Gustas está orgulhoso de proteger a herança de Zachariel.{nl}Me pergunto o que ele fará após entregar essa posição.
+QUEST_LV_0100_20150317_000548	Por causa daquilo, alguns discípulos morreram.{nl}Mas é estranho. Parece que nunca aconteceu.
+QUEST_LV_0100_20150317_000549	Há Gustas e então há meu sênior.{nl}Isso significa que sou o mais novo? Não...
+QUEST_LV_0100_20150317_000550	Gustas está orgulhoso de proteger a herança de Zachariel.{nl}Me pergunto o que ele fará após entregar essa posição.
 QUEST_LV_0100_20150317_000551	Quantas coisas estão se escondendo nesse desfiladeiro?{nl}Mais da herança do rei estará aqui, certo?
 QUEST_LV_0100_20150317_000552	De acordo com os velhos registros, o rei apagou as memórias do pedreiro usando magia para proteger o #pending Royal Mausoleum.{nl}Acho incrível que ele apagou apenas aquelas memórias.
 QUEST_LV_0100_20150317_000553	#pending Liaison Officer Nian
 QUEST_LV_0100_20150317_000554	Você viu aquilo, certo? É por isso que lhe disse para não tocá-lo.{nl}Por causa disso, recebemos uma ordem para nos retirar desse lugar.{nl}
 QUEST_LV_0100_20150317_000555	Bem, se estou para ser envolvido nisso, pode ao menos me fazer um favor?{nl}Diga a Adelle em #pending Excavation Team Camp para ter cuidado com esse tipo de pedra. 
-QUEST_LV_0100_20150317_000556	{memo X}
+QUEST_LV_0100_20150317_000556	
 QUEST_LV_0100_20150317_000557	Historiadora Adelle
 QUEST_LV_0100_20150317_000558	Uma pedra? Eu sei disso.{nl}Você quer saber que tipo de pedra é essa?
 QUEST_LV_0100_20150317_000559	Monstros repentinamente se tornaram violentos e começaram a nos atacar.{nl}Isso não é uma coisa ordinária.
@@ -575,128 +575,128 @@ QUEST_LV_0100_20150317_000575	Apenas vi aqueles aldeões serem levados e não co
 QUEST_LV_0100_20150317_000576	Acredite em você mesmo. Confiança infinita. {nl} Essas são as coisas mais importantes quando projetando a si na realidade. {nl} Essa é a natureza do #pending Psychokino e o poder que move o mundo.
 QUEST_LV_0100_20150317_000577	Um #pending Linker é alguém que conecta pessoas com cordas de Mana.{nl}Quão forte a conexão é depende da qualidade da Mana.
 QUEST_LV_0100_20150317_000578	#pending Cataphract Master
-QUEST_LV_0100_20150317_000579	$#pending Cataphracts têm o poder de investir sobre quaisquer inimigos que bloqueiem seu caminho.{nl}Eles são valentes guerreiros que lutam nas linhas de frente.
+QUEST_LV_0100_20150317_000579	#pending Cataphracts têm o poder de investir sobre quaisquer inimigos que bloqueiem seu caminho.{nl}Eles são valentes guerreiros que lutam nas linhas de frente.
 QUEST_LV_0100_20150317_000580	Posso lhe ajudar? {nl}Felizmente, temos algumas poções sobrando no estoque.
 QUEST_LV_0100_20150317_000581	Procurando por equipamentos bons? {nl} Tenho preparados os melhores disponíveis. {nl} Dê uma olhada, os preços também não são ruins.
 QUEST_LV_0100_20150317_000582	Ah, essa bigorna é um presentinho meu por me salvar. {nl} É um ítem útil que pode aprimorar seu equipamento. {nl}
 QUEST_LV_0100_20150317_000583	Bem então, vejo você nas minas.
-QUEST_LV_0100_20150317_000584	$#pending Miners' Village Mayor
-QUEST_LV_0100_20150317_000585	{memo X}
-QUEST_LV_0100_20150317_000586	$Deusa Saule
-QUEST_LV_0100_20150317_000587	{memo X}$Para recuperar a #pending Revelation, por favor vá para #pending Fallen Worry Forest.{nl}Agora é nossa chance, já que o #pending Demon Lord Bramble está tentando recuperar seu poder.
-QUEST_LV_0100_20150317_000588	$#pending Royal Mausoleum Foundation Stone
-QUEST_LV_0100_20150317_000589	$Eu passo mihas palavras para o #pending Revelator que vem aqui.{nl}Eu, o Grande Rei Zachariel, durmo aqui para proteger o objetivo da Deusa.
-QUEST_LV_0100_20150317_000590	$Se a energia do mal atacar esse lugar, por favor proteja-o acordando os Guardiões adormecidos.{nl}{nl}
-QUEST_LV_0100_20150317_000591	$#pending Royal Mausoleum Cube Manual
-QUEST_LV_0100_20150317_000592	$Um Guardião que é corrompido pelo mal irá esquecer sua responsabilidade de proteger o #pending Royal Mausoleum.{nl}Derrote esses Guardiões próximos aos cubos grandes.
-QUEST_LV_0100_20150317_000593	$#pending Defense System Manual
-QUEST_LV_0100_20150317_000594	$Um Guardião que esqueceu sua missão de proteger o #pending Royal Mausoleum merece ser destruído.
-QUEST_LV_0100_20150317_000595	$#pending Guardian's Role	
-QUEST_LV_0100_20150317_000596	$Ao reciclar o suprimento de poder dos Guardiões que esqueceram sua missão podemos retorná-los como parte do #pending Royal Mausoleum.
-QUEST_LV_0100_20150317_000597	$#pending Guardian's Stone Statue
-QUEST_LV_0100_20150317_000598	$Os Guardiões estão corrompidos com energia maligna.{nl}Destrua os Guardiões corrompidos para impedí-la de se espalhar.
-QUEST_LV_0100_20150317_000599	$Os demônios estão tentando assumir o controle das fontes do #pending Royal Mausoleum.{nl}Se toda a magia controladora se corromper, não poderemos proteger o #pending Royal Mausoleum mais.
-QUEST_LV_0100_20150317_000600	$A corrupção dos Guardiões está se espalhando como uma praga.{nl}Temos que procurar por um modo especial de pará-la.
-QUEST_LV_0100_20150317_000601	$Precisamos destruir os Guardiões corrompidos que estão adormecidos.{nl}Primeiro, colete magia condensada dos jarros próximos.
-QUEST_LV_0100_20150317_000602	$Oro para a Deusa por aqueles Guardiões adormecidos.
-QUEST_LV_0100_20150317_000603	$Devemos destruir aqueles Guardiões antes que eles despertem aos comandos dos demônios.
-QUEST_LV_0100_20150317_000604	$Destrua os Guardiões usando a fonte de magia condensada.{nl}Se algo interferir, destrua também.
+QUEST_LV_0100_20150317_000584	#pending Miners' Village Mayor
+QUEST_LV_0100_20150317_000585	
+QUEST_LV_0100_20150317_000586	Deusa Saule
+QUEST_LV_0100_20150317_000587	Para recuperar a #pending Revelation, por favor vá para #pending Fallen Worry Forest.{nl}Agora é nossa chance, já que o #pending Demon Lord Bramble está tentando recuperar seu poder.
+QUEST_LV_0100_20150317_000588	#pending Royal Mausoleum Foundation Stone
+QUEST_LV_0100_20150317_000589	Eu passo mihas palavras para o #pending Revelator que vem aqui.{nl}Eu, o Grande Rei Zachariel, durmo aqui para proteger o objetivo da Deusa.
+QUEST_LV_0100_20150317_000590	Se a energia do mal atacar esse lugar, por favor proteja-o acordando os Guardiões adormecidos.{nl}{nl}
+QUEST_LV_0100_20150317_000591	#pending Royal Mausoleum Cube Manual
+QUEST_LV_0100_20150317_000592	Um Guardião que é corrompido pelo mal irá esquecer sua responsabilidade de proteger o #pending Royal Mausoleum.{nl}Derrote esses Guardiões próximos aos cubos grandes.
+QUEST_LV_0100_20150317_000593	#pending Defense System Manual
+QUEST_LV_0100_20150317_000594	Um Guardião que esqueceu sua missão de proteger o #pending Royal Mausoleum merece ser destruído.
+QUEST_LV_0100_20150317_000595	#pending Guardian's Role	
+QUEST_LV_0100_20150317_000596	Ao reciclar o suprimento de poder dos Guardiões que esqueceram sua missão podemos retorná-los como parte do #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000597	#pending Guardian's Stone Statue
+QUEST_LV_0100_20150317_000598	Os Guardiões estão corrompidos com energia maligna.{nl}Destrua os Guardiões corrompidos para impedí-la de se espalhar.
+QUEST_LV_0100_20150317_000599	Os demônios estão tentando assumir o controle das fontes do #pending Royal Mausoleum.{nl}Se toda a magia controladora se corromper, não poderemos proteger o #pending Royal Mausoleum mais.
+QUEST_LV_0100_20150317_000600	A corrupção dos Guardiões está se espalhando como uma praga.{nl}Temos que procurar por um modo especial de pará-la.
+QUEST_LV_0100_20150317_000601	Precisamos destruir os Guardiões corrompidos que estão adormecidos.{nl}Primeiro, colete magia condensada dos jarros próximos.
+QUEST_LV_0100_20150317_000602	Oro para a Deusa por aqueles Guardiões adormecidos.
+QUEST_LV_0100_20150317_000603	Devemos destruir aqueles Guardiões antes que eles despertem aos comandos dos demônios.
+QUEST_LV_0100_20150317_000604	Destrua os Guardiões usando a fonte de magia condensada.{nl}Se algo interferir, destrua também.
 QUEST_LV_0100_20150317_000605	Você deve destruí-los antes que despertem.
-QUEST_LV_0100_20150317_000606	$É muito triste escutar os comandos dos demônios como os Guardiões do túmulo. 
-QUEST_LV_0100_20150317_000607	$Esse mal é muito real.{nl}Ele possivelmente poderia alcançar as partes mais profundas do #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000606	É muito triste escutar os comandos dos demônios como os Guardiões do túmulo. 
+QUEST_LV_0100_20150317_000607	Esse mal é muito real.{nl}Ele possivelmente poderia alcançar as partes mais profundas do #pending Royal Mausoleum.
 QUEST_LV_0100_20150317_000608	#pending Royal Mausoleum Blueprint
-QUEST_LV_0100_20150317_000609	$Se a presença maligna se aproximar demais da #pending Goddess' Revelation, os Guardiões são programados para destruir o #pending Royal Mausoleum.
-QUEST_LV_0100_20150317_000610	$A presença maligna está se aproximando da #pending Goddess' Revelation.{nl}Mas ela nunca obterá a #pending Revelation.{nl}
-QUEST_LV_0100_20150317_000611	$#pending Revelator, vá e consiga a fonte de poder do #pending Royal Mausoleum dos Guardiões.
+QUEST_LV_0100_20150317_000609	Se a presença maligna se aproximar demais da #pending Goddess' Revelation, os Guardiões são programados para destruir o #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000610	A presença maligna está se aproximando da #pending Goddess' Revelation.{nl}Mas ela nunca obterá a #pending Revelation.{nl}
+QUEST_LV_0100_20150317_000611	#pending Revelator, vá e consiga a fonte de poder do #pending Royal Mausoleum dos Guardiões.
 QUEST_LV_0100_20150317_000612	Isso foi preparado para proteger contra seres que os humanos não poderiam enfrentar.
-QUEST_LV_0100_20150317_000613	$Coloque a fonte do poder do #pending Royal Mausoleum nos jarros.{nl}Ela criará uma falsa #pending Revelation como um chamariz.{nl}
-QUEST_LV_0100_20150317_000614	$A presença maligna nunca obterá a #pending Revelation.
-QUEST_LV_0100_20150317_000615	$A presença maligna obteve a falsa #pending Revelation.{nl}Que tolice dela.{nl}
-QUEST_LV_0100_20150317_000616	$Coloque a vontade do Guardião nesse jarro e vá para o último Guardião.{nl}Ela lhe dará o poder para destruir a presença maligna.
-QUEST_LV_0100_20150317_000617	$A presença maligna nunca conseguirá a #pending Goddess' Revelation.
+QUEST_LV_0100_20150317_000613	Coloque a fonte do poder do #pending Royal Mausoleum nos jarros.{nl}Ela criará uma falsa #pending Revelation como um chamariz.{nl}
+QUEST_LV_0100_20150317_000614	A presença maligna nunca obterá a #pending Revelation.
+QUEST_LV_0100_20150317_000615	A presença maligna obteve a falsa #pending Revelation.{nl}Que tolice dela.{nl}
+QUEST_LV_0100_20150317_000616	Coloque a vontade do Guardião nesse jarro e vá para o último Guardião.{nl}Ela lhe dará o poder para destruir a presença maligna.
+QUEST_LV_0100_20150317_000617	A presença maligna nunca conseguirá a #pending Goddess' Revelation.
 QUEST_LV_0100_20150317_000618	Para que os Guardiões realizem sua missão, você precisa corrigir o controle de magia distorcido.
-QUEST_LV_0100_20150317_000619	$Se a fonte de poder do #pending Royal Mausoleum for corrompida, os Guardiões perderão sua missão.{nl}Você pode purificar as origens do poder do #pending Royal Mausoleum ao ligar as lanternas de pedra com a pedra ardente que está dentro de um Guardião.
+QUEST_LV_0100_20150317_000619	Se a fonte de poder do #pending Royal Mausoleum for corrompida, os Guardiões perderão sua missão.{nl}Você pode purificar as origens do poder do #pending Royal Mausoleum ao ligar as lanternas de pedra com a pedra ardente que está dentro de um Guardião.
 QUEST_LV_0100_20150317_000620	#pending Royal Mausoleum Magic Suppressor Manual
-QUEST_LV_0100_20150317_000621	{memo X}
-QUEST_LV_0100_20150317_000622	$Os demônios interromperam a fonte de magia.{nl}Precisamos que você colete poder mágico dos Guardiões próximos.
-QUEST_LV_0100_20150317_000623	$Bom.{nl}Agora, sobre a falta de poder mágico.
-QUEST_LV_0100_20150317_000624	$Eu abrirei o caminho para o problema.{nl}Restaure nosso poder mágico reascendendo a lanterna de pedra do #pending Royal Mausoleum.
-QUEST_LV_0100_20150317_000625	$Quando o poder suprimido fluir novamente, os Guardiões reganharão sua razão.{nl}Mas isso levará um longo tempo.
-QUEST_LV_0100_20150317_000626	$Guardiões anormais estão atacando o recipiente mágico.{nl}Proteja o recipiente mágico até que o poder suprimido flua de novo.
-QUEST_LV_0100_20150317_000627	$O recipiente mágico é como o coração do #pending Royal Mausoleum.{nl}Nós nunca podemos deixá-lo ser destruído.
-QUEST_LV_0100_20150317_000628	$A ordem certamente retornará à esse lugar.{nl}Mas levará um longo tempo.
-QUEST_LV_0100_20150317_000629	$Uma energia maligna se condensou por toda parte no #pending Royal Mausoleum devido ao poder suprimido atual.{nl}Encontre e remova os núcleos corrompidos.
-QUEST_LV_0100_20150317_000630	$O #pending Royal Mausoleum foi projetado perfeitamente.{nl}Mas os planos dos demônios parecem além de perfeitos.
-QUEST_LV_0100_20150317_000631	$Nossos Guardiões estão sob o controle deles, e ainda realizam sua missão.{nl}Essa é nossa falha.
-QUEST_LV_0100_20150317_000632	$A energia maligna corrompeu até as lanternas de pedra que eram as origens do poder mágico.{nl}Destrua as lanternas de pedra corrompidas para parar o espalhamento da corrupção.
-QUEST_LV_0100_20150317_000633	$Uma energia maligna está impregnando o #pending Royal Mausoleum.{nl}Não podemos mais permanecer inativos.
+QUEST_LV_0100_20150317_000621	
+QUEST_LV_0100_20150317_000622	Os demônios interromperam a fonte de magia.{nl}Precisamos que você colete poder mágico dos Guardiões próximos.
+QUEST_LV_0100_20150317_000623	Bom.{nl}Agora, sobre a falta de poder mágico.
+QUEST_LV_0100_20150317_000624	Eu abrirei o caminho para o problema.{nl}Restaure nosso poder mágico reascendendo a lanterna de pedra do #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000625	Quando o poder suprimido fluir novamente, os Guardiões reganharão sua razão.{nl}Mas isso levará um longo tempo.
+QUEST_LV_0100_20150317_000626	Guardiões anormais estão atacando o recipiente mágico.{nl}Proteja o recipiente mágico até que o poder suprimido flua de novo.
+QUEST_LV_0100_20150317_000627	O recipiente mágico é como o coração do #pending Royal Mausoleum.{nl}Nós nunca podemos deixá-lo ser destruído.
+QUEST_LV_0100_20150317_000628	A ordem certamente retornará à esse lugar.{nl}Mas levará um longo tempo.
+QUEST_LV_0100_20150317_000629	Uma energia maligna se condensou por toda parte no #pending Royal Mausoleum devido ao poder suprimido atual.{nl}Encontre e remova os núcleos corrompidos.
+QUEST_LV_0100_20150317_000630	O #pending Royal Mausoleum foi projetado perfeitamente.{nl}Mas os planos dos demônios parecem além de perfeitos.
+QUEST_LV_0100_20150317_000631	Nossos Guardiões estão sob o controle deles, e ainda realizam sua missão.{nl}Essa é nossa falha.
+QUEST_LV_0100_20150317_000632	A energia maligna corrompeu até as lanternas de pedra que eram as origens do poder mágico.{nl}Destrua as lanternas de pedra corrompidas para parar o espalhamento da corrupção.
+QUEST_LV_0100_20150317_000633	Uma energia maligna está impregnando o #pending Royal Mausoleum.{nl}Não podemos mais permanecer inativos.
 QUEST_LV_0100_20150317_000634	Não está mais corrompido.
 QUEST_LV_0100_20150317_000635	#pending Royal Mausoleum Archives
 QUEST_LV_0100_20150317_000636	A marca de Wheelen nos dá poder para lutar contra as forças do mal. 
-QUEST_LV_0100_20150317_000637	$Venucelos são muito valentes e leais.{nl}Mas se sua lealdade for para os inimigos, eles são inúteis.{nl}Os cães que não conseguem proteger o #pending Royal Mausoleum perderão a coleira com o nome do rei nela.
-QUEST_LV_0100_20150317_000638	$O Grande Rei Zachariel estava orgulhoso de criar Guardiões gigantes.{nl}Ele até colocou tesouros secretos dentro deles, para que somente aquele que destruir esses Guardiões pudessem obtê-los.
-QUEST_LV_0100_20150317_000639	$As forças do mal nunca alcançarão a #pending Goddess' Revelation.
+QUEST_LV_0100_20150317_000637	Venucelos são muito valentes e leais.{nl}Mas se sua lealdade for para os inimigos, eles são inúteis.{nl}Os cães que não conseguem proteger o #pending Royal Mausoleum perderão a coleira com o nome do rei nela.
+QUEST_LV_0100_20150317_000638	O Grande Rei Zachariel estava orgulhoso de criar Guardiões gigantes.{nl}Ele até colocou tesouros secretos dentro deles, para que somente aquele que destruir esses Guardiões pudessem obtê-los.
+QUEST_LV_0100_20150317_000639	As forças do mal nunca alcançarão a #pending Goddess' Revelation.
 QUEST_LV_0100_20150317_000640	Coben
-QUEST_LV_0100_20150317_000641	$Estou procurando por meu irmão.{nl}Se puder me ajudar, poderei lhe dar uma recompensa.
-QUEST_LV_0100_20150317_000642	$Ele era uma pessoa realmente fantástica.{nl}Não consigo me imaginar sendo como ele.
-QUEST_LV_0100_20150317_000643	$Algo está entre as páginas desse diário.{nl}Um diagrama... e oh, meu irmão registrou algumas coisas aqui.
-QUEST_LV_0100_20150317_000644	$Eu vim aqui para procurar meu irmão, mas não sou valente como ele era.{nl}Quero que dê uma olhada nas escrituras de sua lápide em meu nome.
-QUEST_LV_0100_20150317_000645	$Sim. Meu irmão era um ladrão.{nl}Meu irmão costumava vir à nossa loja uma vez em alguns anos e nos contar histórias sobre suas aventuras.
-QUEST_LV_0100_20150317_000646	$Então ele desafiou a #pending Archmage Tower?{nl}Esse é meu irmão! Ele certamente poderia fazer isso.{nl}
-QUEST_LV_0100_20150317_000647	$A #pending Mage Tower era uma fortaleza que os demônios não podiam sequer tentar se aproximar.
-QUEST_LV_0100_20150317_000648	$Devemos procurar pela próxima lápide.{nl}Se a escritura não puder ser vista claramente, esfregue-a com Gordura de Cockatrice.
-QUEST_LV_0100_20150317_000649	$#pending Mage Tower... Há algo para roubar lá?
-QUEST_LV_0100_20150317_000650	$Sim! Ele não pararia ao roubar da #pending Mage Tower.{nl}Irei para o #pending Negyvas Field primeiro, então me siga!
-QUEST_LV_0100_20150317_000651	$Você veio. A próxima sepultura está na minha frente, mas sou apenas um bêbado covarde.{nl}Ficarei na estrada do lado esquerdo de #pending Negyvas Field, então você vai e a confere.
-QUEST_LV_0100_20150317_000652	{memo X}$É uma vergonha olhar para trás uma vez que um homem começa sua jornada.{nl}Meu irmão preferiria escolher morrer do que olhar para trás.
-QUEST_LV_0100_20150317_000653	$Como ele poderia mesmo pensar em usar magia contra o #pending Archmage?{nl}Esse é meu irmão.{nl}
-QUEST_LV_0100_20150317_000654	{memo X}Devemos checar friccionando #pending Hallowventer Charcoal.{nl}O próximo epitáfio está ao lado direito de #pending Negyvas Field.
-QUEST_LV_0100_20150317_000655	$Ele fará qualquer coisa que puser na cabeça.{nl}Como poderíamos imaginar que ele escalaria a #pending Mage Tower que até os demônios falharam em escalar?
-QUEST_LV_0100_20150317_000656	$Você precisa concentrar poder mágico?{nl}Ah! Meu irmão me deixou algo antes.{nl}Eu trouxe para devolver para ele, mas não sei se é certo...
-QUEST_LV_0100_20150317_000657	$Meu irmão me disse que é um dispositivo que carregará poder mágico quando instalado no lugar certo.{nl}Mas ele também me disse que poderia invocar um monstro forte, então ele falou para ser cuidadoso.
+QUEST_LV_0100_20150317_000641	Estou procurando por meu irmão.{nl}Se puder me ajudar, poderei lhe dar uma recompensa.
+QUEST_LV_0100_20150317_000642	Ele era uma pessoa realmente fantástica.{nl}Não consigo me imaginar sendo como ele.
+QUEST_LV_0100_20150317_000643	Algo está entre as páginas desse diário.{nl}Um diagrama... e oh, meu irmão registrou algumas coisas aqui.
+QUEST_LV_0100_20150317_000644	Eu vim aqui para procurar meu irmão, mas não sou valente como ele era.{nl}Quero que dê uma olhada nas escrituras de sua lápide em meu nome.
+QUEST_LV_0100_20150317_000645	Sim. Meu irmão era um ladrão.{nl}Meu irmão costumava vir à nossa loja uma vez em alguns anos e nos contar histórias sobre suas aventuras.
+QUEST_LV_0100_20150317_000646	Então ele desafiou a #pending Archmage Tower?{nl}Esse é meu irmão! Ele certamente poderia fazer isso.{nl}
+QUEST_LV_0100_20150317_000647	A #pending Mage Tower era uma fortaleza que os demônios não podiam sequer tentar se aproximar.
+QUEST_LV_0100_20150317_000648	Devemos procurar pela próxima lápide.{nl}Se a escritura não puder ser vista claramente, esfregue-a com Gordura de Cockatrice.
+QUEST_LV_0100_20150317_000649	#pending Mage Tower... Há algo para roubar lá?
+QUEST_LV_0100_20150317_000650	Sim! Ele não pararia ao roubar da #pending Mage Tower.{nl}Irei para o #pending Negyvas Field primeiro, então me siga!
+QUEST_LV_0100_20150317_000651	Você veio. A próxima sepultura está na minha frente, mas sou apenas um bêbado covarde.{nl}Ficarei na estrada do lado esquerdo de #pending Negyvas Field, então você vai e a confere.
+QUEST_LV_0100_20150317_000652	É uma vergonha olhar para trás uma vez que um homem começa sua jornada.{nl}Meu irmão preferiria escolher morrer do que olhar para trás.
+QUEST_LV_0100_20150317_000653	Como ele poderia mesmo pensar em usar magia contra o #pending Archmage?{nl}Esse é meu irmão.{nl}
+QUEST_LV_0100_20150317_000654	Devemos checar friccionando #pending Hallowventer Charcoal.{nl}O próximo epitáfio está ao lado direito de #pending Negyvas Field.
+QUEST_LV_0100_20150317_000655	Ele fará qualquer coisa que puser na cabeça.{nl}Como poderíamos imaginar que ele escalaria a #pending Mage Tower que até os demônios falharam em escalar?
+QUEST_LV_0100_20150317_000656	Você precisa concentrar poder mágico?{nl}Ah! Meu irmão me deixou algo antes.{nl}Eu trouxe para devolver para ele, mas não sei se é certo...
+QUEST_LV_0100_20150317_000657	Meu irmão me disse que é um dispositivo que carregará poder mágico quando instalado no lugar certo.{nl}Mas ele também me disse que poderia invocar um monstro forte, então ele falou para ser cuidadoso.
 QUEST_LV_0100_20150317_000658	A #pending Mage Tower deve nos deixar entrar sem queixas.{nl}Se eu puder encontrar meu irmão com isso... Seria tão bom.{nl}
 QUEST_LV_0100_20150317_000659	Sim. A sepultura, a sepultura...{nl}Há somente um local restante que não fui. Siga-me para #pending Karsta Hall Site.
 QUEST_LV_0100_20150317_000660	Estou para encontrar meu irmão.{nl}Por favor cheque a última sepultura.
 QUEST_LV_0100_20150317_000661	Sua mente deve ter sido como eu aqui.{nl}Um nome famoso pode ser um fardo às vezes.
-QUEST_LV_0100_20150317_000662	{memo X}Tenho certeza de que meu irmão ficou parado mesmo quando estava confrontando sua morte.{nl}Mas mesmo que estejamos na lama, viver é mais significante do que morrer.{nl}
-QUEST_LV_0100_20150317_000663	$Não preciso mais disso.{nl}Pegue. Por favor use isso para objetivos mais valiosos.
-QUEST_LV_0100_20150317_000664	$Então o que eu deveria fazer?{nl}
-QUEST_LV_0100_20150317_000665	$Combaterei fogo com fogo.{nl}Encontrarei a fraqueza da #pending magician usando magia e a humilharei em sua torre. Haha!
+QUEST_LV_0100_20150317_000662	Tenho certeza de que meu irmão ficou parado mesmo quando estava confrontando sua morte.{nl}Mas mesmo que estejamos na lama, viver é mais significante do que morrer.{nl}
+QUEST_LV_0100_20150317_000663	Não preciso mais disso.{nl}Pegue. Por favor use isso para objetivos mais valiosos.
+QUEST_LV_0100_20150317_000664	Então o que eu deveria fazer?{nl}
+QUEST_LV_0100_20150317_000665	Combaterei fogo com fogo.{nl}Encontrarei a fraqueza da #pending magician usando magia e a humilharei em sua torre. Haha!
 QUEST_LV_0100_20150317_000666	Pedreiro Canolyn
-QUEST_LV_0100_20150317_000667	$Você está indo para Fedimian também?{nl}Somos pedreiros. Fomos chamados para reconstruir Fedimian e estávamos nos apressando mas...{nl}
-QUEST_LV_0100_20150317_000668	{memo X}
+QUEST_LV_0100_20150317_000667	Você está indo para Fedimian também?{nl}Somos pedreiros. Fomos chamados para reconstruir Fedimian e estávamos nos apressando mas...{nl}
+QUEST_LV_0100_20150317_000668	
 QUEST_LV_0100_20150317_000669	Não há razão para aqueles monstros estarem andando por aí. {nl}Eles apenas estão lá.
-QUEST_LV_0100_20150317_000670	$Ei, por que demorou tanto?{nl}Enquanto estava fora, os monstros vieram e roubaram tudo de nós!
-QUEST_LV_0100_20150317_000671	{memo X}Podemos reembolsar as despesas dos outros, mas e a caixa de ferramentas? {nl}Perdemos o Espírito do Pedreiro para Moa...
-QUEST_LV_0100_20150317_000672	$Suponho que seja verdade, todas as coisas com asas gostam de coisas brilhantes.
-QUEST_LV_0100_20150317_000673	$A caixa de ferramentas não estava lá?{nl}Bem. Não podemos fazer nada sobre isso, então. Ao menos posso dizer que conseguimos nossa vingança.{nl}
+QUEST_LV_0100_20150317_000670	Ei, por que demorou tanto?{nl}Enquanto estava fora, os monstros vieram e roubaram tudo de nós!
+QUEST_LV_0100_20150317_000671	Podemos reembolsar as despesas dos outros, mas e a caixa de ferramentas? {nl}Perdemos o Espírito do Pedreiro para Moa...
+QUEST_LV_0100_20150317_000672	Suponho que seja verdade, todas as coisas com asas gostam de coisas brilhantes.
+QUEST_LV_0100_20150317_000673	A caixa de ferramentas não estava lá?{nl}Bem. Não podemos fazer nada sobre isso, então. Ao menos posso dizer que conseguimos nossa vingança.{nl}
 QUEST_LV_0100_20150317_000674	Tara Miles
-QUEST_LV_0100_20150317_000675	$Sou uma médica de Fedimian tentando ajudar pacientes.{nl}Tenho alguns problemas, pode me ajudar?
-QUEST_LV_0100_20150317_000676	$Há uma marca de praga na armadilha daqueles monstros.{nl}Felizmente, acho que não é tão sério.{nl}
-QUEST_LV_0100_20150317_000677	$Certo.{nl}Vamos conversar novamente em #pending Negyvas Field.
-QUEST_LV_0100_20150317_000678	$Você veio. Por favor obtenha algumas amostras de poeira dos Hallowventers.{nl}Há várias razões que uma praga poderia se espalhar.
-QUEST_LV_0100_20150317_000679	$É importante curar doenças, mas é mais importante prevení-las.{nl}Você lava suas mãos o tempo todo, certo?
+QUEST_LV_0100_20150317_000675	Sou uma médica de Fedimian tentando ajudar pacientes.{nl}Tenho alguns problemas, pode me ajudar?
+QUEST_LV_0100_20150317_000676	Há uma marca de praga na armadilha daqueles monstros.{nl}Felizmente, acho que não é tão sério.{nl}
+QUEST_LV_0100_20150317_000677	Certo.{nl}Vamos conversar novamente em #pending Negyvas Field.
+QUEST_LV_0100_20150317_000678	Você veio. Por favor obtenha algumas amostras de poeira dos Hallowventers.{nl}Há várias razões que uma praga poderia se espalhar.
+QUEST_LV_0100_20150317_000679	É importante curar doenças, mas é mais importante prevení-las.{nl}Você lava suas mãos o tempo todo, certo?
 QUEST_LV_0100_20150317_000680	Obrigada.{nl}Precisamos de apenas mais uma amostra.
 QUEST_LV_0100_20150317_000681	Essa é uma oportunidade para nós. Os #pending Big Cockatrices estão sofrendo de uma doença.{nl}Por favor obtenha caudas o suficiente deles para nossa pesquisa.
-QUEST_LV_0100_20150317_000682	$Mesmo que falhemos em prevenir a doença, podemos ser capazes de fazer um medicamento rapidamente com os resultados de nossas pesquisas.
-QUEST_LV_0100_20150317_000683	$Você conseguiu. Muito obrigada.{nl}Você salvou muitas vidas em Fedimian.
-QUEST_LV_0100_20150317_000684	{memo X}Podemos suprimir a energia perversa se a magia do túmulo for liberta.{nl}Preciso da pedra ativadora que está localizada dentro dos Guardiões.
+QUEST_LV_0100_20150317_000682	Mesmo que falhemos em prevenir a doença, podemos ser capazes de fazer um medicamento rapidamente com os resultados de nossas pesquisas.
+QUEST_LV_0100_20150317_000683	Você conseguiu. Muito obrigada.{nl}Você salvou muitas vidas em Fedimian.
+QUEST_LV_0100_20150317_000684	Podemos suprimir a energia perversa se a magia do túmulo for liberta.{nl}Preciso da pedra ativadora que está localizada dentro dos Guardiões.
 QUEST_LV_0100_20150317_000685	#pending Secret Places Manual
-QUEST_LV_0100_20150317_000686	$Nós ocultamos tesouros secretos para o #pending Revelator que viria algum dia.{nl}Encontre e absorva a energia oculta dos Guardiões para abrir a porta secreta.
-QUEST_LV_0100_20150317_000687	$O esconderijo de meu irmão, a quem costumava servir, está localizado em #pending Abandoned Farm ao norte.{nl}Por favor pegue o diário de meu irmão lá.
+QUEST_LV_0100_20150317_000686	Nós ocultamos tesouros secretos para o #pending Revelator que viria algum dia.{nl}Encontre e absorva a energia oculta dos Guardiões para abrir a porta secreta.
+QUEST_LV_0100_20150317_000687	O esconderijo de meu irmão, a quem costumava servir, está localizado em #pending Abandoned Farm ao norte.{nl}Por favor pegue o diário de meu irmão lá.
 QUEST_LV_0100_20150317_000688	Grita
-QUEST_LV_0100_20150317_000689	{memo X}Parece que há mais monstros aqui agora comparado ao número que estava presente antes de perder minha conciência.{nl}Algo aconteceu a Gabija?
-QUEST_LV_0100_20150317_000690	{memo X}Pode ser melhor para Gabija que ela saiba que estamos aqui.{nl}Há um poste no qual podemos acender luz. Vamos.
-QUEST_LV_0100_20150317_000691	{memo X}Bom. Desde que ela saiba que viemos, recuperará sua saúde.{nl}Vamos subir para ver Gabija.{nl}{nl}
-QUEST_LV_0100_20150317_000692	$#pending Guardian of the Kingdom's Secret Treasures
+QUEST_LV_0100_20150317_000689	Parece que há mais monstros aqui agora comparado ao número que estava presente antes de perder minha conciência.{nl}Algo aconteceu a Gabija?
+QUEST_LV_0100_20150317_000690	Pode ser melhor para Gabija que ela saiba que estamos aqui.{nl}Há um poste no qual podemos acender luz. Vamos.
+QUEST_LV_0100_20150317_000691	Bom. Desde que ela saiba que viemos, recuperará sua saúde.{nl}Vamos subir para ver Gabija.{nl}{nl}
+QUEST_LV_0100_20150317_000692	#pending Guardian of the Kingdom's Secret Treasures
 QUEST_LV_0100_20150317_000693	Você é qualificado para receber os tesouros secretos.
-QUEST_LV_0100_20150317_000694	{memo X}
-QUEST_LV_0100_20150317_000695	$O supressor mágico do túmulo pode ser destruído usando as pedras ativadoras encontradas dentro dos Guardiões.{nl}A mágica suprimida do túmulo se libertará e suprimirá a energia perversa.
-QUEST_LV_0100_20150317_000696	$Essa presença maligna deixou apenas nomes de demônios para os Guardiões.{nl}Os Guardiões destruirão o #pending Royal Mausoleum sem saber que o #pending Revelator está aqui.{nl}
-QUEST_LV_0100_20150317_000697	$Pare o Guardião final, Bearkaras, antes que ele destrua o #pending Royal Mausoleum.
-QUEST_LV_0100_20150317_000698	$Pare o Guardião final, Bearkaras, antes que ele destrua o #pending Royal Mausoleum.{nl}
-QUEST_LV_0100_20150317_000699	{memo X}
-QUEST_LV_0100_20150317_000700	$Esse monstro é chamado Moa. {nl}Ele fugiu para #pending Leipsna Chapel Site ao oeste.{nl}
+QUEST_LV_0100_20150317_000694	
+QUEST_LV_0100_20150317_000695	O supressor mágico do túmulo pode ser destruído usando as pedras ativadoras encontradas dentro dos Guardiões.{nl}A mágica suprimida do túmulo se libertará e suprimirá a energia perversa.
+QUEST_LV_0100_20150317_000696	Essa presença maligna deixou apenas nomes de demônios para os Guardiões.{nl}Os Guardiões destruirão o #pending Royal Mausoleum sem saber que o #pending Revelator está aqui.{nl}
+QUEST_LV_0100_20150317_000697	Pare o Guardião final, Bearkaras, antes que ele destrua o #pending Royal Mausoleum.
+QUEST_LV_0100_20150317_000698	Pare o Guardião final, Bearkaras, antes que ele destrua o #pending Royal Mausoleum.{nl}
+QUEST_LV_0100_20150317_000699	
+QUEST_LV_0100_20150317_000700	Esse monstro é chamado Moa. {nl}Ele fugiu para #pending Leipsna Chapel Site ao oeste.{nl}
 QUEST_LV_0100_20150317_000701
 QUEST_LV_0100_20150317_000702
 QUEST_LV_0100_20150317_000703
